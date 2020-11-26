@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <!-- tei-like text fragment file.  created 20150720.  page numbers need checking and some blank pages will need to be added -->
+   <!-- Needs verification and collation. -->
+   <div>
+      <pb n="0955"/>
+      <head/>
+      <p>
+         <note><persName xml:id="YanShigu顏師古">師古</persName>曰：「志，記也，積記其事也。<bibl
+               xml:id="Chunqiuzuoshizhuan春秋左氏傳">春秋左氏傳</bibl>曰『前志有之』。」</note>
+      </p>
+      <p><bibl xml:id="Yushu虞書">虞書</bibl>曰「乃同律度量衡」， <note>[一]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「<bibl xml:id="Yushu虞書">虞書</bibl>，<bibl xml:id="Shundian舜典"
+            >舜典</bibl>也。同謂齊等。」</note> 所以齊遠近立民信也。自<persName xml:id="FuXi伏戲">伏戲</persName>畫八卦，由數起，
+     
+         <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「萬物之數，因八卦而起也。」</note>
+            至<persName xml:id="Huangdi黃帝">黃帝</persName>、<persName xml:id="Yao堯"
+            >堯</persName>、<persName xml:id="Shun舜">舜</persName>而大備。<place xml:id="Sandai三代"
+            >三代</place>稽古，法度章焉。 <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<place
+               xml:id="Sandai三代">三代</place>，<place xml:id="Xia夏">夏</place>、<place xml:id="Yin殷"
+               >殷</place>、<place xml:id="Zhou周">周</place>也。稽，考也。考於古事，而法度益明。」</note>
+         <place xml:id="Zhou周">周</place>衰官失，<persName xml:id="KongZi孔子"
+         >孔子</persName>陳後王之法，曰：「謹權量，審法度，修廢官，舉逸民，四方之政行矣。」 <note>[四]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「此<bibl xml:id="Lunyu論語">論語</bibl>載<persName xml:id="KongZi孔子"
+               >孔子</persName>述古帝王之政，以示後世。權謂斤兩也。量，斗斛也。法度，丈尺也。逸民，謂有德而隱處者。」</note>
+         <place xml:id="Han漢">漢</place>興，<persName xml:id="ZhangCang張蒼">北平侯張蒼</persName>首律曆事，
+               <note>[五]<persName xml:id="YanShigu顏師古">師古</persName>曰：「首謂始定也。」</note>
+         <persName xml:id="LiuChe劉徹">孝武帝</persName>時樂官考正。 <note>[六]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「更質正其事。」</note> 至<date type="regnal">元始</date>中<persName
+            xml:id="WangMang王莽2">王莽</persName>秉政，欲燿名譽，徵天下通知鐘律者百（餘）餘人， <note>百（餘）餘人， <date
+               type="regnal">景祐</date>、<place>殿</place>、<place>局</place>本都不重「餘」字。</note>
+            使羲和<persName xml:id="LiuXin劉歆1">劉歆</persName>等典領條奏，言之最詳。故刪其偽辭，取正義，著于篇。
+               <note>[七]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<persName xml:id="BanGu班固"
+               >班氏</persName>自云作志取<persName xml:id="LiuXin劉歆1"
+            >劉歆</persName>之義也。自此以下訖於『用竹為引者，事之宜也』，則其辭焉。」</note>
+      </p>
+      <pb n="0956"/>
+      <p>一曰備數，二曰和聲，三曰審度，四曰嘉量，五曰權衡。參五以變，錯綜其數，稽之於古今，効之於氣物，和之於心耳，考之於經傳，咸得其實，靡不協同。</p>
+      <p>數者，一、十、百、千、萬也，所以算數事物，順性命之理也。<bibl xml:id="Shu書">書</bibl>曰：「先其算命。」 <note>[一]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「<bibl xml:id="Yishu逸書"
+            >逸書</bibl>也。言王者統業，先立算數以命百事也。」</note> 本起於黃鐘之數，始於一而三之，三三積之， <note>[二]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「黃鐘，子之律也。子數一。泰極元氣含三為一，是以一數變而為三也。」</note>
+         歷十二辰之數，十有七萬七千一百四十七，而五數備矣。 <note>[三]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「初以子一乘丑三，餘則轉因其成數以三乘之，歷十二辰，得是積數也。五行陰陽變化之數備於此矣。」</note>
+         其算法用竹，徑一分，長六寸，二百七十一枚而成六觚，為一握。 <note>[四]<persName xml:id="SuLin蘇林"
+            >蘇林</persName>曰：「六觚，六角也。度角至角，其度一寸，面容一分，算九枚，相因之數有十，正面之數實九，其表六九五十四，算中積凡得二百七十一枚。」</note>
+         徑象乾律黃鐘之一，而長象坤呂林鐘之長。 <note>[五]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「林鐘長六寸。」<persName
+               xml:id="WeiZhao韋昭">韋昭</persName>曰：「黃鍾管九寸，十分之一，得其一分也。」</note> 其數以<bibl xml:id="Yi易"
+            >易</bibl>大衍之數五十，其用四十九，成陽六爻，得周流六虛之象也。 <note>[六]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「以四十九成陽六爻為乾，乾之策數二百一十六，以成六爻，是為周流六虛之象也。」</note> 夫推曆生律
+               <note>[七]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「推曆十二辰以生律呂也。」</note> 制器，
+            <note>夫推曆生律[七]制器， <persName xml:id="WangXianqian王先謙">王先謙</persName>說「制器」二字上屬為句。</note>
+         規圜矩方，權重衡平，準繩嘉量， <note>[八]<persName xml:id="ZhangYan張晏"
+            >張晏</persName>曰：「準，水平。量知多少，故曰嘉。」</note> 探賾索隱，鉤深致遠，莫不用焉。 <note>[九]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「賾亦深也。索，求也。」</note> 度長短者不失豪氂， <note>[一０]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「豪，兔豪也。十豪為氂。」<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「度音大各反。」</note> 量多少者不失圭撮， <note>[一一]<persName xml:id="YingShao應劭"
+               >應劭</persName>曰：「圭，自然之形，陰陽之始也。四圭曰撮，三指撮之也。」<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「六十四黍為圭。」<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「撮音倉括反。」</note> 權輕重者不失黍絫。 <note>[一二]孟康曰：「絫音（墨）蠡。」 絫音（墨）蠡。 <date
+               type="regnal">景祐</date>本無「墨」字。 <persName xml:id="YingShao應劭"
+               >應劭</persName>曰：「十黍為絫，十絫為一銖。」<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「絫，<persName xml:id="MengKang孟康">孟</persName>音來戈反，此字讀亦音纍紲之纍。」</note>
+         紀於一，協於十，長於百，大於千，衍於萬，其法在算術。宣於天下，小學是則。職在太史，羲和掌之。</p>
+      <pb n="0957"/>
+      <p>聲者，宮、商、角、徵、羽也。所以作樂者，諧八音，蕩（降）〔滌〕人之邪意， <note>蕩（降）〔滌〕人之邪意， <date type="regnal"
+               >景祐</date>、<place xml:id="">殿</place>、<place xml:id="">局</place>本都作「滌」。</note>
+         全其正性，移風易俗也。八音：土曰塤， <note>[一]<persName xml:id="YingShao應劭">應劭</persName>曰：「<bibl
+               xml:id="Shiben世本">世本</bibl><persName xml:id="Baoxingong暴辛公"
+               >暴辛公</persName>作塤。」<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「燒土為之，其形銳上而平底，六孔吹之。塤音許元反，字或作壎，其音同耳。」</note> 匏曰笙， <note>[二]<persName
+               xml:id="YingShao應劭">應劭</persName>曰：「<bibl xml:id="Shiben世本">世本</bibl><place
+               xml:id="Sui隨">隨</place>作笙。」<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「匏，瓠也。列管瓠中，施簧管端。」</note> 皮曰鼓， <note>[三]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「鼓者郭也，言郭張皮而為之。」</note> 竹曰管， <note>[四]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「<bibl xml:id="Liyueqiji禮樂器記">禮樂器記</bibl>，管，漆竹，長一尺，六孔。<bibl
+               xml:id="Shangshudazhuan尚書大傳">尚書大傳</bibl>，<persName xml:id="Xiwangmu西王母"
+               >西王母</persName>來獻白玉琯。<persName xml:id="LiuDa劉炟">漢章帝</persName>時<place
+               xml:id="Lingling零陵">零陵</place>文學<persName xml:id="XiJing奚景">奚景</persName>於<place
+               xml:id="Lingdaoshun泠道舜">泠道舜</place>祠下得白玉琯。古以玉作，不但竹也。」</note> 絲曰絃，石曰磬，金曰鐘，木<pb n="0958"/>曰柷。 <note>[五]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「柷與俶同，俶，始也。樂將作，先鼓之，故謂之柷。狀如漆桶，中有椎，連底動之，令左右擊。音昌六反。」</note>
+         五聲和，八音諧，而樂成。商之為言章也，物成孰可章度也。 <note>[六]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「度音大各反。」</note>
+         角，觸也，物觸地而出，戴芒角也。宮，中也，居中央，暢四方，唱始施生，為四聲綱也。徵，祉也，物盛大而祉也。羽，宇也，物聚臧宇覆之也。夫聲者，中於宮，觸於角，祉於徵，章於商，宇於羽，故四聲為宮紀也。協之五行，則角為木，五常為仁，五事為貌。商為金為義為言，徵為火為禮為視，羽為水為智為聽，宮為土為信為思。以君臣民事物言之，則宮為君，商為臣，角為民，徵為事，羽為物。唱和有象，故言君臣位事之體也。</p>
+      <p>五聲之本，生於黃鐘之律。九寸為宮，或損或益，以定商、角、徵、羽。九六相生，陰陽之應也。律十有二，陽六為律，陰六為呂。律以統氣類物，一曰黃鐘，二曰太族，
+               <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「族音千豆反。其下並同。」</note>三曰姑<pb n="0959"/>洗，四曰蕤賓，五曰夷則，六曰亡射。 <note>[二]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「亡讀曰無。射音亦石反。」</note> 呂以旅陽宣氣，一曰林鐘，二曰南呂，三曰應鐘，四曰大呂，五曰夾鐘，六曰中呂。
+               <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「中讀曰仲。」</note>
+            有三統之義焉。其傳曰，<persName xml:id="Huangdi黃帝">黃帝</persName>之所作也。<persName xml:id="Huangdi黃帝"
+            >黃帝</persName>使<persName xml:id="Linglun泠綸">泠綸</persName>， <note>[四]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「泠音零。綸音倫也。」</note> 自<place xml:id="Daxia大夏"
+            >大夏</place>之西， <note>[五]<persName xml:id="YingShao應劭">應劭</persName>曰：「<place
+               xml:id="Daxia大夏">大夏</place>，<orgName xml:id="Xirong西戎">西戎</orgName>之國也。」</note>
+         <place xml:id="Kunlun昆侖">昆侖</place>之陰，取竹之<place xml:id="Jiegu解谷">解谷</place>
+         <note>[六]<persName xml:id="MengKang孟康">孟康</persName>曰：「解，脫也。谷，竹溝也。取竹之脫無溝節者也。一說<place
+               xml:id="Kunlun昆侖">昆侖</place>之北谷名也。」<persName xml:id="JinZhuo晉灼"
+            >晉灼</persName>曰：「谷名是也。」</note> 生，其竅厚均者， <note>[七]<persName xml:id="YingShao應劭"
+               >應劭</persName>曰：「生者，治也。竅，孔也。」<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「竹孔與肉薄厚等也。」<persName xml:id="JinZhuo晉灼"
+            >晉灼</persName>曰：「取谷中之竹，生而（孔外肉）〔肉孔外內〕厚薄自然均者， 生而（孔外肉）〔肉孔外內〕厚薄自然均者， 據<date type="regnal"
+               >景祐</date>、<place>殿</place>、<place>局</place>本改。 截以為筩，不復加削刮也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「<persName xml:id="JinZhuo晉灼"
+            >晉</persName>說是也。」</note> 斷兩節間而吹之， <note>取竹之<place xml:id="Jiegu解谷"
+            >解谷</place>[六]生，其竅厚均者，[七]斷兩節間而吹之， 注[六]在「解谷」下，明<persName xml:id="MengKang孟康"
+               >孟康</persName>以「生」字連下文讀。 <persName xml:id="ChenHao陳浩"
+               >陳浩</persName>說此於文義不順，當以「取竹之<place xml:id="Jiegu解谷"
+               >解谷</place>生」為讀，「其竅均厚者」為句，於文始順。<persName xml:id="WangXianqian王先謙"
+               >王先謙</persName>說句讀當如<persName xml:id="ChenHao陳浩">陳</persName>說，猶言<place
+               xml:id="Jiegu解谷">解谷</place>所生耳。</note> 以為黃鐘之宮。 <note>[八]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「黃鐘之宮，律之最長者。」</note> 制十二筩以聽鳳之鳴，
+               <note>[九]<persName xml:id="YanShigu顏師古">師古</persName>曰：「筩音大東反。」</note>
+         其雄鳴為六，雌鳴亦六，比黃鐘之宮，而皆可以生之，是為律本。 <note>[一０]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「比，合也。可以生之，謂上下相生也，故謂之律本。比音頻寐反。」</note> 至治之世，天地之氣合以生風；天地之風氣正，十二律定。
+               <note>[一一]<persName xml:id="MengKang孟康">孟康</persName>曰：「律得風氣而成聲，風和乃律調也。」<persName
+               xml:id="ChenZan臣瓚">臣瓚</persName>曰：「風氣正則十二月之氣各應其律，不失其序。」</note>
+         黃鐘：黃者，中之色，君之服也；鐘者，種也。天之中數五， <note>[一二]<persName xml:id="WeiZhao韋昭"
+            >韋昭</persName>曰：「一三在上，七九在下。」</note> 五為聲，聲上宮，五聲莫大焉。地之中數六， <note>[一三]<persName
+               xml:id="WeiZhao韋昭">韋昭</persName>曰：「二四在上，八十在下。」</note>
+         六為律，律有形有色，色上黃，五色莫盛焉。故陽氣施種於黃泉，孳萌萬物， <note>[一四]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「孳讀與滋同，滋，益也。萌，始生。」</note> 為六氣元也。以黃色名元氣律者，著宮聲也。宮以九唱六， <note>[一五]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「黃鐘陽九，林鐘陰六，言陽唱陰和。」</note>
+         變動不居，周流六虛。始於子，在十一月。大呂：呂，旅也，言陰大，旅助黃鐘（宮）〔宣〕氣而牙物也。 <note>言陰大，旅助黃鐘（宮）〔宣〕氣而牙物也。 <date
+               type="regnal">景祐</date>、<place xml:id="">殿</place><place xml:id=""
+            >本</place>都作「宣」。</note> 位於丑，在十二月。太族：族，奏也，言陽氣大，奏地而達物也。 <note>[一六]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「奏，進也。」</note>
+         位於寅，在正月。夾鐘，言陰夾助太族宣四方之氣而出種物也。位於卯，在二月。姑洗：洗，絜也，言陽氣洗物辜絜之也。 <note>[一七]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「辜，必也，必使之絜也。」</note>
+         位於辰，在三月。中呂，言微陰始起未成，著於其中旅助姑洗宣氣齊物也。位於巳，在四月。蕤賓：蕤，繼也，賓，導也，言陽始導陰氣使繼養物也。位於午，在五月。林鐘：林，君也，言陰氣受任，助蕤賓君主種物使長大楙盛也。
+               <note>[一八]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「種物，種生之物。楙，古茂字也。種音之勇反。」</note> 位於未，在六月。夷則：則，法也，言陽氣正法度而使陰氣夷當傷之物也。
+               <note>[一九]<persName xml:id="YanShigu顏師古">師古</persName>曰：「夷亦傷。」</note>
+         位於申，在七月。南呂：南，任也，言陰氣旅助夷則任成萬物也。位於酉，在八<pb n="0960"/>月。亡射：射，厭也，言陽氣究物而使陰氣畢剝落之，終而復始，亡厭已也。位於戌，在九月。應鐘，言陰氣應亡射，該臧萬物而雜陽閡種也。 <note>[二０]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「（該）〔閡〕，臧塞也， （該）〔閡〕，臧塞也。 <date type="regnal"
+               >景祐</date>、<place xml:id="">殿</place>本都作「閡」。 <persName> </persName>說作「閡」是。
+               陰雜陽氣，臧塞為萬物作種也。」<persName xml:id="JinZhuo晉灼">晉灼</persName>曰：「外閉曰閡。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「閡音胡待反。下言『該閡於亥』，音訓並同也。」</note> 位於亥，在十月。</p>
+   <pb n="0961"/>
+      <p>三統者，天施，地化，人事之紀也。 <note>[一]<persName xml:id="LiQi李奇">李奇</persName>曰：「統，緒也。」</note> 十一月，<bibl
+            xml:id="Qian乾">乾</bibl>之初九，陽氣伏於地下，始著為一，萬物萌動，鐘於太陰，故黃鐘為天統，律長九寸。九者，所以究極中和，為萬物元也。<bibl
+            xml:id="Yi易">易</bibl>曰：「立天之道，曰陰與陽。」 <note>[二]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「<bibl xml:id="Yi易">易</bibl><bibl xml:id="Shuogua說卦"
+            >說卦</bibl>之辭。」</note> 六月，<bibl xml:id="Kun坤"
+         >坤</bibl>之初六，陰氣受任於太陽，繼養化柔，萬物生長，楙之於未，令種剛彊大，故林鐘為地統，律長六寸。六者，所以含陽之施，楙之於六合之內，令剛柔有體也。「立地之道，曰柔與剛。」
+               <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「此亦<bibl xml:id="Shuogua說卦"
+               >說卦</bibl>之辭也。」</note> 「<bibl xml:id="Qian乾">乾</bibl>知太始，<bibl xml:id="Kun坤"
+         >坤</bibl>作成物。」 <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「此<bibl
+               xml:id="Shangji上繫">上繫</bibl>之辭。」</note> 正月，<bibl xml:id="Qian乾">乾</bibl>之九三，萬物棣通，
+               <note>[五]<persName xml:id="MengKang孟康">孟康</persName>曰：「棣謂通意也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「棣音替。」</note>
+            族出於寅，人奉而成之，仁以養之，義以行之，令事物各得其理。寅，木也，為仁；其聲，商也，為義。故太族為人統，律長八寸，象八卦，<persName xml:id="FuXi伏戲"
+            >宓戲氏</persName>之所以順天地，通神明，類萬物之情也。 <note>[六]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「宓讀與伏同。」</note> 「立人之道，曰仁與義。」 <note>[七]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「此<bibl xml:id="Shuogua說卦">說卦</bibl>之辭。」</note> 「在天成象，在地成形。」
+               <note>[八]<persName xml:id="YanShigu顏師古">師古</persName>曰：「此<bibl xml:id="Shangji上繫"
+               >上繫</bibl>之辭。」</note> 「后以裁成天地之道，輔相天地之宜，以左右民。」 <note>[九]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「此<bibl xml:id="Taigua泰卦"
+            >泰卦</bibl>象辭也。后，君也，謂王者也。左右，助也。左讀曰佐。右讀曰佑。」</note> 此三律之謂矣，是為三統。</p>
+   <pb n="0962"/>
+      <p>其於三正也，黃鐘子為天正， <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「正音之成反。下皆類此。」</note>
+            林鐘未之行童丑為地正，太族寅為人正。三正正始，是以地正適其始紐於陽東北丑位。<bibl xml:id="Yi易">易</bibl>曰「東北喪朋，乃終有慶」，
+               <note>[二]<persName xml:id="MengKang孟康">孟康</persName>曰：「未在西南，陽也，陰而入陽，為失其類也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「此<bibl xml:id="Kungua坤卦">坤卦</bibl>彖辭。」</note>
+         答應之道也。及黃鐘為宮，則太族、姑洗、林鐘、南呂皆以正聲應，無有忽微， <note>[三]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「忽微，若有若無，細於髮者也。謂正聲無有殘分也。」</note>
+         不復與它律為役者，同心一統之義也。非黃鐘而它律，雖當其月自宮者，則其和應之律有空積忽微， <note>[四]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「十二月之氣各以其月之律為宮，非五音之正，則聲有高下差降也。空積，若<persName xml:id="ZhengDe鄭德"
+            >鄭氏</persName>分一寸為數千。」</note> 不得其正。此黃鐘至尊，亡與並也。</p>
+   <pb n="0963"/>
+      <p><bibl xml:id="Yi易">易</bibl>曰：「參天兩地而倚數。」 <note>[一]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「<bibl xml:id="Yishuogua易說卦"
+            >易說卦</bibl>之辭也。倚，立也。參謂奇也，兩謂耦也。七九陽數，六八陰數。」</note>
+         天之數始於一，終於二十有五。其義紀之以三，故置一得三，又二十五分之六，凡二十五置，終天之數，得八十一，以天地五位之合終於十者乘之，為八百一十分，應曆一統
+               <note>[二]<persName xml:id="MengKang孟康">孟康</persName>曰：「十九歲為一章，一統凡八十一章。」</note>
+         千五百三十九歲之章數，黃鐘之實也。繇此之義， <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「繇讀（為）〔與〕由同。
+               繇讀（為）〔與〕由同。<date type="regnal"> 景祐</date>、<place xml:id="">殿</place>本都作「與」。 <persName
+               xml:id="WangXianqian王先謙">王先謙</persName>說作「與」是。由，用也。」</note> 起十二律之周徑。
+               <note>[四]<persName xml:id="MengKang孟康">孟康</persName>曰：「律孔徑三分，參天之數也；圍九分，終天之數也。」</note>
+         地之數始於二，終於三十。其義紀之以兩，故置一得二，凡三十置，終地之數，得六十，以地中數六乘之，為三百六十分，當期之日，林鐘之實。 <note>[五]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「林鐘長六寸，圍六分。以圍乘長，得積三百六十分也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「期音基。謂十二月為一期也。」</note>
+         人者，繼天順地，序氣成物，統八卦，調八風，理八政，正八節，諧八音，舞八佾，監八方，被八荒，以終天地之功，故八八六十四。其義極天地之變，以天地五位之合終於十者乘之，為六百四十分，以應六十四卦，大族之實也。
+               <note>[六]<persName xml:id="MengKang孟康">孟康</persName>曰：「大族長八寸，圍八分，為積六百四十分也。」</note>
+         <bibl xml:id="Shu書">書</bibl>曰：「天功人其代之。」 <note>[七]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「<bibl xml:id="Yushu虞書">虞書</bibl><bibl xml:id="Jiuyaomo咎繇謨"
+               >咎繇謨</bibl>也。言聖人稟天造化之功代而行之。」</note> 天兼地，人則天，故以五位之合乘焉，「唯天為大，唯<persName xml:id="Yao堯"
+            >堯</persName>則之」之象也。 <note>[八]<persName xml:id="YanShigu顏師古">師古</persName>曰：「則，法也。<bibl
+               xml:id="Lunyu論語">論語</bibl>稱<persName xml:id="KongZi孔子">孔子</persName>曰『大哉<persName
+               xml:id="Yao堯">堯</persName>之為君也，唯天為大，唯<persName xml:id="Yao堯"
+               >堯</persName>則之』，美<persName xml:id="Yao堯">帝堯</persName>能法天而行化。」</note>
+         地以中數乘者，陰道理內，在中餽之象也。 <note>[九]<persName xml:id="YanShigu顏師古">師古</persName>曰：「餽字與饋同。<bibl
+               xml:id="Yi易">易</bibl><bibl xml:id="Jiarengua家人卦"
+            >家人卦</bibl>六二爻辭曰『无攸遂，在中饋』，言婦人之道，取象於陰，無所必遂，但居中主饋食而已，故云然。」</note>
+         三統相通，故黃鐘、林鐘、太族律長皆全寸而亡餘分也。</p>
+   <pb n="0964"/>
+      <p>天之中數五，地之中數六，而二者為合。六為虛，五為聲，周流於六虛。虛者，爻律夫陰陽，登降運行，列為十二，而律呂和矣。太極元氣，函三為一。 <note>[一]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「元氣始起於子，未分之時，天地人混合為一，故子數獨一也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「函讀與含同。後皆類此。」</note>
+         極，中也。元，始也。行於十二辰，始動於子。參之於丑，得三。又參之於寅，得九。又參之於卯，得二十七。又參之於辰，得八十一。又參之於巳，得二百四十三。又參之於午，得七百二十九。又參之於未，得二千一百八十七。又參之於申，得六千五百六十一。又參之於酉，得萬九千六百八十三。又參之於戌，得五萬九千四十九。又參之於亥，得十七萬七千一百四十七。此陰陽合德，氣鐘於子，化生萬物者也。故孳萌於子，紐牙於丑，引達於寅，冒茆於卯，
+               <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「茆謂叢生也，音莫保反。」</note>
+         振美於辰，已盛於巳，咢布於午， <note>[三]<persName xml:id="SuLin蘇林">蘇林</persName>曰：「咢音愕。」</note> 昧薆於未，
+               <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「薆，蔽也，音愛。」</note>
+         申堅於申，留孰於酉，畢入於戌，該閡於亥。出甲於甲，奮軋於乙， <note>[五]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「軋音於黠反。」</note> 明炳於丙，大盛於丁，豐楙於戊，理紀於己，斂更於庚，悉新於辛，懷<pb n="0965"/>任於壬，陳揆於癸。故陰陽之施化，萬物之終始，既類旅於律呂，又經歷於日辰，而變化之情可見矣。</p>
+      <p><name type="tianwen">玉衡</name>杓建，天之綱也； <note>[一]<persName xml:id="RuChun如淳"
+               >如淳</persName>曰：「杓音猋，斗端星也。」<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「斗在天中，周制四方，猶宮聲處中，為四聲綱也。」<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「杓音必遙反。」</note> 日月初（纏）〔躔〕， <note>日月初（纏）〔躔〕， <date type="regnal"
+               >景祐</date>、<place xml:id="">殿</place>本都作「躔」，<persName xml:id="MengKang孟康"
+               >孟康</persName>注同。</note> 星之紀也。 <note>[二]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「（纏）〔躔〕，舍也。二十八舍列在四方，日月行焉，起於<name type="tianwen"
+                  >星紀</name>，而又周之，猶四聲為宮紀也。」<persName xml:id="JinZhuo晉灼">晉灼</persName>曰：「下言<name type="tianwen">斗</name>綱之端連貫<name type="tianwen">營室</name>，<name
+                     type="tianwen">織女</name>之紀指牽牛之初，以紀日月，故曰<name type="tianwen"
+               >星紀</name>。五星起其初，日月起其中。是謂天之綱紀也。」<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「躔，踐也，音直連反。」</note> 綱紀之交，以原始造設，合樂用焉。律呂唱和，以育生成化，歌奏用焉。指顧取象，然後陰陽萬物靡不條鬯該成。
+               <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「條，達也。鬯與暢同。」</note> 故以成之數忖該之積，
+               <note>[四]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「成之數者，謂黃鐘之法數。該之積，為黃鐘變生十二辰積實之數也。忖，除也。言以法數除積得九寸，卽黃鐘之長也。言該者，該衆律之數也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「忖音千本反。」</note> 如法為一寸，則黃鐘之長也。 <note>[五]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「得一寸，則所謂得九寸也。言一者，張法辭。」</note> 參分損一，下生林鐘。
+               <note>[六]<persName xml:id="ZhangYan張晏"
+               >張晏</persName>曰：「黃鐘長九寸，以二乘九得十八，以三除之，得林鐘六寸。其法率如此，推當算乃解。」<persName xml:id="JinZhuo晉灼"
+               >晉灼</persName>曰：「<persName xml:id="CaiYong蔡邕">蔡邕</persName><bibl xml:id="Lvliji律曆記"
+               >律曆記</bibl>『凡陽生陰曰下，陰生陽曰上』也。」</note>
+         參分林鐘益一，上生太族。參分太族損一，下生南呂。參分南呂益一，上生姑洗。參分姑洗損一，下生應鐘。參分應鐘益一，上生蕤賓。參分蕤賓損一，下生大呂。參分大呂益一，上生夷則。參分夷則損一，下生夾鐘。參分夾鐘益一，上生亡射。參分亡射損一，下生中呂。陰陽相生，自黃鐘始而左旋，八八為伍。
+               <note>[七]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「從子數辰至未得八，下生林鐘。數未至寅得八，上生太族。律上下相生，皆以此為率。伍，耦也，八八為耦。」</note>
+         其法皆用銅。職在大樂，太常掌之。</p>
+      <pb n="0966"/>
+      <p>度者，分、寸、尺、丈、引也，所以度長短也。 <note>[一]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「度音大各反。下皆類此。」</note> 本起黃鐘之長。以子穀秬黍中者， <note>[二]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「子北方，北方黑，謂黑黍也。」<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「此說非也。子穀猶言穀子耳，秬卽黑黍，無取北方為號。中者，不大不小也。言取黑黍穀子大小中者，率為分寸也。秬音鉅。」</note>
+         一黍之廣，度之九十分，黃鐘之長。一為一分，十分為寸，十寸為尺，十尺為丈，十丈為引，而五度審矣。其法用銅，高一寸，廣二寸，長一丈，而分寸尺丈存焉。用竹為引，高一分，廣六分，長十丈，其方法矩，高廣之數，陰陽之象也。
+               <note>[三]<persName xml:id="MengKang孟康"
+         >孟康</persName>曰：「高一分，廣六分。一為陽，六為陰也。」</note>分者，自三微而成著，可分別也。寸者，忖也。<pb n="0967"/>尺者，也。 <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「音約。」</note> 丈者，張也。引者，信也。
+               <note>[五]<persName xml:id="YanShigu顏師古">師古</persName>曰：「信讀曰伸，言其長。」</note>
+         夫度者，別於分，忖於寸，於尺，張於丈，信於引。引者，信天下也。職在內官， <note>[六]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「內官，署名也。<bibl xml:id="Baiguanbiao百官表"
+            >百官表</bibl>云『內官長丞，初屬少府，中屬主爵，後屬宗正』。」</note> 廷尉掌之。 <note>[七]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「法度所起，故屬廷尉也。」</note>
+      </p>
+      <p>量者，龠、合、升、斗、斛也， <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「龠音籥。合音閤。」</note>
+         所以量多少也。 <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「量音力張反。」</note>
+         本起於黃鐘之龠，用度數審其容， <note>[三]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「因度以生量也。其容，謂其中所容受之多少也。」</note> 以子穀秬黍中者千有二百實其龠，以井水準其槩。 <note>[四]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「槩欲其直，故以水平之。井水清，清則平也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「槩所以槩平斗斛之上者也，音工代反，又音工內反。」</note>
+         合龠為合，十合為升，十升為斗，十斗為斛，而五量嘉矣。 <note>[五]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「嘉，善也。」</note> 其法用銅，方尺而圜其外，旁有庣焉。 <note>[六]<persName xml:id="ZhengDe鄭德"
+               >鄭氏</persName>曰：「庣音條桑之條。庣，過也。算方一尺，所受一斛，過九氂五豪，然後成斛。今尚方有<persName xml:id="WangMang王莽2"
+               >王莽</persName>時銅斛，制盡與此同。」<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「庣，不滿之處也，音吐彫反。」</note> 其上為斛，其下為斗。 <note>[七]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「其上謂仰斛也，其下謂覆斛之底，受一斗。」</note> 左耳為升，右耳為合龠。其狀似爵，以縻爵祿。 <note>[八]<persName
+               xml:id="JinZhuo晉灼">晉灼</persName>曰：「縻，散也。」</note>
+         上三下二，參天兩地，圜而函方，左一右二，陰陽之象也。其圜象規，其重二鈞，備氣物之數，合萬有一千五百二十。 <note>[九]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「三十斤為鈞，鈞萬一千五百二十銖。」</note>聲中黃鐘，始於<pb n="0968"/>黃鐘而反覆焉， <note>[一０]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「反斛聲中黃鐘，覆斛亦中黃鐘之宮，宮為君也。」<persName xml:id="ChenZan臣瓚"
+               >臣瓚</persName>曰：「仰斛受一斛，覆斛受一斗，故曰反覆焉。」<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「覆音芳目反。」</note>
+         君制器之象也。龠者，黃鐘律之實也，躍微動氣而生物也。合者，合龠之量也。升者，登合之量也。斗者，聚升之量也。斛者，角斗平多少之量也。夫量者，躍於龠，合於合，登於升，聚於斗，角於斛也。職在太倉，大司農掌之。
+               <note>[一一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「米粟之量，故在太倉也。」</note>
+      </p>
+      <pb n="0969"/>
+      <p>衡權者，衡，平也，權，重也，衡所以任權而均物平輕重也。其道如底， <note>[一]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「底，平也，謂以底石厲物令平齊也。底音指。」</note> 以見準之正，繩之直，左旋見規，右折見矩。其在天也，佐助<name
+               type="tianwen">旋機</name>，斟酌建指，以齊七政， <note>[二]<persName xml:id="YanShigu顏師古"
+                  >師古</persName>曰：「七政，日、月、五星也。」</note> 故曰<name type="tianwen">玉衡</name>。<bibl
+            xml:id="Lunyu論語">論語</bibl>云：「立則見其參於前也， <note>[三]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「權、衡、量，三等為參。」</note> 在車則見其倚於衡也。」又曰：「齊之以禮。」此衡在前居南方之義也。</p>
+      <p>權者，銖、兩、斤、鈞、石也，所以稱物平施，知輕重也。本起於黃鐘之重。一龠容千二百黍，重十二銖，兩之為兩。二十四銖為兩。十六兩為斤。三十斤為鈞。四鈞為石。忖為十八，<bibl
+            xml:id="Yi易">易</bibl>十有八變之象也。 <note>[一]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「忖，度也，度其義有十八也。黃鐘、龠、銖、兩、鈞、斤、石凡七，與下十一象為十八也。」<persName
+               xml:id="ZhangYan張晏">張晏</persName>曰：「象<bibl xml:id="Yi易"
+            >易</bibl>三揲蓍而成一爻，十八變具六爻而成卦。」</note> 五權之制，以義立之，以物鈞之，其餘小大之差，以輕重為宜。圜而環之，令之肉倍好者，
+               <note>[二]<persName xml:id="MengKang孟康">孟康</persName>曰：「謂為（鐘）〔錘〕之形如環也。」 謂為（鐘）〔錘〕之形如環也。
+               <date type="regnal">景祐</date>、<place>殿</place>、<place>局</place>本都作「錘」。 <persName
+               xml:id="WangXianqian王先謙">王先謙</persName>說作「錘」是。 <persName xml:id="RuChun如淳"
+               >如淳</persName>曰：「體為肉，孔為好。」<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「錘者，稱之權也，音直垂反，又音直睡反。」</note> 周旋無端，終而復始，無窮已也。銖者，物繇忽微始，至於成著，可殊異也。
+               <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「繇讀與由同。由，從也。」</note>
+         兩者，兩黃鐘律之重也。 <note>[四]<persName xml:id="LiQi李奇">李奇</persName>曰：「黃鐘之管重十二銖，兩十二得二十四也。」</note>
+            二十四銖而成兩者，二十四氣之象也。斤者，明也，三百八十四銖，<bibl xml:id="Yi易"
+         >易</bibl>二篇之爻，陰陽變動之象也。十六兩成斤者，四時乘四方之象也。鈞者，均也，陽施其氣，陰化其物，皆得其成就平均也。權與物均，重萬一千五百二十銖，當萬物之象也。四百八十兩者，六旬行八節之象也。
+               <note>[五]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「六甲為六旬，一歲有八節，六甲周行成歲，以六乘八節得之。」</note>三十斤成鈞者，一月之象也。石者，<pb n="0970"/>大也，權之大者也。始於銖，兩於兩，明於斤，均於鈞，終於石，物終石大也。四鈞為石者，四時之象也。重百二十斤者，十二月之象也。終於十二辰而復於子，黃鐘之象也。
+               <note>[六]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「稱之數始於銖，終於石。石重百二十斤，象十二月。銖之重本取於子。律，黃鐘一龠容千二百黍，為十二銖，故曰復於子，黃鐘之象也。」</note>
+         千九百二十兩者，陰陽之數也。三百八十四爻，五行之象也。四萬六千八十銖者，萬一千五百二十物歷四時之象也。而歲功成就，五權謹矣。</p>
+      <p>權與物鈞而生衡， <note>[一]<persName xml:id="MengKang孟康">孟康</persName>曰：「謂錘與物鈞，所稱適停，則衡平也。」</note>
+         衡運生規，規圜生矩，矩方生繩，繩直生準， <note>[二]<persName xml:id="WeiZhao韋昭"
+            >韋昭</persName>曰：「立準以望繩，以水為平。」</note>
+         準正則平衡而鈞權矣。是為五則。規者，所以規圜器械，令得其類也。矩者，所以矩方器械，令不失其形也。規矩相須，陰陽位序，圜方乃成。準者，所以揆平取正也。繩者，上下端直，經緯四通也。準<pb n="0971"/>繩連體，衡權合德，百工繇焉，以定法式， <note>[三]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「繇讀與由同。由，用也。」</note> 輔弼執玉，以翼天子。 <note>[四]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「翼，助也。」</note>
+         <bibl xml:id="Shi詩">詩</bibl>云：「<persName xml:id="YinShi尹氏"
+         >尹氏</persName>大師，秉國之鈞，四方是維，天子是毗，俾民不迷。」 <note>[五]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「<bibl xml:id="Xiaoya小雅">小雅</bibl><bibl xml:id="Jienanshan節南山"
+               >節南山</bibl>之詩也。言<persName xml:id="YinShi尹氏"
+            >尹氏</persName>居太師之官，執持國之權量，維制四方，輔翼天子，使下無迷惑也。」</note>
+         咸有五象，其義一也。以陰陽言之，大陰者，北方。北，伏也，陽氣伏於下，於時為冬。冬，終也，物終臧，乃可稱。水潤下。知者謀，謀者重，故為權也。大陽者，南方。南，任也，陽氣任養物，於時為夏。夏，假也，物假大，乃宣平。火炎上。禮者齊，齊者平，故為衡也。少陰者，西方。西，遷也，陰氣遷落物，於時為秋。秋，米韋隹大也，
+               <note>[六]<persName xml:id="YanShigu顏師古">師古</persName>曰：「米韋隹火音子由反。」</note>
+         物米韋隹火斂，乃成孰。金從革，改更也。義者成，成者方，故為矩也。少陽者，東方。東，動也，陽氣動物，於時為春。春，蠢也，物蠢生，乃動運。木曲直。仁者生，生者圜，故為規也。中央者，陰陽之內，四方之中，經緯通達，乃能端直，於時為四季。土稼嗇蕃息。
+               <note>[七]<persName xml:id="YanShigu顏師古">師古</persName>曰：「蕃，多也。息，生也。蕃音扶元反。」</note>
+         信者誠，誠者直，故為繩也。五則揆物，有輕重圜方平直陰陽之義，四方四時之體，五常五行之象。厥法有品，各順其方而應其行。職在大行，鴻臚掌之。 <note>[八]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「平均曲直，齊一遠近，故在鴻臚。」</note>
+      </p>
+   <pb n="0972"/>
+      <p><bibl xml:id="Shu書">書</bibl>曰：「予欲聞六律、五聲、八音、七始詠，以出內五言，女聽。」 <note>[一]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「<bibl xml:id="Yushu虞書">虞書</bibl><bibl
+               xml:id="Yijipian益稷篇">益稷篇</bibl>所載<persName xml:id="Shun舜">舜</persName>與<persName
+               xml:id="Yu禹">禹</persName>言。」</note> 予者，<persName xml:id="Shun舜"
+         >帝舜</persName>也。言以律呂和五聲，施之八音，合之成樂。七者，天地四時人之始也。順以歌詠五常之言，聽之則順乎天地，序乎四時，應人倫，本陰陽，原情性，風之以德，感之以樂，
+               <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「以德化之，以樂動之。<bibl
+               xml:id="Shixu詩序">詩序</bibl>曰『上以風化下』。」</note> 莫不同乎一。唯聖人為能同天下之意，故<persName
+            xml:id="Shun舜"
+         >帝舜</persName>欲聞之也。今廣延羣儒，博謀講道，修明舊典，同律，審度，嘉量，平衡，鈞權，正準，直繩，立于五則，備數和聲，以利兆民，貞天下於一，同海內之歸。
+               <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「貞，正也。<bibl xml:id="Yi易"
+               >易</bibl><bibl xml:id="Xiaji下繫"
+            >下繫</bibl>之辭曰『天下之動貞夫一者也』，言皆以一為正也。又曰『天下同歸而殊塗，一致而百慮』，言途雖殊其歸則同，慮雖百其致則一也，故志引之云爾。」</note>
+         凡律度量衡用銅者，名自名也， <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「取銅之名，以合於同也。」</note>
+         所以同天下，齊風俗也。銅為物之至精，不為燥溼寒暑變其節，不為風雨暴露改其形，介然有常，有似於士君子之行， <note>[五]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「介然，特異之意。」</note> 是以用銅也。用竹為引者，事之宜也。
+               <note>[六]<persName xml:id="LiQi李奇">李奇</persName>曰：「引長十丈，高一分，廣六分，唯竹篾柔而堅為宜耳。」</note>
+      </p>
+   <pb n="0973"/>
+      <p>曆數之起上矣。傳述<persName xml:id="Zhuanxu顓頊">顓頊</persName>命南正<persName xml:id="Zhong重"
+            >重</persName>司天，火正<persName xml:id="Li黎">黎</persName>司地， <note>[一]<persName
+               xml:id="ChenZan臣瓚">臣瓚</persName>曰：「南正司天，則北正當司地，不得言火正也。古文火字與北相似，故遂誤耳。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「此說非也。<persName xml:id="BanGu班固"
+               >班固</persName><bibl xml:id="Youtongfu幽通賦">幽通賦</bibl>云『<persName xml:id="Li黎"
+               >玄黎</persName>醇耀於<persName xml:id="Gaoxin高辛">高辛</persName>』，是則<persName xml:id="Li黎"
+               >黎</persName>為火正也。」</note> 其後<place xml:id="Sanmao三苗">三苗</place>亂德，二官咸廢，
+               <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<place xml:id="Sanmao三苗"
+               >三苗</place>，國名，<persName xml:id="Jinyunshi縉雲氏">縉雲氏</persName>之後為諸侯者，卽<persName
+               xml:id="Taotie饕餮">饕餮</persName>也。二官，<persName xml:id="Zhong重">重</persName>、<persName
+               xml:id="Li黎">黎</persName>也。」</note> 而閏餘乖次， <note>[三]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「以歲之餘日為閏，故曰閏餘。次，十二次也。史推曆失閏，則斗建與月名錯也。」</note> 孟陬殄滅， <note>[四]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「正月為孟陬。曆紀廢絕，閏餘乖錯，不與正歲相值，謂之殄滅也。」</note>
+         <name type="tianwen">攝提</name>失方。 <note>[五]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「<name type="tianwen">攝提</name>，星名，隨斗杓所指建十二月，若曆誤，春三月當指辰而乃指巳，是為失方也。」</note>
+         <persName xml:id="Yao堯">堯</persName>復育<persName xml:id="Zhong重">重</persName>、<persName
+            xml:id="Li黎">黎</persName>之後，使纂其業，故<bibl xml:id="Shu書"
+         >書</bibl>曰：「乃命羲、和，欽若昊天，曆象日月星辰，敬授民時。」「歲三百有六旬有六日，以閏月定四時成歲，允釐百官，衆功皆美。」 <note>[六]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「此皆<bibl xml:id="Yushu虞書">虞書</bibl><bibl
+               xml:id="Yaodian堯典">堯典</bibl>之辭也。欽，敬；若，順也。昊天，言天氣廣大也。星，四方之中星也。辰，日月所會也。羲氏、和氏，<persName
+               xml:id="Zhong重">重</persName>、<persName xml:id="Li黎">黎</persName>之後，以其繼掌天地，故<persName
+               xml:id="Yao堯"
+            >堯</persName>命之，使敬順昊天，曆象星辰之分節，敬記天時，以授下人也。匝四時凡三百六十六日，而定一歲。十二月月三十日，正三百六十日，則餘六日矣。又除小月六日，是為歲有餘十二日，未盈三歲，便得一月，則置閏焉，以定四時之氣節，成一歲之曆象，則能信理百官，衆功皆美也。」</note>
+            其後以授<persName xml:id="Shun舜">舜</persName>曰：「咨爾<persName xml:id="Shun舜"
+            >舜</persName>，天之曆數在爾躬。」「<persName xml:id="Shun舜">舜</persName>亦以命<persName xml:id="Yu禹"
+            >禹</persName>。」 <note>[七]<persName xml:id="YanShigu顏師古">師古</persName>曰：「事見<bibl
+               xml:id="Lunyu論語">論語</bibl><bibl xml:id="Yaoyuepian堯曰篇">堯曰篇</bibl>。」</note> 至<persName
+            xml:id="ZhouWuWang周武王">周武王</persName>訪<persName xml:id="JiZi箕子">箕子</persName>，
+               <note>[八]<persName xml:id="YanShigu顏師古">師古</persName>曰：「訪<persName xml:id="JiZi箕子"
+               >箕子</persName>，謂滅<place xml:id="Yin殷">殷</place>之後。」</note>
+         <persName xml:id="JiZi箕子">箕子</persName>言大法九章，而五紀明曆法。 <note>[九]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「歲月日星辰，是謂五紀也。」<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「大法九章卽<bibl xml:id="Hongfan洪範">洪範</bibl>九疇也。其四曰協用五紀也。」</note>
+            故自<place xml:id="Yin殷">殷</place><place xml:id="Zhou周"
+            >周</place>，皆創業改制，咸正曆紀，服色從之，順其時氣，以應天道。<place xml:id="Sandai三代"
+         >三代</place>既沒，五伯之末史官喪紀，疇人子弟分散， <note>[一０]<persName xml:id="LiQi李奇"
+               >李奇</persName>曰：「同類之人俱明曆者也。」<persName xml:id="RuChun如淳"
+               >如淳</persName>曰：「家業世世相傳為疇。」<persName xml:id="YanShigu顏師古">師古</persName>曰：「<persName
+               xml:id="RuChun如淳">如</persName>說是也。」</note> 或在夷狄，故其所記，有<bibl xml:id="Huangdili黃帝曆"
+            >黃帝</bibl>、<bibl xml:id="Zhuanxuli曆曆">顓頊</bibl>、<bibl xml:id="Xia夏曆">夏</bibl>、<bibl
+            xml:id="Yinli殷曆">殷</bibl>、<bibl xml:id="Zhouli周曆">周</bibl>及<bibl xml:id="Luli魯曆"
+            >魯曆</bibl>。<date>戰國</date>擾攘，<place xml:id="Qin秦"
+         >秦</place>兼天下，未皇暇也，亦頗推五勝， <note>[一一]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「五行相勝，<place xml:id="Qin秦">秦</place>以<place xml:id="Zhou周"
+            >周</place>為火，用水勝之。」</note> 而自以為獲水德，乃以十月為正，色上黑。 <note>[一二]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「獲水德，謂有黑龍之瑞。」</note>
+      </p>
+   <pb n="0974"/>
+      <p><place xml:id="Han漢">漢</place>興，方綱紀大基，庶事草創，襲<place xml:id="Qin秦">秦</place>正朔。以<persName
+            xml:id="ZhangCang張蒼">北平侯張蒼</persName>言，用<bibl xml:id="Zhuanxuli顓頊曆"
+         >顓頊曆</bibl>，比於六曆，疏闊中最為微近。然正朔服色，未覩其真，而朔晦月見，弦望滿虧，多非是。</p>
+   </div>
+   <div>
+      <p>至<persName xml:id="LiuChe劉徹">武帝</persName><date type="regnal">元封</date>七年，<place
+            xml:id="Han漢">漢</place>興百二歲矣，大中大夫<persName xml:id="GongsunQing公孫卿"
+            >公孫卿</persName>、<persName xml:id="HuSui壺遂">壺遂</persName>、太史令<persName
+            xml:id="SimaQian司馬遷">司馬遷</persName>等言「曆紀壞<pb n="0975"/>廢，宜改正朔」。是時御史大夫<persName xml:id="NiKuan兒寬">兒寬</persName>明經術， <note>[一]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「兒音五奚反。」</note> 上乃詔<persName xml:id="NiKuan兒寬"
+            >寬</persName>曰：「與博士共議，今宜何以為正朔？服色何上？」<persName xml:id="寬">寬</persName>與博士<persName
+            xml:id="Ci賜2">賜</persName>等議，皆曰：「帝王必改正朔，易服色，所以明受命於天也。創業變改，制不相復， <note>[二]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「復，重也，因也，音扶目反。次下亦同。」</note> 推傳序文，則今<place
+            xml:id="Xia夏">夏</place>時也。臣等聞學褊陋，不能明。陛下躬聖發憤，昭配天地， <note>[三]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「躬聖者，言身有聖德也。發憤，謂念正朔未定也。昭，明也。」</note>
+         臣愚以為三統之制，後聖復前聖者，二代在前也。今二代之統絕而不序矣，唯陛下發聖德，宣考天地四時之極，則順陰陽以定大明之制，為萬世則。」於是乃詔御史曰：「乃者有司言曆未定，廣延宣問，以考星度，未能讎也。
+               <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「讎，相當。」</note> 蓋聞古者<persName
+            xml:id="Huangdi黃帝">黃帝</persName>合而不死，名察發斂，定清濁，起五部，建氣物分數。 <note>[五]<persName
+               xml:id="YingShao應劭">應劭</persName>曰：「言<persName xml:id="Huangdi黃帝"
+               >黃帝</persName>造曆得仙，名節會，察寒暑，致啟分，發斂至，定清濁，起五部。五部，金、木、水、火、土也。建氣物分數，皆敘曆之意也。」<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「合，作也。<persName xml:id="Huangdi黃帝"
+               >黃帝</persName>作曆，曆終而復始，無窮已也，故曰不死。名春夏為發，秋冬為斂。清濁，謂律聲之清濁也。五部，謂五行也。天有四時，分為五行也。氣，二十四氣也。物，萬物也。分，曆數之分也。」<persName
+               xml:id="JinZhuo晉灼">晉灼</persName>曰：「<persName xml:id="CaiYong蔡邕">蔡邕</persName><bibl
+               xml:id="Tianwenzhi天文志">天文志</bibl>『渾天名察發斂，以行日月，以步五緯』。」<persName xml:id="ChenZan臣瓚"
+               >臣瓚</persName>曰：「<persName xml:id="Huangdi黃帝"
+               >黃帝</persName>聖德，與神靈合契，升龍登仙，故曰合而不死。題名宿度，候察進退。<bibl xml:id="Shiji史記"
+            >史記</bibl>曰『名察宿度』，謂三辰之度，吉凶之驗也。」</note> 然則上矣。書缺樂弛，朕甚難之。 <note>[六]師古曰：「弛，廢也。音式爾反。」</note>
+         依違以惟，未能修明。 <note>[七]<persName xml:id="YanShigu顏師古">師古</persName>曰：「依違，不決之意也。惟，思也。」</note>
+         其以七年為元年。」 <note>[八]<persName xml:id="LiQi李奇">李奇</persName>曰：「改<date type="regnal"
+               >元封</date>七年為<date type="regnal">太初</date>元年。」</note> 遂詔<persName
+            xml:id="GongsunQing公孫卿">卿</persName>、<persName xml:id="HuSui壺遂">遂</persName>、<persName
+            xml:id="SimaQian司馬遷">遷</persName>與侍郎<persName xml:id="Zun尊2">尊</persName>、大典星<persName
+            xml:id="SheXing射姓">射姓</persName>等 <note>[九]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「姓<persName xml:id="SheXing射姓">射</persName>，名<persName
+               xml:id="SheXing射姓">姓</persName>也。」</note> 議造<bibl xml:id="Hanli漢曆"
+         >漢曆</bibl>。乃定東西，立晷儀，下漏刻，以追二十八宿相距於四方，舉終以定朔晦分至，躔離弦望。 <note>[一０]<persName xml:id="YingShao應劭"
+               >應劭</persName>曰：「躔，徑也。離，遠也。」<persName xml:id="ChenZan臣瓚"
+               >臣瓚</persName>曰：「案離，歷也，日月之所歷也。」<persName xml:id="DengZhan鄧展"
+            >鄧展</persName>曰：「日月踐歷度次。」</note> 乃以前曆上元泰初四千六百一十七歲，至於<date type="regnal"
+         >元封</date>七年，復得閼逢攝提格之歲，中冬 <note>[一一]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「言復得者，上元泰初時亦是閼逢之歲，歲在甲曰閼逢，在寅曰攝提格，此為甲寅之歲也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「中讀曰仲。」</note> 十一月甲子朔旦冬至，日月在<name
+                  type="tianwen">建星</name>， <note>[一二]<persName xml:id="LiQi李奇"
+                     >李奇</persName>曰：「古以<name type="tianwen">建星</name>為宿，今以<name
+                        type="tianwen">牽牛</name>為宿。」<persName xml:id="MengKang孟康">孟康</persName>曰：「<name                         type="tianwen">建星</name>在<name type="tianwen">牽牛</name>間。」<persName
+               xml:id="JinZhuo晉灼">晉灼</persName>曰：「<persName xml:id="JiaKui賈逵">賈逵</persName>論<bibl
+                  xml:id="Taichuli太初曆">太初曆</bibl>冬至日在<name type="tianwen">牽牛</name>初者，<name type="tianwen">牽牛</name>中星也。古曆皆在<name type="tianwen">建星</name>。<name
+                     type="tianwen">建星</name>卽<name type="tianwen">斗星</name>也。<bibl
+                        xml:id="Taichuli太初曆">太初曆</bibl>四分法在<name type="tianwen"
+               >斗</name>二十六度。史官舊法，冬夏至常不及<bibl xml:id="Taichuli太初曆">太初曆</bibl>五度。<bibl
+                  xml:id="Sifenfa四分法">四分法</bibl>在<name type="tianwen">斗</name>二十一度，與行事候法天度相應。」</note>
+         <name type="tianwen">太歲</name>在子，已得<name type="tianwen">太初</name>本星度新正。<persName
+            xml:id="SheXing射姓">姓</persName>等奏不能為算， <note>[一三]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「<persName xml:id="SheXing射姓">姓</persName>卽<persName
+               xml:id="SheXing射姓">射姓</persName>也。」</note> 願募治曆者，更造密度，各自增減，以造<place xml:id="Han漢"
+            >漢</place><bibl xml:id="Taichuli太初曆">太初曆</bibl>。乃選治曆<persName xml:id="DengPing鄧平"
+            >鄧平</persName>及<place xml:id="Changli長樂">長樂</place>司馬<persName xml:id="Ke可"
+            >可</persName>、<place xml:id="Jiuquan酒泉">酒泉</place>候<persName xml:id="YiJun宜君"
+            >宜君</persName>、 <note>[一四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<persName
+               xml:id="Ke可">可</persName>者司馬之名也。<persName xml:id="YiJun宜君"
+            >宜君</persName>亦候之名也。候，官號也。故曰東南一尉，西北一候。」</note> 侍郎<persName xml:id="Zun尊2"
+            >尊</persName>及與民間治曆者，凡二十餘人，方士<persName xml:id="TangDu唐都">唐都</persName>、<place
+            xml:id="Bajun巴郡">巴郡</place><persName xml:id="LuoxiaHong落下閎">落下閎</persName>與焉。
+               <note>[一五]<persName xml:id="JinZhuo晉灼">晉灼</persName>曰：「三人姓名也。<bibl xml:id="Shiji史記"
+               >史記</bibl><bibl xml:id="Lishu曆書">曆書</bibl>『<persName xml:id="TangDu唐都"
+               >唐都</persName>分天部，而<place xml:id="Bajun巴郡">巴郡</place><persName xml:id="LuoxiaHong落下閎"
+               >落下閎</persName>運算推曆』。」<persName xml:id="YanShigu顏師古">師古</persName>曰：「姓<persName
+               xml:id="TangDu唐都">唐</persName>，名<persName xml:id="TangDu唐都"
+               >都</persName>，方術之士也。姓<persName xml:id="LuoxiaHong落下閎">落下</persName>名<persName
+               xml:id="LuoxiaHong落下閎">閎</persName>，<place xml:id="Bajun巴郡">巴郡</place>人也。<persName
+               xml:id="TangDu唐都">都</persName>與<persName xml:id="LuoxiaHong落下閎"
+            >閎</persName>凡二人，言三人，非也。與讀曰豫。」</note>
+         <persName xml:id="TangDu唐都">都</persName>分天部， <note>[一六]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「謂分部二十八宿為距度。」</note> 而<persName xml:id="LuoxiaHong落下閎"
+         >閎</persName>運算轉曆。其法以律起曆，曰：「律容一龠，積八十一寸，則一日之分也。 <note>[一七]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「黃鐘律長九寸，圍九分，以圍乘長，得積八十一寸也。」</note> 與長相終。律長九寸，百七十一分而終復。
+               <note>[一八]<persName xml:id="YanShigu顏師古">師古</persName>曰：「復音扶目反。」</note>
+         三復而得甲子。夫律陰陽九六，爻象所從出也。<pb n="0976"/>故黃鐘紀元氣之謂律。律，法也，莫不取法焉。」與<persName xml:id="DengPing鄧平"
+            >鄧平</persName>所治同。於是皆觀新星度、日月行，更以算推，如<persName xml:id="LuoxiaHong落下閎"
+            >閎</persName>、<persName xml:id="DengPing鄧平"
+            >平</persName>法。法，一月之日二十九日八十一分日之四十三。先藉半日，名曰陽曆；不藉，名曰陰曆。所謂陽曆者，先朔月生；陰曆者，朔而後月乃生。<persName
+            xml:id="DengPing鄧平">平</persName>曰：「陽曆朔皆先旦月生，以朝諸侯王羣臣便。」乃詔<persName xml:id="SimaQian司馬遷"
+            >遷</persName>用<persName xml:id="DengPing鄧平"
+            >鄧平</persName>所造八十一分律曆，罷廢尤疏遠者十七家，復使校曆律昏明。宦者<persName xml:id="ChunyuLingqu淳于陵渠"
+            >淳于陵渠</persName>復覆<bibl xml:id="Taichuli太初曆">太初曆</bibl>晦朔弦望，皆最密，日月如合璧，五星如連珠。
+         <note>[一九]<persName xml:id="MengKang孟康">孟康</persName>曰：「謂<name type="tianwen">太初</name>上元甲子夜半朔旦冬至時，七曜皆會聚<name type="tianwen">斗</name>、<name type="tianwen">牽牛</name>分度，夜盡如合璧連珠也。」<persName xml:id="YanShigu顏師古">師古</persName>曰：「言其應候
+            不差也。」</note>
+         <persName xml:id="ChunyuLingqu淳于陵渠">陵渠</persName>奏狀，遂用<persName xml:id="DengPing鄧平"
+            >鄧平</persName>曆，以<persName xml:id="DengPing鄧平">平</persName>為太史丞。</p>
+      <pb n="0977"/><!-- notes only -->
+   <pb n="0978"/>
+      <p>後二十七年，<date type="regnal">元鳳</date>三年，太史令<persName xml:id="ZhangShouwang張壽王"
+            >張壽王</persName>上書言：「曆者天地之大紀，上帝所為。傳<persName xml:id="Huangdi黃帝">黃帝</persName><bibl
+            xml:id="Diaolvli調律曆">調律曆</bibl>，<place xml:id="Han漢">漢</place>元年以來用之。今陰陽不調，宜更曆之過也。」
+               <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「更，改也。」</note> 詔下主曆使者<persName
+            xml:id="XianyuWangren鮮于妄人">鮮于妄人</persName>詰問，<persName xml:id="ZhangShouwang張壽王"
+            >壽王</persName>不服。<persName xml:id="XianyuWangren鮮于妄人">妄人</persName>請與治曆大司農中丞<persName
+            xml:id="MaGuang麻光"
+            >麻光</persName>等二十餘人雜候日月晦朔弦望、八節二十四氣，鈞校諸曆用狀。奏可。詔與丞相、御史、大將軍、右將軍史各一人雜候<place
+            xml:id="Shanglin上林">上林</place><place xml:id="Qingtai清臺">清臺</place>，課諸曆疏密，凡十一家。以<date
+            type="regnal">元鳳</date>三年十一月朔旦冬至，盡五年十二月，各有第。<persName xml:id="ZhangShouwang張壽王"
+            >壽王</persName>課疏遠。案<place xml:id="Han漢">漢</place>元年不用<persName xml:id="Huangdi黃帝"
+            >黃帝</persName><bibl xml:id="Diaoli調曆">調曆</bibl>，<persName xml:id="ZhangShouwang張壽王"
+            >壽王</persName>非<place xml:id="Han漢">漢</place>曆，逆天道，非所宜言，大不敬。有詔勿劾。復候，盡六年。<bibl
+            xml:id="Taichuli太初曆">太初曆</bibl>第一，<place xml:id="Jimo卽墨">卽墨</place><persName
+            xml:id="XuWanju徐萬且">徐萬且</persName>、<place xml:id="ChangAn長安">長安</place><persName
+            xml:id="XuYu徐禹">徐禹</persName>治<bibl xml:id="Taichuli太初曆">太初曆</bibl>亦第一。
+               <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「且音子余反。」</note>
+         <persName xml:id="ZhangShouwang張壽王">壽王</persName>及待詔<persName xml:id="LiXin李信2"
+            >李信</persName>治<persName xml:id="Huangdi黃帝">黃帝</persName><bibl xml:id="Diaoli調曆"
+            >調曆</bibl>，課皆疏闊，又言<persName xml:id="Huangdi黃帝">黃帝</persName>至<date type="regnal"
+            >元鳳</date>三年六千餘歲。丞相屬<persName xml:id="Bao寶">寶</persName>、<place xml:id="ChangAn長安"
+            >長安</place><persName xml:id="ShanAnguo單安國">單安國</persName>、<place xml:id="Anling安陵"
+            >安陵</place><persName xml:id="BeiYu桮育">桮育</persName>治<bibl xml:id="Zhongshi終始">終始</bibl>，
+               <note>[三]<persName xml:id="SuLin蘇林">蘇林</persName>曰：「桮音布回反。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「姓<persName xml:id="BeiYu桮育"
+               >桮</persName>，名<persName xml:id="BeiYu桮育">育</persName>也。單音善。」</note> 言<persName
+            xml:id="Huangdi黃帝">黃帝</persName>以來三千六百二十九歲，不與<persName xml:id="ZhangShouwang張壽王"
+            >壽王</persName>合。<persName xml:id="ZhangShouwang張壽王">壽王</persName>又移<bibl
+            xml:id="Diwanglu帝王錄">帝王錄</bibl>，<persName xml:id="Shun舜">舜</persName>、<persName
+            xml:id="Yu禹">禹</persName>年歲不合人年。<persName xml:id="ZhangShouwang張壽王"
+            >壽王</persName>言<persName xml:id="BoYi伯益">化益</persName>為天子代<persName xml:id="Yu禹"
+            >禹</persName>， <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<persName
+               xml:id="BoYi伯益">化益</persName>卽<persName xml:id="BoYi伯益">伯益</persName>。」</note>
+         <place xml:id="Lishan驪山">驪山</place>女亦為天子，在<place xml:id="Yin殷">殷</place><place
+            xml:id="Zhou周">周</place>間，皆不合經術。<persName xml:id="ZhangShouwang張壽王"
+            >壽王</persName>曆乃太史官<bibl xml:id="Yinli殷曆">殷曆</bibl>也。<persName xml:id="ZhangShouwang張壽王"
+            >壽王</persName>猥曰安得五家曆， <note>[五]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「猥，曲也。」</note> 又妄言<bibl xml:id="Taichuli太初曆"
+            >太初曆</bibl>虧四分日之三，去小餘七百五分，以故陰陽不調，謂之亂世。劾<persName xml:id="ZhangShouwang張壽王"
+            >壽王</persName>吏八百石，古之大夫，服儒衣，誦不詳之辭，作祅言欲亂制度，不道。奏可。<persName xml:id="ZhangShouwang張壽王"
+            >壽王</persName>候課，比三年下， <note>[六]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「比，頻也。下，下獄也，音胡稼反。」</note> 終不服。再劾死，更赦勿劾， <note>[七]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「更，經也，音工衡反。」</note>
+            遂不更言，誹謗益甚，竟以下吏。故曆本之驗在於天，自<place xml:id="Han漢">漢</place>曆初起，盡<date type="regnal"
+            >元鳳</date>六年，三十六歲，而是非堅定。</p>
+   <pb n="0979"/>
+      <p>至<persName xml:id="LiuAo劉鰲">孝成</persName>世，<persName xml:id="LiuXiang劉向1"
+            >劉向</persName>總六曆，列是非，作<bibl xml:id="Wujilun五紀論">五紀論</bibl>。<persName
+            xml:id="LiuXiang劉向">向</persName>子<persName xml:id="LiuXin劉歆1">歆</persName>究其微眇，
+               <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「眇，細也，音莫小反，又讀曰妙。他皆類此。」</note>
+            作<bibl xml:id="Santongli三統曆">三統曆</bibl>及<bibl xml:id="Pu譜">譜</bibl>以說<bibl
+            xml:id="Chunqiu春秋">春秋</bibl>，推法密要，故述焉。 <note>[二]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「自此以下，皆<persName xml:id="BanGu班固">班氏</persName>所述<persName
+               xml:id="LiuXin劉歆1">劉歆</persName>之說也。」</note>
+      </p>
+      <p>夫曆<bibl xml:id="Chunqiu春秋">春秋</bibl>者，天時也，列人事而（目）〔因〕以天時。
+               <note>列人事而（目）〔因〕以天時。<place>殿</place>本作「因」，<date type="regnal">景祐</date>本作「固」。</note>
+         傳曰：「民受天地之中以生，所謂命也。 <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「此<bibl
+               xml:id="Chunqiuzuoshizhuan春秋左氏傳">春秋左氏傳</bibl><place xml:id="Zhou周"
+               >周</place>大夫<persName xml:id="LiuKangGong劉康公">劉康公</persName>之言也。中謂中和之氣也。」</note>
+         是故有禮誼動作威儀之則以定命也，能者養以之福，不能者敗以取禍。」 <note>[二]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「之，往也，往就福也。自此以上，皆<persName xml:id="LiuKangGong劉康公"
+            >劉康公</persName>辭。」</note>
+            故列十二公二百四十二年之事，以陰陽之中制其禮。故春為陽中，萬物以生；秋為陰中，萬物以成。是以事舉其中，禮取其和，曆數以閏正天地之中，以作事厚生，皆所以定命也。<bibl
+            xml:id="Yi易">易</bibl>金火<pb n="0980"/>相革之卦曰「<persName xml:id="Tang湯">湯</persName><persName xml:id="ZhouWuWang周武王"
+         >武</persName>革命，順乎天而應乎人」， <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<bibl
+               xml:id="Li離">離</bibl>下<bibl xml:id="Dui兌">兌</bibl>上，故云金火相革。此<bibl xml:id="Gegua革卦"
+               >革卦</bibl>彖辭。」</note> 又曰「治曆明時」， <note>[四]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「此<bibl xml:id="Gegua革卦">革卦</bibl>象辭。」</note> 所以和人道也。</p>
+      <p><place xml:id="Zhou周">周</place>道既衰，<persName xml:id="YouwWang幽王"
+            >幽王</persName>既喪，天子不能班朔，<place xml:id="Lu魯">魯</place>曆不正，以閏餘一之歲為蔀首。 <note>[一]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「當以閏盡歲為蔀首，今失正，未盡一歲便以為蔀首也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「蔀音剖，又音部。」</note> 故<bibl xml:id="Chunqiu春秋"
+            >春秋</bibl>刺「十一月乙亥朔，日有食之」。於是辰在申， <note>[二]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「辰謂斗建。」<persName xml:id="ChenZan臣瓚">臣瓚</persName>曰：「日月之會為辰。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「事在<persName xml:id="Xiang襄"
+            >襄</persName>二十七年。」</note> 而司曆以為在建戌，史書建亥。<persName xml:id="Ai哀"
+               >哀</persName>十二年，亦以建申流<name type="tianwen">火</name>之月為建亥， <note>[三]<persName
+               xml:id="ZhangYan張晏">張晏</persName>曰：「<place xml:id="Zhou周">周</place>之十二月，<place
+               xml:id="Xia夏">夏</place>之十月也。再失閏，當為八月建酉，而云建申，誤也。<persName xml:id="KongZi孔子"
+                  >仲尼</persName>曰：『<name type="tianwen">火</name>猶西流，司曆過也。』<persName xml:id="LiuXin劉歆1"
+                     >劉歆</persName>徒以<bibl xml:id="Shi詩">詩</bibl>『七月流<name type="tianwen">火</name>』為喻，不知八月<name type="tianwen">火</name>猶西流也。」</note> 而怪蟄蟲之不伏也。自<persName
+            xml:id="WenGong文公">文公</persName>閏月不告朔，至此百有餘年，莫能正曆數。故<persName xml:id="Zigong子貢"
+            >子貢</persName>欲去其餼羊，<persName xml:id="KongZi孔子">孔子</persName>愛其禮， <note>[四]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「餼，生牲也。禮，人君每月告朔於廟，有祭事，故用牲。<persName
+               xml:id="Zigong子貢">子貢</persName>見其禮廢而欲去其羊，<persName xml:id="KongZi孔子"
+               >孔子</persName>曰：『<persName xml:id="Zigong子貢">賜</persName>也，汝愛其羊，我愛其禮。』事見<bibl
+               xml:id="Lunyu論語">論語</bibl>。」</note> 而著其法於<bibl xml:id="Chunqiu春秋"
+         >春秋</bibl>。經曰：「冬十月朔，日有食之。」傳曰：「不書日，官失之也。天子有日官，諸侯有日御，日官居卿以厎日，禮也。 <note>[五]<persName
+               xml:id="SuLin蘇林">蘇林</persName>曰：「厎，致也。」<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「音之履反。」</note> 日御不失日以授百官於朝。」言告朔也。 <note>[六]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「<persName xml:id="Liujia劉家"
+            >劉家</persName>本有此語。」</note> 元典曆始曰元。傳曰：「元，善之長也。」共養三德為善。 <note>[七]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「謂三統之微氣也，當施育萬物，故謂之德。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「共讀曰供。」</note>
+         又曰：「元，體之長也。」合三體而為之原，故曰元。於春三月，每月書王，元之三統也。三統合於一元，故因元一而九三之以為法， <note>[八]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「辰有十二，其三為天地人之統。<persName xml:id="LaoZi老子"
+               >老子</persName>曰『三生萬物』，是以餘九。辰得三氣，乃能施化。故每辰者，以三統之數乘之，是謂九三之法，得積萬九千六百八十三。」</note> 十一三之以為實。
+               <note>[九]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「以子數一乘丑三，餘次辰，亦每三乘之，周十一辰，得十七萬七千一百四十七。」</note>
+         實如法得一。黃鐘初九，律之首，陽之變也。因而六之，以九為法，得林鐘 <note>[一０]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「以六乘黃鐘之九，得五十四。」</note> 初六，呂之首，陰之變也。皆參天兩地之法也。 <note>[一一]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「三三而九，二三而六，參兩之義也。」</note>
+         上生六而倍之，下生六而損之，皆以九為法。九六，陰陽夫婦子母<pb n="0981"/>之道也。 <note>[一二]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「異類為子母，謂黃鐘生林鐘也。同類為夫婦，謂黃鐘以大呂為妻也。」</note> 律娶妻 <note>[一三]<persName
+               xml:id="RuChun如淳">如淳</persName>曰：「黃鐘生林鐘。」</note> 而呂生子， <note>[一四]<persName
+               xml:id="RuChun如淳">如淳</persName>曰：「林鐘生太族。」</note> 天地之情也。六律六呂，而十二辰立矣。五聲清濁，而十日行矣。
+               <note>[一五]<persName xml:id="LiQi李奇"
+               >李奇</persName>曰：「聲一清一濁，合為二，五聲凡十，合於十日，從甲至癸也。」<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「謂東方甲乙、南方丙丁之屬，分在五方，故五聲屬焉。」</note> 傳曰「天六地五」，數之常也。天有六氣，
+               <note>[一六]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「六氣，陰、陽、風、雨、晦、明也。」</note>
+         降生五味。 <note>[一七]<persName xml:id="MengKang孟康">孟康</persName>曰：「<bibl xml:id="Yueling"
+               >月令</bibl>五方之味，酸鹹是也。」</note> 夫五六者，天地之中合， <note>[一八]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「天陽數奇，一三五七九，五在其中。地陰數耦，二四六八十，六在其中。故曰天地之中合。」</note> 而民所受以生也。故日有六甲，辰有五子，
+               <note>[一九]<persName xml:id="MengKang孟康">孟康</persName>曰：「六甲之中唯甲寅無子，故有五子。」</note>
+         十一而天地之道畢，言終而復始。太極中央元氣，故為黃鐘，其實一龠，以其長自乘，故八十一為日法，所以生權衡度量，禮樂之所繇出也。 <note>[二０]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「繇讀與由同。」</note> 經元一以統始，<bibl xml:id="Yi易"
+            >易</bibl>太極之首也。春秋二以目歲， <note>[二一]<persName xml:id="DengZhan鄧展"
+               >鄧展</persName>曰：「春秋則為二矣。」<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「春為陽中，萬物以生；秋為陰中，萬物以成。舉春秋以目一歲。」</note>
+         <bibl xml:id="Yi易">易</bibl>兩儀之中也。於春每月書王，<bibl xml:id="Yi易">易</bibl>三極之統也。於四時雖亡事必書時月，<bibl
+            xml:id="Yi易">易</bibl>四象之節也。時月以建分至啟閉之分，<bibl xml:id="Yi易">易</bibl>八卦之位也。
+               <note>[二二]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「二至、二分、立春、立夏、立秋、立冬。」</note>
+            象事成敗，<bibl xml:id="Yi易">易</bibl>吉凶之効也。朝聘會盟，<bibl xml:id="Yi易">易</bibl>大業之本也。故<bibl
+            xml:id="Yi易">易</bibl>與<bibl xml:id="Chunqiu春秋"
+         >春秋</bibl>，天人之道也。傳曰：「龜，象也。筮，數也。物生而後有象，象而後有滋，滋而後有數。」 <note>[二三]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「<bibl xml:id="Zuoshizhuan左氏傳"
+               >左氏傳</bibl>載<persName xml:id="HanJian韓簡"
+            >韓簡</persName>之言也。物生則有象，有象而滋益，滋益乃數起。龜以象告吉凶，筮以數示禍福。」</note>
+      </p>
+      <pb n="0982"/><!-- notes only -->
+   <pb n="0983"/>
+      <p>是故元始有象一也，春秋二也，三統三也，四時四也，合而為十，成五體。以五乘十，大衍之數也，而道據其一，其餘四十九，所當用也，故蓍以為數。以象兩兩之，又以象三三之，又以象四四之，又歸奇象閏十九
+               <note>[一]<persName xml:id="MengKang孟康">孟康</persName>曰：「歲有閏分七，分滿十九，則為閏也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「奇音居宜反。」</note> 及所據一加之，因以再扐兩之， <note>[二]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「扐音勒。」</note>
+         是為月法之實。如日法得一，則一月之日數也，而三辰之會交矣，是以能生吉凶。 <note>[三]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「三辰，日月星也。軌道相錯，故有交會。交會卽陰陽有干陵勝負，故生吉凶也。」</note> 故<bibl xml:id="Yi易"
+            >易</bibl>曰：「天一地二，天三地四，天五地六，天七地八，天九地十。天數五，地數五，五位相得而各有合。天數二十有五，地數三十，凡天地之數五十有五，此所以成變化而行鬼神也。」
+               <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「皆<bibl xml:id="Shangji上繫"
+               >上繫</bibl>之辭。」</note> 并終數為十九，<bibl xml:id="Yi易">易</bibl>窮則變，故為閏法。 <note>[五]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「天終數九，地終數十。窮，終也，言閏亦日之窮餘，故取二終之數以為義。」</note>
+         參天九，兩地十，是為會數。參天數二十五，兩地數三十，是為朔望之會。以會數乘之，則周於朔旦冬至，是為會月。 <note>[六]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「會月，二十七章之月數也，得朔旦冬至日與歲復。」</note> 九會而復元， <note>[七]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「謂四千六百一十七歲之月數也，所謂元月。」</note>
+         黃鐘初九之數也。經於四時，雖亡事必書時月。時所以記啟閉也，月所以紀分至也。啟閉者，節也。分至者，中也。節不必在其月，故時中必在正數之月。故傳曰：「先王之正時也，履端於始，舉正於中，歸餘於終。履端於始，序則不愆；舉正於中，民則不惑；歸餘於終，事則不誖。」
+               <note>[八]<persName xml:id="YanShigu顏師古">師古</persName>曰：「自此以上，<bibl
+               xml:id="Zuoshizhuan左氏傳"
+            >左氏傳</bibl>之辭也。履端於始，謂步曆之始，以為術之端首也。舉正於中，謂分一朞為十二月，舉中氣以正月也。歸餘於終，謂有餘日，則歸於終，積而成閏也。誖，乖也，音布內反。」</note>
+         此聖王之重閏也。以五位乘會數，而朔旦冬至，是為章月。四分月法，以其一乘章月，是為中法。參閏法為周至，以乘月法，以減中法而約之，則（六）〔七〕扐之數，
+            <note>則（六）〔七〕扐之數， <persName xml:id="QianDaxin錢大昕">錢大昕</persName>說「六」當作「七」。</note>
+         為一月之閏法，其餘七分，此中朔<pb n="0984"/>相求之術也。朔不得中，是謂閏月，言陰陽雖交，不得中不生。故日法乘閏法，是為統歲。三統，是為元歲。元歲之閏，陰陽災，三統閏法。<bibl xml:id="Yi易"
+         >易</bibl>九戹曰：初入元，百六，陽九；次三百七十四，陰九； <note>[九]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「<bibl xml:id="Yizhuan易傳"
+               >易傳</bibl>也。所謂陽九之戹，百六之會者也。初入元百六歲有戹者，則前元之餘氣也，若餘分為閏也。<bibl xml:id="Yi易"
+            >易</bibl>爻有九六七八，百六與三百七十四，六乘八之數也，六八四十八，合為四百八十歲也。」</note> 次四百八十，陽九； <note>[一０]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「亦六乘八之數也，於<bibl xml:id="Yi易"
+               >易</bibl>爻六有變，故再數也。」<persName xml:id="RuChun如淳"
+            >如淳</persName>曰：「六八四十八，為四百八十歲，有九年旱。」</note> 次七百二十，陰七； <note>[一一]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「〔亦〕九乘八之數也。 〔亦〕九乘八之數也。 「亦」字據<date type="regnal"
+               >景祐</date>、<place>殿</place>本補。 八九七十二，為七百二十歲。」</note> 次七百二十，陽七； <note>[一二]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「亦九乘八之數也。於<bibl xml:id="Yi易"
+               >易</bibl>爻九變，故再數也。」<persName xml:id="RuChun如淳"
+            >如淳</persName>曰：「八十歲紀一甲子冬至。以八乘九，八九七十二，故七百二十歲，乃有災也。」</note> 次六百，陰五；次六百，陽五；
+               <note>[一三]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「七八爻乘八之數也。七乘八得五百六十歲，八乘八得六百四十歲，合千二百歲也。於<bibl xml:id="Yi易"
+               >易</bibl>爻七八不變，氣不通，故合而數之，各得六百歲也。」<persName xml:id="RuChun如淳"
+            >如淳</persName>曰：「爻有七八，八八六十四，七八五十六，二爻之數，合千二百。滿純陰七八不變，故通其氣，使各六百歲，乃有災。」</note>
+         次四百八十，陰三；次四百八十，陽三。 <note>[一四]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「此六乘八之數也。六既有變，又陰爻也，陽奇陰偶，故九再數，而六四數，七八不變，又無偶，各一數。一元之中，有五陽四陰，陽旱陰水，九七五三，皆陽數也，故曰陽九之戹。」<persName
+               xml:id="RuChun如淳"
+               >如淳</persName>曰：「九六者，陽奇陰偶。偶，故重出，覆取上六八四十八，故同四百八十歲。正以九七五三為災者，從天奇數也。<bibl xml:id="Yi易"
+               >易</bibl>天之數曰：『立天之道，曰陰與陽。』繫天故取其奇為災歲數。八十歲則甲子冬至，一甲子六十日，一歲三百六十日，八十歲，得四百八十甲子又五日。五八四十，為四百日又四分日之一。八十歲有八十分，八十分為二十日，凡四百八十日，得七十甲子。八十歲合四百八十七甲子，餘分皆盡，故八十歲則一甲子冬至也。」</note>
+         凡四千六百一十七歲，與一元終。經歲四千五百六十，災歲五十七。 <note>[一五]<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「經歲，從百六終陽三也，得災歲五十七，合為一元，四千六百一十七歲。」</note> 是以<bibl xml:id="Chunqiu春秋"
+            >春秋</bibl>曰：「舉正於中。」又曰：「閏月不告朔，非禮也。閏以正時，時以作事，事以厚生， <note>[一六]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「言四時漸差，則置閏以正之，因順時而命事，事得其序，則年穀豐熟。」</note>
+         生民之道於是乎在矣。不告閏朔，棄時正也，何以為民？」 <note>[一七]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「自此以上，皆<bibl xml:id="Zuoshizhuan左氏傳">左氏傳</bibl>之辭也。為，治也。」</note>
+            故善<persName xml:id="LuXiGong鲁僖公"
+            >僖</persName>「五年春王正月辛亥朔，日南至，公既視朔，遂登觀臺以望，而書，禮也。凡分至啟閉，必書雲物，為備故也。」至<persName
+            xml:id="LuZhaoGong鲁昭公">昭</persName>二十年二月己丑，日南至，失閏，至在非其月。<persName xml:id="ZiShen梓慎"
+               >梓慎</persName>望氛氣而弗正，不履端於始也。故傳不曰冬至，而曰日南至。極於<name type="tianwen"
+                  >牽牛</name>之初，日中之時景最長，以此知其南至也。<name type="tianwen">斗</name>綱之端連貫<name type="tianwen">營室</name>，<name type="tianwen">織女</name>之紀指<name type="tianwen">牽牛</name>之初，以紀日月，故曰<name type="tianwen">星紀</name>。五星起其初，日月起其中，凡十二次。日至其初為節，至其中斗建下為十二辰。視其建而知其次。故曰「制禮上物，不過十二，天之大數也」。經曰春王正月，傳曰<place
+                     xml:id="Zhou周">周</place>正月「<name type="tianwen">火</name>出，於<place xml:id="Xia夏"
+            >夏</place>為三月，<place xml:id="Shang商">商</place>為四月，<place xml:id="Zhou周"
+            >周</place>為五月。<place xml:id="Xia夏">夏</place>數得天」， <note>[一八]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「自此以上，<bibl xml:id="Zuozhuan左傳"
+            >左傳</bibl>之辭。」</note> 得四時之正也。<place xml:id="Sandai三代">三代</place>各據一統，明三統常合，而迭為首，
+               <note>[一九]<persName xml:id="YanShigu顏師古">師古</persName>曰：「迭，互也，音大結反。此下亦同。」</note>
+         登降三統之首，周還五行之道也。 <note>[二０]<persName xml:id="YanShigu顏師古">師古</persName>曰：「還讀曰旋。」</note>
+         故三五相包而生。天統之正，始施於子半， <note>[二一]<persName xml:id="SuLin蘇林"
+               >蘇林</persName>曰：「子之西，亥之東，其中間也。或曰於子半曰地統，受於丑初。」<persName xml:id="ChenZan臣瓚"
+               >臣瓚</persName>曰：「謂分十二辰，各有上中下，言半，謂在中也，又受於寅初，此謂上也。」</note>日萌色赤。地統受之於丑初，日肇化而黃，至丑半，日牙化<pb n="0985"/>而白。人統受之於寅初，日孽成而黑，至寅半，日生成而青。天施復於子，地化自丑畢於辰， <note>[二二]<persName xml:id="RuChun如淳"
+               >如淳</persName>曰：「地以十二月生萬物，三月乃畢。」</note> 人生自寅成於申。 <note>[二三]<persName
+               xml:id="RuChun如淳">如淳</persName>曰：「人功自正月至七月乃畢。」</note> 故曆數三統，天以甲子， <note>[二四]<persName
+               xml:id="LiQi李奇">李奇</persName>曰：「<place xml:id="Xia夏">夏</place>正月朔日。」</note> 地以甲辰，
+               <note>[二五]<persName xml:id="WeiZhao韋昭">韋昭</persName>曰：「<place xml:id="Yin殷"
+            >殷</place>正月朔日。」</note> 人以甲申。 <note>[二六]<persName xml:id="LiQi李奇">李奇</persName>曰：「<place
+               xml:id="Zhou周">周</place>正月朔日。」</note>
+            孟仲季迭用事為統首。三微之統既著，而五行自青始，其序亦如之。五行與三統相錯。傳曰「天有三辰，地有五行」，然則三統五星可知也。<bibl xml:id="Yi易"
+            >易</bibl>曰：「參五以變，錯綜其數。通其變，遂成天下之文；極其數，遂定天下之象。」 <note>[二七]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「<bibl xml:id="Yi易">易</bibl><bibl xml:id="Shangji上繫"
+            >上繫</bibl>之辭。」</note>
+         太極運三辰五星於上。而元氣轉三統五行於下。其於人，皇極統三德五事。故三辰之合於三統也，日合於天統，月合於地統，斗合於人統。五星之合於五行，水合於<name type="tianwen">辰星</name>，火合於<name type="tianwen">熒惑</name>，金合於<name type="tianwen">太白</name>，木合於<name type="tianwen">歲星</name>，土合於<name type="tianwen">填星</name>。三辰五星而相經緯也。天以一生水，地以二生火，天以三生木，地以四生金，天以五生土。五勝相乘，以生小周，以乘<bibl
+            xml:id="Qian乾">乾</bibl><bibl xml:id="Kun坤"
+            >坤</bibl>之策，而成大周。陰陽比類，交錯相成，故九六之變登降於六體。三微而成著，三著而成象，二象十有八變而成卦，四營而成易，為七十二，參三統兩四時相乘之數也。參之則得<bibl
+            xml:id="Qian乾">乾</bibl>之策，兩之則得<bibl xml:id="Kun坤">坤</bibl>之策。 <note>[二八]<persName
+               xml:id="SuLin蘇林">蘇林</persName>曰：「策，數也。」</note>
+         以陽九九之，為六百四十八，以陰六六之，為四百三十二，凡一千八十，陰陽各一卦之微算策也。八之，為八千六百四十，而八卦小成。引而信之， <note>[二九]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「信讀曰伸。」</note>
+         又八之，為六萬九千一百二十，天地再之，為十三萬八千二百四十，然後大成。五星會終，觸類而長之，以乘章歲，為二百六十二萬六千五百六十，而與日月會。三會為七百八十七萬九千六百八十，而與三統會。三統二千三百六十三萬九千四十，而復於太極上<pb n="0986"/>元。九章歲而六之為法，太極上元為實，實如法得一，陰（一）陽各萬一千五百二十， <note>實如法得一，陰（一）陽各萬一千五百二十， <persName
+               xml:id="ZhangWenhu張文虎"
+            >張文虎</persName>說「實如法得一」當絕句，算家常語，淺人誤以「一陰」連屬，遂又於「陽」上亦增「一」字。</note> 當萬物氣體之數，天下之能事畢矣。</p>
+      <pb n="0987"/>
+      <pb n="0988"/>
+      <pb n="0989"/>
+      <pb n="0990"/>
+      <pb n="0991"/>
+      <p>統母</p>
+      <p>日法八十一。 <note>[一]<persName xml:id="MengKang孟康"
+         >孟康</persName>曰：「分一日為八十一分，為三統之本母也。」</note>元始黃鐘初九自乘，一龠之數，得日法。</p>
+      <p>閏法十九，因為章歲。合天地終數，得閏法。</p>
+      <p>統法千五百三十九。以閏法乘日法，得統法。</p>
+      <p>元法四千六百一十七。參統法，得元法。</p>
+      <p>會數四十七。參天九，兩地十，得會數。</p>
+      <p>章月二百三十五。五位乘會數，得章月。</p>
+      <p>月法二千三百九十二。推大衍象，得月法。</p>
+      <p>通法五百九十八。四分月法，得通法。</p>
+   <pb n="0992"/>
+      <p>中法十四萬五百三十。以章月乘通法，得中法。</p>
+      <p>周天五十六萬二千一百二十。以章月乘月法，得周天。</p>
+      <p>歲中十二。以三統乘四時，得歲中。</p>
+      <p>月周二百五十四。以章月加閏法，得月周。</p>
+      <p>朔望之會百三十五。參天數二十五，兩地數三十，得朔望之會。</p>
+      <p>會月六千三百四十五。以會數乘朔望之會，得會月。</p>
+      <p>統月萬九千三十五。參會月，得統月。</p>
+      <p>元月五萬七千一百五。參統月，得元月。</p>
+      <p>章中二百二十八。以閏法乘歲中，得章中。</p>
+      <p>統中萬八千四百六十八。以日法乘章中，得統中。</p>
+      <p>元中五萬五千四百四。參統中，得元中。</p>
+      <p>策餘八千八十。什乘元中，以減周天，得策餘。</p>
+      <p>周至五十七。參閏法，得周至。</p>
+      <p>（統）〔紀〕母。</p>
+      <p>木金相乘為十二，是為<name type="tianwen">歲星</name>小周。小周乘<bibl xml:id="Chuan巛"
+         >巛</bibl>策，為千七百二十八，是為<name type="tianwen">歲星</name>歲數。</p>
+   <pb n="0993"/>
+      <p>見中分二萬七百三十六。</p>
+      <p>積中十三，中餘百五十七。</p>
+      <p>見中法千五百八十三。見數也。</p>
+      <p>見閏分萬二千九十六。</p>
+      <p>積月十三，月餘萬五千七十九。</p>
+      <p>見月法三萬七十七。</p>
+      <p>見中日法七百三十萬八千七百一十一。</p>
+      <p>見月日法二百四十三萬六千二百三十七。</p>
+      <p>金火相乘為八，又以火乘之為十六而小復。小復乘<bibl xml:id="Qian乾">乾</bibl>策，為三千四百五十六，是為<name type="tianwen">太白</name>歲數。</p>
+      <p>見中分四萬一千四百七十二。</p>
+      <p>積中十九，中餘四百一十三。</p>
+      <p>見中法二千一百六十一。復數。</p>
+      <p>見閏分二萬四千一百九十二。</p>
+      <p>積月十九，月餘三萬二千三十九。</p>
+   <pb n="0994"/>
+      <p>見月法四萬一千五十九。</p>
+      <p>晨中分二萬三千三百二十八。</p>
+      <p>積中十，中餘千七百一十八。（「十」一作「七」） <note>積中十，中餘千七百一十八。（「十」一作「七」） <persName xml:id="WangXianqian王先謙"
+               >王先謙</persName>說「『十』一作『七』」四字乃後人校 語，此下並同。 按<date type="regnal"
+               >景祐</date>、<place>殿</place>本「十」作「七」。</note>
+      </p>
+      <p>夕中分萬八千一百四十四。</p>
+      <p>積中八，中餘八百五十六。</p>
+      <p>晨閏分萬三千六百八。</p>
+      <p>積月十一，月餘五千一百九十一。</p>
+      <p>夕閏分萬五百八十四。</p>
+      <p>積月八，月餘二萬六千八百四十八。</p>
+      <p>見中日法九百九十七萬七千三百三十七。</p>
+      <p>見月日法三百三十二萬五千七百七十九。</p>
+      <p>土木相乘而合經緯為三十，是為<name type="tianwen">鎮星</name>小周。小周乘<bibl xml:id="Chuan巛"
+         ></bibl>策，為四千三百二十，是為<name type="tianwen">鎮星</name>歲數。</p>
+      <p>見中分五萬一千八百四十。</p>
+      <p>積中十二，中餘千七百四十。</p>
+   <pb n="0995"/>
+      <p>見中法四千一百七十五。見數也。</p>
+      <p>見閏分三萬二百四十。</p>
+      <p>積月十二，月餘六萬三千三百。</p>
+      <p>見月法七萬九千三百二十五。</p>
+      <p>見中日法千九百二十七萬五千九百七十五。</p>
+      <p>見月日法六百四十二萬五千三百二十五。</p>
+      <p>火經特成，故二歲而過初，三十二過初為六十四歲而小周。小周乘<bibl xml:id="Qian乾">乾</bibl>策，則太陽大周，為萬三千八百二十四歲，是為<name type="tianwen">熒惑</name>歲數。</p>
+      <p>見中分十六萬五千八百八十八。</p>
+      <p>積中二十五，中餘四千一百六十三。</p>
+      <p>見中法六千四百六十九。見數也。</p>
+      <p>見閏分九萬六千七百六十八。</p>
+      <p>積月二十六，月餘五萬二千九百五十四。</p>
+      <p>見月法十二萬二千九百一十一。（「二千」一作「一千」）</p>
+      <p>見中日法二千九百八十六萬七千三百七十三。</p>
+   <pb n="0996"/>
+      <p>見月日法九百九十五萬五千七百九十一。</p>
+      <p>水經特成，故一歲而及初，六十四及初而小復。小復乘<bibl xml:id="Chuan巛"></bibl>策，則太陰大周，為九千二百一十六歲，是為<name type="tianwen">辰星</name>歲數。</p>
+      <p>見中分十一萬五百九十二。</p>
+      <p>積中三，中餘三萬二千四百六十九。</p>
+      <p>見中法二萬九千四十一。復數也。</p>
+      <p>見閏分六萬四千五百一十二。</p>
+      <p>積月三，月餘五十一萬四百二十三。</p>
+      <p>見月法五十五萬一千七百七十九。</p>
+      <p>晨中分六萬二千二百八。</p>
+      <p>積中二，中餘四千一百二十六。</p>
+      <p>夕中分四萬八千三百八十四。</p>
+      <p>積中一，中餘萬九千三百四十三。</p>
+      <p>晨閏分三萬六千二百八十八。</p>
+      <p>積月二，月餘十一萬四千六百八十二。</p>
+   <pb n="0997"/>
+      <p>夕閏分二萬八千二百二十四。</p>
+      <p>積月一，月餘三十九萬五千七百四十一。</p>
+      <p>見中日法一億三千四百八萬二千二百九十七。</p>
+      <p>見月日法四千四百六十九萬四千九十九。</p>
+      <p>合太陰太陽之歲數而中分之，各萬一千五百二十。陽施其氣，陰成其物。</p>
+      <p>以星行率減歲數，餘則見數也。</p>
+      <p>東九西七乘歲數，并九七為法，得一，<name type="tianwen">金</name>、<name type="tianwen">水</name>晨夕歲數。</p>
+      <p>以歲中乘歲數，是為星見中分。</p>
+      <p>星見數，是為見中法。</p>
+      <p>以歲閏乘歲數，是為星見閏分。</p>
+      <p>以章歲乘見數，是為見月法。</p>
+      <p>以元法乘見數，是為見中日法。</p>
+      <p>以統法乘見數，是為見月日法。</p>
+      <p>五步</p>
+      <pb n="0998"/>
+      <p><name type="tianwen">木</name>，晨始見，去日半次。順，日行十一分度二，百二十一日。始留，二十五日而旋。逆，日行七分度一，八十四日。復留，二十四日三分而旋。復順，日行十一分度二，百一十一日有百八十二萬八千三百六十二分而伏。凡見三百六十五日有百八十二萬八千三百六十五分，除逆，定行星三十度百六十六萬一千二百八十六分。凡見一歲，行一次而後伏。日行不盈十一分度一。伏三十三日三百三十三萬四千七百三十七分，行星三度百六十七萬三千四百五十一（一作「三」）分。一見，三百九十八日五百一十六萬三千一百二分，行星三十三度三百三十三萬四千七百三十七分。通其率，故曰日行千七百二十八分度之百四十五。</p>
+      <p><name type="tianwen">金</name>，晨始見，去日半次。逆，日行二分度一，六日。始留，八日而旋。始順，日行四十六分度三十三，四十六日。順，疾，日行一度九十二分度十五，百八十四日而伏。凡見二百四十四日，除逆，定行星二百四十四度。伏，日行一度九十二分度三十三有奇。
+               <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「奇音居宜反。下皆類此。」</note>
+         伏八十三日，行星百一十三度四百三十六萬五千二百二十分。凡晨見、伏三百二十七日，行星三百五十七度四百三十六萬五千二百二十分。夕始見，去日半次。順，日行一度九十二分度十五，百八十一日百七分日四十五。順，遲，日行四十六分度三（一作「四」）十三，四十六日。始留，七日百七分日六十二分而旋。逆，日行二（一作「三」）分度一，六日而伏。凡見二百四十一日，除逆，定行星二百四十一度。伏，逆，日行八分度七有奇。伏十六（「一作六十」）日百二十九萬五<pb n="0999"/>千三百五十二分，行星十四度三百六萬九千八百六十八分。一凡夕見伏，二百五十七日百二十九萬五千三百五十二（一作「一」）分，行星二百二十六度六百九十萬七千四百六十九分。一復，五百八十四日百二十九萬五千三百五十二分。行星亦如之，故曰日行一度。</p>
+      <p><name type="tianwen">土</name>，晨始見，去日半次。順，日行十五分度一，八十七日，始留，三十四日而旋。逆，日行八十一分度五，百一日。復留，三十三日八十六萬二千四百五十五分而旋。復順，日行十五分度一，八十五日而伏。凡見三百四十日八十六萬二千四百五十五分，除逆，定（一多「餘」字）行星五度四百四十七萬三千九百三十分。伏，日行不盈十五分度三。（百）三十七日
+            <note>（百）三十七日 <persName xml:id="QianDaxin錢大昕">錢大昕</persName>說「百」字衍。按<date type="regnal"
+               >景祐</date>本無「百」字。</note>
+         千七百一十七萬一百七十分，行星七度八百七十三萬六千五百七十分。一見，三百七十七日千八百三萬二千六百二十五分，行星十二度千三百二十一萬五百分。通其率，故曰日行四千三百二十分度之百四十五。</p>
+      <p><name type="tianwen">火</name>，晨始見，去日半次。順，日行九十二分度五十三，二百七十六日，始留，十日而旋。逆，日行六十二分度十七，六十二日。復留，十日而旋。復順，日行九十二分度五十三，二百七十六日而伏。凡見六百三十四日，除逆，定行星三百一度。伏，日行不盈九十二分度七十三（分），
+               <note>日行不盈九十二分度七十三（分）。<persName xml:id="QianDaxin錢大昕"> 錢大昕</persName>說下「分」字衍。</note>
+         伏百四十六日千五百六十八萬九千七百分，行星百一十四度八百二十一萬八千五<pb n="1000"/>分。一見，七百八十日千五百六十八萬九千七百分，凡行星四百一十五度八百二十一萬八千五分。通其率，故曰日行萬三千八百二十四分度之七千三百五十五。</p>
+      <p><name type="tianwen">水</name>，晨始見，去日半次。逆，日行二度，一日。始留，二日而旋。順，日行七分度六，（一多「十」字）七日。順，疾，日行一度三分度一，（一多「一」字）十八日而伏。凡見二十八日，除逆，定行星二十八度。伏，日行一度九分度七有奇，三十七日一億二千二百二萬九千六百五分，行星六十八度四千六百六十一萬一百二十八分。凡晨見、伏，六十五日一億二千二百二萬九千六百五分，行星九十六度四千六百六十一萬一百二十八分。夕始見，去日半次。順，疾，日行一度三分度一，十六日二分日一。順，遲，日行七分度六，七（一作「十」）日。留，一日二分日一而旋。逆，日行二度，一日而伏。凡見二十六日，除逆，定行星二十六度。伏，逆，日行十五分度四有奇，二十四日，行星六度五千八百六十六萬二千八百二十分。凡夕見伏，五十日，行星十九度七千五百四十一萬九千四百七十七分。一復，百一十五日一億二千二百二萬九千六百五分。行星亦如之，故曰日行一度。</p>
+      <p>統術</p>
+      <p>推日月元統，置太極上元以來，外所求年，盈元法除之，餘不盈統者，則天統甲子以來<pb n="1001"/>年數也。盈統，除之，餘則地統甲辰以來年數也。又盈統，除之，餘則人統甲申以來年數也。各以其統首日為紀。</p>
+      <p>推天正，以章月乘（人）〔入〕統歲數， <note>以章月乘（人）（入）統歲數， <persName xml:id="QianDaxin錢大昕"
+            >錢大昕</persName>說「人」當作「入」。</note> 盈章歲得一，名曰積月，不盈者名曰閏餘。閏餘十二以上，歲有閏。求地正，加積月一；求人正，加二。</p>
+      <p>推正月朔，以月法乘積月，盈日法得一，名曰積日，不盈者名曰小餘。小餘三十八以上，其月大。積日盈六十，除之，不盈者名曰大餘。數從統首日起，算外，則朔日也。求其次月，加大餘二十九，小餘四十三。小餘盈日法得一，從大餘，數除如法。求弦，加大餘七，小餘三十一。求望，倍弦。</p>
+      <p>推閏餘所在，以十二乘閏餘，加（十）〔七〕得一。 <note>加（十）〔七〕得一。 <persName xml:id="QianDaxin錢大昕"
+            >錢大昕</persName>說「加十」當作「加七」。</note> 盈章中，數所得，起冬至，算外，則中至終閏盈。中氣在朔若二日，則前月閏也。</p>
+      <p>推冬至，以（算）〔策〕餘乘（人）〔入〕統歲數， <note>以（算）〔策〕餘乘（人）（入）統歲數， <persName xml:id="QianDaxin錢大昕"
+               >錢大昕</persName>說「算」當作「策」，「人」當作「入」。</note> 盈統法得一，名曰大餘，不盈者名曰小餘。除數如法，則所求冬至日也。</p>
+      <p>求八節，加大餘四十五，小餘千一（百）〔十〕。 <note>小餘千一（百）〔十〕。 <persName xml:id="LinWenbing林文炳"
+            >林文炳</persName>說當作「小餘千一十」。 按<date type="regnal">景祐</date>本正作「一十」。</note>
+         求二十四氣，三其小餘，加大餘十五，小餘千一十。</p>
+      <p>推中部二十四氣，皆以元為法。</p>
+   <pb n="1002"/>
+      <p>推五行，其四行各七十三日，統（歲）〔法〕分之七十七。 <note>統（歲）〔法〕分之七十七。 <persName xml:id="QianDaxin錢大昕"
+               >錢大昕</persName>說「統歲」當作「統法」。 <persName xml:id="LiRui李銳"
+            >李銳</persName>說「統歲」卽「統法」。</note> 中央各十八日，統法分之四百四。冬至後，中央二十七日六百六分。</p>
+      <p>推合晨所在星，置積日，以統法乘之，以十九乘小餘而并之。盈周天，除去之；不盈者，令盈統法得一度。數起<name type="tianwen">牽牛</name>，算外，則合晨所入星度也。</p>
+      <p>推其日夜半所在星，以章歲乘月小餘，以減合晨度。小餘不足者，破全度。</p>
+      <p>推其月夜半所在星，以月周乘月小餘，盈統法得一度，以減合晨度。</p>
+      <p>推諸加時，以十二乘小餘為實，各盈分母為法，數起於子，算外，則所加辰也。</p>
+      <p>推月食，置會餘歲積月，以二十三乘之，盈百三十五，除之。不盈者，加二十三得一月，盈百三十五，數所得，起其正，算外，則食月也。加時，在望日衝辰。</p>
+      <p>紀術</p>
+      <p>推五星見復，置太極上元以來，盡所求年，乘大統見復數，盈歲數得一，則定見復數也。不盈者名曰見復餘。見復餘盈其見復數，一以上見在往年，倍一以上，又在前往年，不盈者在今年也。</p>
+      <p>推星所（一多「在」字）見中次，以見中分乘定見復數，盈見中法得一，則積中（法）也。 <note>盈見中法得一，則積中（法）也。 <persName
+               xml:id="QianDaxin錢大昕">錢大昕</persName>說下「法」字衍。</note>不<pb n="1003"/>盈者名曰中餘。以元中除積中，餘則中元餘也。以章中除之，餘則入章中數也。以十二除之，餘則星見中次也。中數從冬至起，次數從<name type="tianwen">星紀</name>起，算外，則星所見中次也。</p>
+      <p>推星見月，以閏分乘定見〔復數〕， <note>以閏分乘定見〔復數〕， 「復數」二字據<persName xml:id="LiRui李銳"
+            >李銳</persName>說增。</note> 以章歲乘中餘從之，盈見月法得一，并積中，則積月也。不盈者名曰月（中）餘。 <note>不盈者名曰月（中）餘。
+               <persName xml:id="QianDaxin錢大昕">錢大昕</persName>說「中」字衍。</note>
+         以元月除積月餘，名曰月元餘。以章月除月元餘，則入章月數也。以十二除之，至有閏之歲，除十三入章。三歲一閏，六歲二閏，九歲三閏，十一歲四閏，十四歲五閏，十七歲六閏，十九歲七閏。不盈者數起於天正，算外，則星所見月也。</p>
+      <p>推至日，以中法乘中元餘，盈元法得一，名曰積日，不盈者名曰小餘。小餘盈二千五百九十七以上，中大。數除積日如法，算外，則冬至也。</p>
+      <p>推朔日，以月法乘月元餘，盈日法得一，名曰積日，餘名曰小餘。小餘三十八以上，月大。數除積日如法，算外，則星見月朔日也。</p>
+      <p>推入中次日度數，以中法乘中餘，以見中法乘其小餘并之，盈見中日法得一，則入中日入次度數也。中（次）〔以〕至日數， <note>中（次）〔以〕至日數， <persName
+               xml:id="QianDaxin錢大昕">錢大昕</persName>說「次」當作「以」。</note>
+         次以次初數，算外，則星所見及日所在度數也。求夕，在日後十五度。</p>
+      <p>推入月日數，以月法乘月餘，以見月法乘其小餘并之，盈見月日法得一，則入月日數也。并之大餘，數除如法，則見日也。</p>
+   <pb n="1004"/>
+      <p>推後見中，加積中於中元餘，加後〔中〕餘於中餘，盈其法得一，從中元餘，〔除〕數如法，則〔後〕見〔中〕也。
+            <note>加後〔中〕餘於中餘，盈其法得一，從中元餘，〔除〕數如法，則〔後〕見〔中〕也。 前「中」、「除」、「後」三字都據<persName
+               xml:id="QianDaxin錢大昕">錢大昕</persName>說增，後「中」字據<date type="regnal"
+               >景祐</date>、<place>殿</place>本增，原注有「一多『中』字」四字。</note>
+      </p>
+      <p>推後見月，加積月於月元餘，加後月餘於月餘，盈其法得一，從月元餘，除數如法，則後見月也。</p>
+      <p>推至日及入中次度數，如上法。</p>
+      <p>推朔日及入月數，如上法</p>
+      <p>推晨見加夕，夕見加晨，皆如上法。</p>
+      <p>推五步，置始見以來日數，至所求日，各以其行度數乘之。其星若日有分者，分子乘全為實，分母為法。其兩有分者，分母分度數乘全，分子從之，令相乘為實，分母相乘為法，實如法得一，名曰積度。數起星初見（星宿）所在宿度，
+            <note>數起星初見（星宿）所在宿度， <persName xml:id="LiRui李銳">李銳</persName>說「星宿」二字衍。</note>
+         算外，則星所在宿度也。</p>
+      <p>歲術</p>
+      <p>推<name type="tianwen">歲</name>所在，置上元以來，外所求年，盈歲數，除去之，不盈者以百四十五乘之，以百四十四為法，如法得一，名曰積次，不盈者名曰次餘。積次盈十二，除去之，不盈者名曰定次。數從星紀起，算盡之外，則所在次也。欲知<name type="tianwen">太歲</name>，以六十除（餘）積次， <note>以六十除（餘）積次， <persName xml:id="QianDaxin錢大昕"
+               >錢大昕</persName>說「餘」字衍。</note>餘不盈者，數從丙子起，<pb n="1005"/>算盡之外，則<name type="tianwen">太歲</name>日也。</p>
+      <p>贏縮。傳曰：「<name type="tianwen">歲</name>棄其次而旅於明年之次，以害鳥帑， <note>[一]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「帑與奴同。」</note>
+         <place xml:id="Zhou周">周</place><place xml:id="Chu楚">楚</place>惡之。」五星之（盈）〔贏〕縮不是過也。
+            <note>五星之（盈）〔贏〕縮不是過也。 <date type="regnal">景祐</date>、<place>殿</place>本都作「贏」。</note>
+         過次者殃大，過舍者災小，不過者亡咎。次度。六物者，歲時（數）日月星辰也。 <note>歲時（數）日月星辰也。 <persName xml:id="QianDaxin錢大昕"
+               >錢大昕</persName>說「數」字衍。</note> 辰者，日月之會而建所指也。</p>
+      <p><name type="tianwen">星紀</name>，初<name type="tianwen">斗</name>十二度，大雪。中<name type="tianwen">牽牛</name>初，冬至。於<place xml:id="Xia夏">夏</place>為十一月，<place
+         xml:id="Shang商">商</place>為十二月，<place xml:id="Zhou周">周</place>為正月。 終於<name type="tianwen">婺女</name>七度。</p>
+      <p><name type="tianwen">玄枵</name>，初<name type="tianwen">婺女</name>八度，小寒。中<name type="tianwen">危</name>初，大寒。於<place xml:id="Xia夏">夏</place>為十二月，<place xml:id="Shang商"
+         >商</place>為正月，<place xml:id="Zhou周">周</place>為二月。 終於<name type="tianwen">危</name>十五度。</p>
+      <p><name type="tianwen">諏訾</name>，初<name type="tianwen">危</name>十六度，立春。中<name type="tianwen">營室</name>十四度，驚蟄。今曰雨水，於<place xml:id="Xia夏">夏</place>為正月，<place
+         xml:id="Shang商">商</place>為二月，<place xml:id="Zhou周">周</place>為三月。 終於<name type="tianwen">奎</name>四度。</p>
+      <p><name type="tianwen">降婁</name>，初<name type="tianwen">奎</name>五度，雨水。今曰驚蟄。 中<name type="tianwen">婁</name>四度，春分。於<place xml:id="Xia夏">夏</place>為二月，<place xml:id="Shang商"
+         >商</place>為三月，<place xml:id="Zhou周">周</place>為四月。 終於<name type="tianwen">胃</name>六度。</p>
+      <p><name type="tianwen">大梁</name>，初<name type="tianwen">胃</name>七度，穀雨。今曰清明。 中<name type="tianwen">昴</name>八度，清明。今曰穀雨，於<place xml:id="Xia夏">夏</place>為三月，<place
+         xml:id="Shang商">商</place>為四月，<place xml:id="Zhou周">周</place>為五月。 終於<name type="tianwen">畢</name>十一度。</p>
+
+   <pb n="1006"/>
+
+      <p><name type="tianwen">實沈</name>、初<name type="tianwen">畢</name>十二度，立夏。中<name type="tianwen">井</name>初，小滿。於<place xml:id="Xia夏">夏</place>為四月，<place xml:id="Shang商"
+         >商</place>為五月，<place xml:id="Zhou周">周</place>為六月。 終於<name type="tianwen">井</name>十五度。</p>
+      <p><name type="tianwen">鶉首</name>，初<namt>井</namt>十六度，芒種。中<name >井</name>三十一度，夏至。於<place xml:id="Xia夏">夏</place>為五月，<place
+         xml:id="Shang商">商</place>為六月，<place xml:id="Zhou周">周</place>為七月。 終於<name type="tianwen">柳</name>八度。
+      </p>
+      <p><name type="tianwen">鶉火</name>，初<name type="tianwen">柳</name>九度，小暑。中<name type="tianwen">張</name>三度，大暑。於<place xml:id="Xia夏">夏</place>為六月，<place xml:id="Shang商"
+         >商</place>為七月，<place xml:id="Zhou周">周</place>為八月。 終於<name type="tianwen">張</name>十七度。</p>
+      <p><name type="tianwen">鶉尾</name>，初<name type="tianwen">張</name>十八度，立秋。中<name type="tianwen">翼</name>十五度，處暑。於<place xml:id="Xia夏">夏</place>為七月，<place xml:id="Shang商"
+         >商</place>為八月，<place xml:id="Zhou周">周</place>為九月。 終於<name type="tianwen">軫</name>十一度。</p>
+      <p><name type="tianwen">壽星</name>，初<name type="tianwen">軫</name>十二度，白露。中<name type="tianwen">角</name>十度，秋分。於<place xml:id="Xia夏">夏</place>為八月，<place xml:id="Shang商"
+         >商</place>為九月，<place xml:id="Zhou周">周</place>為十月。 終於<name type="tianwen">氐</name>四度。</p>
+      <p><name type="tianwen">大火</name>，初<name type="tianwen">氐</name>五度，寒露。中<name type="tianwen">房</name>五度，霜降。於<place xml:id="Xia夏">夏</place>為九月，<place xml:id="Shang商"
+         >商</place>為十月，<place xml:id="Zhou周">周</place>為十一月。 終於<name type="tianwen">尾</name>九度。</p>
+      <p><name type="tianwen">析木</name>，初<name type="tianwen">尾</name>十度，立冬。中<name type="tianwen">箕</name>七度，小雪。於<place xml:id="Xia夏">夏</place>為十月，<place xml:id="Shang商"
+         >商</place>為十一月，<place xml:id="Zhou周">周</place>為十二月。 終於<name type="tianwen">斗</name>十一度。</p>
+      <!-- Here begins what I think should be a table -->
+      <p><name type="tianwen">角</name>十二。 <name type="tianwen">亢</name>九。 <name type="tianwen">氐</name>十五。 <name type="tianwen">房</name>五。 <name type="tianwen">心</name>五。 <name type="tianwen">尾</name>十八。<name type="tianwen">箕</name>十一。</p>
+   <pb n="1007"/>
+      <p>東七十五度。</p>
+      <p><name type="tianwen">斗</name>二十六。 <name type="tianwen">牛</name>八。 <name type="tianwen">女</name>十二。 <name type="tianwen">虛</name>十。 <name type="tianwen">危</name>十七。 <name type="tianwen">營室</name>十六。<name type="tianwen">壁</name>九。</p>
+      <p>北九十八度。</p>
+      <p><name type="tianwen">奎</name>十六。 <name type="tianwen">婁</name>十二。 <name type="tianwen">胃</name>十四。 <name type="tianwen">昴</name>十一。 <name type="tianwen">畢</name>十六。 <name type="tianwen">觜</name>二。<name type="tianwen">參</name>九。</p>
+      <p>西八十度。</p>
+      <p><name type="tianwen">井</name>三十三。 <name type="tianwen">鬼</name>四。 <name type="tianwen">柳</name>十五。 <name type="tianwen">星</name>七。 <name type="tianwen">張</name>十八。
+         <name type="tianwen">翼</name>十八。<name type="tianwen">軫</name>十七。</p>
+      <p>南百一十二度。</p>
+      <p>九章歲為百七十一歲，而九道小終。九終千五百三十九歲而大終。三終而與元終。進退於<name type="tianwen">牽牛</name>之前四度五分。九會。陽以九終，故日有九道。陰兼而成之，故月有十九道。陽名成功，故九會而終。四營而成易，故四歲中餘一，四章而朔餘一，為篇首，八十一章而終一統。</p>
+      <p>一，甲子元首。<place xml:id="Han漢">漢</place><date type="regnal">太初</date>元年。 十，辛酉。 十九，己未。 二十八，丁巳。
+         三十七，乙<pb n="1008"/>卯。 四十六，壬子。 五十五，庚戌。 六十四，戊申。 七十三，丙午，中。</p>
+      <p>甲辰二統。 辛丑。 己亥。 丁酉。 乙未。 壬辰。 庚寅。 戊子。 丙戌，季。</p>
+      <p>甲申三統。 辛巳。 己卯。 丁丑。<persName xml:id="ZhouWenWang周文王">文王</persName>四十二年。 乙亥。<date type="regnal"
+            >微</date>二十六年。 壬申。庚午。 戊辰。 丙寅，孟。<date type="regnal">愍</date>二十二年。</p>
+      <p>二，癸卯。 十一，辛丑。 二十，己亥。 二十九，丁酉。 （二）〔三〕十八，甲午。 <note>（二）〔三〕十八，甲午。 <date type="regnal"
+               >景祐</date>、<place>殿</place>、<place>局</place>本都作「三」。 <persName
+               xml:id="WangXianqian王先謙">王先謙</persName>說作「三」是。</note> 四十七，壬辰。 五十六，庚寅。 六十五，戊子。
+         七十四，乙酉，中。</p>
+      <p>癸未。 辛巳。 己卯。 丁丑。 甲戌。 壬申。 庚午。 戊辰。 乙丑，季。</p>
+      <p>癸亥。 辛酉。 己未。 丁巳。<persName xml:id="ZhouGong周公">周公</persName>五年。 甲寅。 壬子。 庚戌。 戊申<date
+            type="regnal">元</date>四年。 乙巳，孟。</p>
+      <p>三，癸未。 十二，辛巳。 二十一，己卯。 三十，丙子。 三十九，甲戌。 四十八，壬申。 五十七，庚子。 六十六，丁卯。 七十五，乙丑，中。</p>
+      <p>癸亥。 辛酉。 己未。 丙辰。 甲寅。 壬子。 庚戌。 丁未。 乙巳，季。</p>
+      <p>癸卯。 辛丑。 己亥。 丙申。 甲午。 壬辰。 庚寅。<date type="regnal">成</date>十二年。 丁亥。乙酉，孟。</p>
+   <pb n="1009"/>
+      <p>四，癸亥。<date type="regnal">初元</date>二年。 十三，辛酉。 二十二，戊午。 三十一，丙辰。 四十，甲寅。四十九，壬子。 五十八，己酉。 六十七，丁未。
+         七十六，乙巳，中。</p>
+      <p>癸卯。 辛丑。 戊戌。 丙申。 甲午。 壬辰。 己丑。 丁亥。 乙酉，季。</p>
+      <p>癸未。 辛巳。 戊寅。 丙子。 甲戌。 壬申。<date type="regnal">惠</date>三十八年。 己巳。 丁卯。乙丑，孟。</p>
+      <p>五，癸卯。<date type="regnal">河平</date>元年。 十四，庚子。 二十三，戊戌。 三十二，丙申。 四十一，甲午。 五十，辛卯。 五十九，己丑。 六十八，丁亥。
+         七十七，乙酉，中。</p>
+      <p>癸未。 庚辰。 戊寅。 丙子。 甲戌。 辛未。 己巳。 丁卯。 乙丑，季。<place xml:id="Shang商">商</place><date type="regnal"
+            >太甲</date>元年。</p>
+      <p>癸亥。 庚申。 戊午。 丙辰。 甲寅。<date type="regnal">獻</date>十五年。 辛亥。 己酉。 丁未。乙巳，孟。<date type="regnal"
+            >楚元</date>三年。</p>
+      <p>六，壬午。 十五，庚辰。 二十四，戊寅。 三十三，丙子。 四十二，癸酉。 五十一，辛未。 六十，己巳。 六十九，丁卯。 七十八，甲子，中。</p>
+      <p>壬戌。 庚申。 戊午。 丙辰。 癸丑。 辛亥。 己酉。 丁未。 甲辰，季。</p>
+      <p>壬寅。 庚子。 戊戌。 丙申。<date type="regnal">煬</date>二十四年。 癸巳。 辛卯。 己丑。 丁亥。
+   <pb n="1010"/><date type="regnal">康</date>四年。 甲申，孟。
+   </p>
+
+      <p>七，壬戌。<date type="regnal">始建國</date>三年。 十六，庚申。 二十五，戊午。 三十四，乙卯。 四十三，癸丑。 五十二，辛亥。 六十一，己酉。
+         七十，丙午。 七十九，甲辰，中。</p>
+
+      <p>壬寅。 庚子。 戊戌。 乙未。 癸巳。 辛卯。 己丑。 丙戌。 甲申，季。</p>
+
+      <p>壬午。 庚辰。 戊寅。 乙亥。 癸酉。 辛未。 己巳。<date type="regnal">定</date>七年。 丙寅。 甲子，孟。</p>
+
+      <p>八，壬寅。 十七，庚子。 二十六，丁酉。 三十五，乙未。 四十四，癸巳。 五十三，辛卯。 六十二，戊子。 七十一，丙戌。 八十，甲申，中。</p>
+      <p>壬午。 庚辰。 丁丑。 乙亥。 癸酉。 辛未。 戊辰。 丙寅。 甲子，季。</p>
+      <p>壬戌。 庚申。 丁巳。 乙卯。 癸丑。 辛亥。<date type="regnal">僖</date>五年。 戊甲。 丙午。甲辰，孟。</p>
+      <p>九，壬午。 十八，己卯。 二十七，丁丑。 三十六，乙亥。 四十五，癸酉。 五十四，庚午。 六十三，戊辰。 七十二，丙寅。 八十一，甲子，中。</p>
+      <p>壬戌。 己未。 丁巳。 乙卯。 癸丑。 庚戌。 戊申。 丙午。 甲辰，季。</p>
+      <p>壬寅。 己亥。 丁酉。 乙未。 癸巳。<date type="regnal">懿</date>九年。 庚寅。 戊子。 丙戌。<pb n="1011"/>甲申，孟。<date type="regnal">元朔</date>六年。</p>
+      <p>推章首朔旦冬至日，置大餘三十九，小餘六十一，數除如法，各從其統首起。求其後章，當加大餘三十九，小餘六十一，各盡其八十一章。</p>
+      <p>推篇，大餘亦如之，小餘加一。求周至，加大餘五十九，小餘二十一。</p>
+   </div>
+   <div><!-- embedded text -->
+      <p>世經</p><!-- this will be a header-->
+      <p><bibl xml:id="Chunqiu春秋">春秋</bibl><date type="regnal">昭公</date>十七年「<persName
+            xml:id="TanZi郯子">郯子</persName>來朝」，傳曰<persName xml:id="Zhaozi昭子">昭子</persName>問<persName
+            xml:id="ShaohaoZhi少昊縶">少昊氏</persName>鳥名何故， <note>[一]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「<place xml:id="Tan郯">郯</place>，國名；子，其君之爵也。<place xml:id="Tanguo郯國"
+               >郯國</place>卽<place xml:id="Donghai東海">東海</place><place xml:id="Tanxian郯縣"
+               >郯縣</place>是也。朝，朝於<place xml:id="Lu魯">魯</place>也。<persName xml:id="Zhaozi"
+               >昭子</persName>，魯大夫<persName xml:id="ShusunZhaozi叔孫昭子">叔孫昭子</persName>也，名<persName
+               xml:id="ShusunZhaozi叔孫昭子">婼</persName>。」</note> 對曰：「吾祖也，我知之矣。昔者，<persName
+            xml:id="Huangdi黃帝">黃帝</persName>氏以雲紀，故為雲師而雲名；<persName xml:id="Yandi炎帝"
+            >炎帝</persName>氏以火紀，故為火師而火名；<persName xml:id="Gonggong共工">共工</persName>氏以水紀，故為水師而水名；
+               <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「共讀曰龔。下皆類此。」</note>
+         <persName xml:id="FuXi伏戲">太昊</persName>氏以龍紀，故為龍師而龍名。我高祖<persName xml:id="ShaohaoZhi少昊縶"
+            >少昊（縶）〔摯〕</persName>之立也， <note>我高祖<persName xml:id="ShaohaoZhi少昊縶"
+            >少昊（縶）〔摯〕</persName>之立也， <date type="regnal"
+            >景祐</date>、<place>殿</place>、<place>局</place>本都作「摯」。 <persName xml:id="WangXianqian王先謙"
+               >王先謙</persName>說作「摯」是。</note> 鳳鳥適至，故紀於鳥，為鳥師而鳥名。」言<persName xml:id="TanZi郯子"
+            >郯子</persName>據<persName xml:id="ShaohaoZhi少昊縶">少昊</persName>受<persName
+            xml:id="Huangdi黃帝">黃帝</persName>，<persName xml:id="Huangdi黃帝">黃帝</persName>受<persName
+            xml:id="Yandi炎帝">炎帝</persName>，<persName xml:id="Yandi炎帝">炎帝</persName>受<persName
+            xml:id="Gonggong共工">共工</persName>，<persName xml:id="Gonggong共工">共工</persName>受<persName
+            xml:id="FuXi伏戲">太昊</persName>，故先言<persName xml:id="Huangdi黃帝">黃帝</persName>，上及<persName
+            xml:id="FuXi伏戲">太昊</persName>。稽之於<bibl xml:id="Yi易">易</bibl>，<persName xml:id="FuXi伏戲"
+            >炮犧</persName>、<persName xml:id="Yandi炎帝">神農</persName>、<persName xml:id="Huangdi黃帝"
+            >黃帝</persName>相繼之世可知。 <note>[三]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「炮與庖同也。」</note>
+      </p>
+      <p><persName xml:id="FuXi伏戲">太昊帝</persName><!-- There is space here that should be preserved. Same is true for the other legendary emperors -->
+         <bibl xml:id="Yi易">易</bibl>曰：「<persName xml:id="FuXi伏戲">炮犧氏</persName>之王天下也。」言<persName
+            xml:id="FuXi伏戲">炮犧</persName>繼天而王，為百王先，首德始於木，故為<pb n="1012"/><persName xml:id="FuXi伏戲">帝太昊</persName>。作罔罟以田漁，取犧牲， <note>[一]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「罟音古。」</note> 故天下號曰<persName xml:id="FuXi伏戲"
+            >炮犧氏</persName>。<bibl xml:id="Jidian祭典">祭典</bibl>曰：「<persName xml:id="Gonggong共工"
+            >共工氏</persName>伯九域。」 <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<bibl
+               xml:id="Jidian祭典">祭典</bibl>，卽<bibl xml:id="Lijing禮經">禮經</bibl><bibl xml:id="Jifa祭法"
+               >祭法</bibl>也。伯讀與霸同。下亦類此。」</note> 言雖有水德，在火木之間，非其序也。任知刑以彊，故伯而不王。<place xml:id="Qin秦"
+            >秦</place>以水德，在<place xml:id="Zhou周">周</place>、<place xml:id="Han漢">漢</place>木火之間。
+               <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「志言<place xml:id="Qin秦"
+               >秦</place>為閏位，亦猶<persName xml:id="Gonggong共工">共工</persName>不當五德之序。」</note>
+         <persName xml:id="Zhouren周人">周人</persName>興巳其行序，故<bibl xml:id="Yi易">易</bibl>不載。
+               <note>[四]<persName xml:id="DengZhan鄧展">鄧展</persName>曰：「興巳，去也，以其非次故去之。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「此指謂<persName xml:id="Gonggong共工"
+            >共工</persName>也。興巳，古遷字。其下並同。」</note>
+      </p>
+      <p><persName xml:id="Yandi炎帝">炎帝</persName>
+         <bibl xml:id="Yi易">易</bibl>曰：「<persName xml:id="FuXi伏戲">炮犧氏</persName>沒，<persName
+            xml:id="Yandi炎帝">神農氏</persName>作。」言<persName xml:id="Gonggong共工"
+            >共工</persName>伯而不王，雖有水德，非其序也。以火承木，故為<persName xml:id="Yandi炎帝"
+            >炎帝</persName>。教民耕農，故天下號曰<persName xml:id="Yandi炎帝">神農氏</persName>。</p>
+      <p><persName xml:id="Huangdi黃帝">黃帝</persName>
+         <bibl xml:id="Yi易">易</bibl>曰：「<persName xml:id="Yandi炎帝">神農氏</persName>沒，<persName
+            xml:id="Huangdi黃帝">黃帝氏</persName>作。」火生土，故為土德。與<persName xml:id="Yandi炎帝"
+            >炎帝</persName>之後戰於<place xml:id="Banquan阪泉">阪泉</place>，遂王天下。始垂衣裳，有軒冕之服，
+               <note>[一]<persName xml:id="DengZhan鄧展">鄧展</persName>曰：「凡冠，前卑後高，故曰軒冕也。」<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「此說非也。軒，軒車也。冕，冕服也。<bibl xml:id="Chunqiu春秋"
+               >春秋</bibl><bibl xml:id="Zuoshizhuan左氏傳">左氏傳</bibl>曰『服冕乘軒』。」</note>故天下號曰<persName
+            xml:id="Huangdi黃帝">軒轅氏</persName>。</p>
+      <p><persName xml:id="ShaohaoZhi少昊縶">少昊帝</persName>
+         <bibl xml:id="Kaode考德">考德</bibl>曰<persName xml:id="QingyangXuanxiao清陽玄囂"
+            >少昊</persName>曰<persName xml:id="QingyangXuanxiao清陽玄囂">清</persName>。 <note>[一]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「<bibl xml:id="Kaode考德">考德</bibl>者，考<persName
+               xml:id="Wudi五帝">五帝</persName>德之書也。」</note>
+         <persName xml:id="QingyangXuanxiao清陽玄囂">清</persName>者，<persName xml:id="Huangdi黃帝"
+            >黃帝</persName>之子<persName xml:id="QingyangXuanxiao清陽玄囂">清陽</persName>也，是其子孫名<persName
+            xml:id="ShaohaoZhi少昊縶">摯</persName>立。土生金，故為金德，天下號曰<persName xml:id="ShaohaoZhi少昊縶"
+            >金天氏</persName>。<place xml:id="Zhou周">周</place>興巳其樂，故<bibl xml:id="Yi易"
+         >易</bibl>不載，序於行。</p>
+   <pb n="1013"/>
+      <p><persName xml:id="Zhuanxu顓頊">顓頊帝</persName>
+         <bibl xml:id="Chunqiuwaizhuan春秋外傳">春秋外傳</bibl>曰，<persName xml:id="ShaohaoZhi少昊縶"
+            >少昊</persName>之衰，<persName xml:id="Jiuli九黎">九黎</persName>亂德，<persName xml:id="Zhuanxu顓頊"
+            >顓頊</persName>受之，乃命<persName xml:id="Zhongli重黎">重黎</persName>。<persName
+            xml:id="CanglinChangyi蒼林昌意">蒼林昌意</persName>之子也。金生水，故為水德。天下號曰<persName xml:id="Zhuanxu顓頊"
+            >高陽氏</persName>。<place xml:id="Zhou周">周</place>興巳其樂，故<bibl xml:id="Yi易"
+         >易</bibl>不載，序於行。</p>
+      <p><persName xml:id="DiKu帝嚳">帝嚳</persName>
+         <bibl xml:id="Chunqiuwaizhuan春秋外傳">春秋外傳</bibl>曰，<persName xml:id="Zhuanxu顓頊"
+            >顓頊</persName>之所建，<persName xml:id="DiKu帝嚳">帝嚳</persName>受之。<persName
+            xml:id="QingyangXuanxiao清陽玄囂">清陽玄囂</persName>之孫也。〔水〕生木（故）， <note>〔水〕生木（故）， <persName
+               xml:id="QianDaxin錢大昕">錢大昭</persName>說「生」上脫水「字」，「木」下衍「故」字。 按<date type="regnal"
+               >景祐</date>、<place>殿</place>本都作「水生木」。</note> 故為木德。天下號曰<persName xml:id="DiKu帝嚳"
+            >高辛氏</persName>。<persName xml:id="DiZhi帝摯">帝摯</persName>繼之，不知世數。<place xml:id="Zhou周"
+            >周</place>興巳其樂，故<bibl xml:id="Yi易">易</bibl>不載。<place xml:id="Zhou周">周</place>人禘之。</p>
+      <p><persName xml:id="Yao堯">唐帝</persName>
+         <bibl xml:id="Dixi帝系">帝系</bibl>曰，<persName xml:id="Diku帝嚳">帝嚳</persName>四妃，<persName
+            xml:id="ChenFeng陳豐">陳豐</persName>生<persName xml:id="Yao堯">帝堯</persName>，封於<place
+            xml:id="Tang唐">唐</place>。蓋<persName xml:id="DiKu帝嚳"
+            >高辛氏</persName>衰，天下歸之。木生火，故為火德，天下號曰<persName xml:id="Yao堯">陶唐氏</persName>。讓天下於<place
+            xml:id="Yu虞">虞</place>，使子<persName xml:id="Zhu朱">朱</persName>處于<place xml:id="Danyuan丹淵"
+            >丹淵</place>為諸侯。卽位七十載。</p>
+      <p><persName xml:id="Shun舜">虞帝</persName>
+         <bibl xml:id="Dixi帝系">帝系</bibl>曰，<persName xml:id="Zhuanxu顓頊">顓頊</persName>生<persName
+            xml:id="Qiongchan窮蟬">窮蟬</persName>，五世而生<persName xml:id="Gusou瞽叟"
+            >瞽叟</persName>，<persName xml:id="Gusou瞽叟">瞽叟</persName>生<persName xml:id="Shun舜"
+            >帝舜</persName>，處<place xml:id="Yu虞">虞</place>之<place xml:id="Gui媯">媯</place>汭，
+               <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<place xml:id="Gui媯"
+               >媯</place>，水名也。水曲曰汭，音人銳反。」</note>
+         <persName xml:id="Yao堯">堯</persName>嬗以天下。 <note>[二]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「嬗，古禪讓字也。其下亦同。」</note> 火生土，故為土德。天下號曰<persName xml:id="Shun舜"
+            >有虞氏</persName>。讓天下於<persName xml:id="Yu禹">禹</persName>，使子<persName xml:id="Shangjun商均"
+            >商均</persName>為諸侯。卽位五十載。</p>
+      <p><persName xml:id="Yu禹">伯禹</persName>
+         <bibl xml:id="Dixi帝系">帝系</bibl>曰，<persName xml:id="Zhuanxu顓頊">顓頊</persName>五世而生<persName
+            xml:id="Gun鯀">鯀</persName>，<persName xml:id="Gun鯀">鯀</persName>生<persName xml:id="Yu禹"
+            >禹</persName>，<persName xml:id="Shun舜">虞舜</persName>嬗以天下。土生金，故為金德。天下號曰<persName
+            xml:id="Shun舜">夏后氏</persName>。繼世十七王，四百三十二歲。</p>
+      <p><persName xml:id="Tang湯">成湯</persName>
+         <bibl xml:id="Shujing書經">書經</bibl><bibl xml:id="Tangshi湯誓">湯誓</bibl><persName
+            xml:id="Tang湯">湯</persName>伐<persName xml:id="Jie桀">夏桀</persName>。金生水，故為水德。天下號曰<place
+            xml:id="Shang商">商</place>，後曰<place xml:id="Yin殷">殷</place>。 <note>[一]<persName
+               xml:id="MengKang孟康">孟康</persName>曰：「初<persName xml:id="Xie契">契</persName>封<place
+               xml:id="Shang商">商</place>，<persName xml:id="Tang湯">湯</persName>居<place xml:id="Yin殷"
+               >殷</place>而受命，故二號。」</note>
+      </p>
+      <p><bibl xml:id="Santong三統">三統</bibl>，上元至伐<persName xml:id="Jie桀"
+         >桀</persName>之歲，十四萬一千四百八十歲，歲在<name type="tianwen">大火</name><name type="tianwen">房</name>五度，故傳曰：「<name type="tianwen">大火</name>，<persName xml:id="EBo閼伯"
+            >閼<pb n="1014"/>伯</persName>之星也，實紀<place xml:id="Shang商">商</place>人。」後為<persName
+            xml:id="Tang湯">成湯</persName>，方卽世崩沒之時，為天子用事十三年矣。<place xml:id="Shang商"
+            >商</place>十二月乙丑朔旦冬至，故<bibl xml:id="Shuxu書序">書序</bibl>曰：「<persName xml:id="Tang湯"
+            >成湯</persName>既沒，<date type="regnal">太甲</date>元年，使<persName xml:id="YiYin伊尹"
+            >伊尹</persName>作<bibl xml:id="Yixun伊訓">伊訓</bibl>。」<bibl xml:id="Yixun伊訓"
+            >伊訓</bibl>篇曰：「惟<date type="regnal">太甲</date>元年十有二月乙丑朔，<persName xml:id="YiYin伊尹"
+            >伊尹</persName>祀于先王，誕資有牧方明。」言雖有<persName xml:id="Tang湯">成湯</persName>、<persName
+            xml:id="Taiding太丁">太丁</persName>、<persName xml:id="Waibing外丙"
+         >外丙</persName>之服，以冬至越茀祀先王于方明 <note>[一]<persName xml:id="RuChun如淳"
+               >如淳</persName>曰：「覲禮，諸侯覲天子，為壇十有二尋，加方明于其上。」<persName xml:id="MengKang孟康"
+            >孟康</persName>曰：「方明者，神明之象也，以木為之，方四尺，畫六采，東青，西白，南赤，北黑，上玄，下黃。」</note>
+            以配上帝，是朔旦冬至之歲也。後九十五歲，<place xml:id="Shang商">商</place>十二月甲申朔旦冬至，亡餘分，是為孟統。自伐<persName
+            xml:id="Jie桀">桀</persName>至<persName xml:id="ZhouWuWang周武王">武王</persName>伐<persName
+            xml:id="Zhou紂">紂</persName>，六百二十九歲，故傳曰<place xml:id="Yin殷">殷</place>「載祀六百」。</p>
+      <p><bibl xml:id="Yinli殷曆">殷曆</bibl>曰，當<persName xml:id="Tang湯"
+         >成湯</persName>方卽世用事十三年，十一月甲子朔旦冬至，終六府首。 <note>[一]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「府首卽蔀首。」</note> 當<persName xml:id="ZhouGong周公"
+            >周公</persName>五年，則為距伐<persName xml:id="Jie桀">桀</persName>四百五十八歲，少百七十一歲，不盈六百二十九。又以<place
+            xml:id="Xia夏">夏</place>時乙丑為甲子，計其年乃孟統後五章，癸亥朔旦冬至也。以為甲子府首，皆非是。凡<place xml:id="Yin殷"
+            >殷</place>世繼嗣三十一王，六百二十九歲。</p>
+      <p><bibl xml:id="Sifen四分">四分</bibl>，上元至伐<persName xml:id="Jie桀"
+            >桀</persName>十三萬二千一百一十三歲，其八十八紀，甲子府首，入伐<persName xml:id="Jie桀">桀</persName>後百二十七歲。</p>
+      <p><bibl xml:id="Chunqiuli春秋曆">春秋曆</bibl>，<persName xml:id="ZhouWenWang周文王"
+            >周文王</persName>四十二年十二月丁丑朔旦冬至，孟統之二會首也。後八歲而<persName xml:id="ZhouWuWang周武王"
+            >武王</persName>伐<persName xml:id="Zhou紂">紂</persName>。</p>
+
+   <pb n="1015"/>
+
+      <p><persName xml:id="ZhouWuWang周武王">武王</persName>
+         <bibl xml:id="Shujing書經">書經</bibl><bibl xml:id="Mushi牧誓">牧誓</bibl><persName
+            xml:id="ZhouWuWang周武王">武王</persName>伐<persName xml:id="Zhou紂"
+            >商紂</persName>。水生木，故為木德。天下號曰<persName xml:id="ZhouWuWang周武王">周室</persName>。</p>
+      <p><bibl xml:id="Santong三統">三統</bibl>，上元至伐<persName xml:id="Zhou紂"
+         >紂</persName>之歲，十四萬二千一百九歲，歲在<name type="tianwen">鶉火</name><name type="tianwen">張</name>十三度。<persName xml:id="ZhouWenWang周文王">文王</persName>受命九年而崩，再期，在大祥而代<persName
+            xml:id="Zhou紂">紂</persName>，故<bibl xml:id="Shuxu書序">書序</bibl>曰：「惟十有一年，<persName
+            xml:id="ZhouWuWang周武王">武王</persName>伐<persName xml:id="Zhou紂">紂</persName>，〔作〕<bibl
+            xml:id="Taishi太誓">太誓</bibl>。」 <note><persName xml:id="ZhouWuWang周武王">武王</persName>伐<persName
+               xml:id="Zhou紂">紂</persName>，〔作〕<bibl xml:id="Taishi太誓">太誓</bibl>。 <persName
+               xml:id="WangXianqian王先謙">王先謙</persName>說以下文「故<bibl xml:id="Shuxu書序"
+               >書序</bibl>曰」至「作<bibl xml:id="Hongfan洪範">洪範</bibl>」例之，「太誓」上當有「作」字。</note>
+            八百諸侯會。還歸二年，乃遂伐<persName xml:id="Zhou紂">紂</persName>克<place xml:id="Yin殷"
+            >殷</place>，以<persName xml:id="JiZi箕子">箕子</persName>歸，十三年也。故<bibl xml:id="Shuxu書序"
+            >書序</bibl>曰：「<persName xml:id="ZhouWuWang周武王">武王</persName>克<place xml:id="Yin殷"
+            >殷</place>，以<persName xml:id="JiZi箕子">箕子</persName>歸，作<bibl xml:id="Hongfan洪範"
+            >洪範</bibl>。」<bibl xml:id="Hongfan洪範">洪範</bibl>篇曰：「惟十有三祀，王訪于<persName xml:id="JiZi箕子"
+               >箕子</persName>。」自<persName xml:id="ZhouWenWang周文王">文王</persName>受命而至此十三年，歲亦在<name type="tianwen">鶉火</name>，故傳曰：「歲在<name type="tianwen">鶉火</name>，則我<place
+                  xml:id="Youzhou有周">有周</place>之分壄也。」師初發，以<place xml:id="Yin殷">殷</place>十一月戊子，日在<name type="tianwen">析木</name><name type="tianwen">箕</name>七度，故傳曰：「日在<name type="tianwen">析木</name>。」是夕也，月在<name type="tianwen">房</name>五度。<name type="tianwen">房</name>為<name type="tianwen">天駟</name>，故傳曰：「月在<name type="tianwen">天駟</name>。」後三日得<place xml:id="Zhou周">周</place>正月辛卯朔，合辰在<name type="tianwen">斗</name>前一度，斗柄也，故傳曰：「辰在斗柄。」明日壬辰，<name type="tianwen">晨星</name>始見。
+               <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「，古晨字也。其字從臼。臼音居玉反。」</note>
+            癸巳<persName xml:id="ZhouWuWang周武王">武王</persName>始發，丙午還師，戊午度于<place xml:id="Mengjin孟津"
+            >孟津</place>。<place xml:id="Mengjin孟津">孟津</place>去<place xml:id="Zhou周"
+               >周</place>九百里，師行三十里，故三十一日而度。明日己未冬至，<name type="tianwen">星</name>與<name type="tianwen">婺女</name>伏，歷<name type="tianwen">建星</name>及<name type="tianwen">牽牛</name>，至於<name type="tianwen">婺女</name><name type="tianwen">天黿</name>之首，故傳曰：「星在<name type="tianwen">天黿</name>。」<bibl
+            xml:id="Zhoushu周書">周書</bibl><bibl xml:id="Wucheng武成">武成</bibl>篇：「惟一月壬辰，旁死霸，
+               <note>[二]<persName xml:id="MengKang孟康">孟康</persName>曰：「月二日以往，月〔生〕魄死（死）， 月〔生〕魄死（死），
+            景祐、殿本都作「月生魄死」。 故言死魄。魄，月質也。」<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「霸，古魄字同。」</note> 若翌日癸巳，<persName xml:id="ZhouWuWang周武王"
+            >武王</persName>乃朝步自<place xml:id="Zhou周">周</place>，于征伐<persName xml:id="Zhou紂"
+            >紂</persName>。」序曰：「一月戊午，師度于<place xml:id="Mengjin孟津">孟津</place>。」至庚申，二月朔日也。四日癸亥，至<place
+            xml:id="Muye牧壄">牧壄</place>，夜陳，甲子昧爽而合矣。故<bibl xml:id="Waizhuan外傳"
+            >外傳</bibl>曰：「王以二月癸亥夜陳。」<bibl xml:id="Wucheng武成">武成</bibl>篇曰：「粵若來三月，既死霸，粵五日甲子，咸劉<persName
+            xml:id="Zhou紂">商王紂</persName>。」 <note>[三]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「今文<bibl xml:id="Shangshu尚書">尚書</bibl>之辭。劉，殺也。」</note>
+            是歲也，閏數餘十八，正大寒中，在<place xml:id="Zhou周"
+            >周</place>二月己丑晦。明日閏月庚寅朔。三月二日庚申驚蟄。四月己丑朔死霸。死霸，朔也。生霸，望也。是月甲辰望，乙巳，旁之。故<bibl
+            xml:id="Wucheng武成">武成</bibl>篇曰：「惟四月<pb n="1016"/>既旁生霸，粵六日庚戌，<persName xml:id="ZhouWuWang周武王">武王</persName>燎于<place xml:id="Zhoumiao周廟"
+            >周廟</place>。翌日辛亥，祀于天位。粵五日乙卯，乃以庶國祀馘于<place xml:id="Zhoumiao周廟">周廟</place>。」
+               <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「亦今文<bibl xml:id="Shangshu尚書"
+               >尚書</bibl>也。祀馘，獻于廟而告祀也。截耳曰馘，音居獲反。」</note>
+         <persName xml:id="ZhouWenWang周文王">文王</persName>十五而生<persName xml:id="ZhouWuWang周武王"
+            >武王</persName>，受命九年而崩，崩後四年而<persName xml:id="ZhouWuWang周武王">武王</persName>克<place
+            xml:id="Yin殷">殷</place>。克<place xml:id="Yin殷">殷</place>之歲八十六矣，後七歲而崩。故<bibl
+            xml:id="Liji禮記">禮記</bibl><bibl xml:id="Wenwangshizi文王世子">文王世子</bibl>曰：「<persName
+            xml:id="ZhouWenWang周文王">文王</persName>九十七而終，<persName xml:id="ZhouWuWang周武王"
+            >武王</persName>九十三而終。」凡<persName xml:id="ZhouWuWang周武王">武王</persName>卽位十一年，<persName
+            xml:id="ZhouGong周公">周公</persName>攝政五年，正月丁巳朔旦冬至，<bibl xml:id="Yinli殷曆"
+            >殷曆</bibl>以為六年戊午，距<persName xml:id="LuYangGong魯煬公"
+            >煬公</persName>七十六歲，入孟統二十九章首也。後二歲，得<persName xml:id="ZhouGong周公"
+            >周公</persName>七年「復子明辟」之歲。是歲二月乙亥朔，庚寅望，後六日得乙未。故<bibl xml:id="Zhaogao召誥"
+            >召誥</bibl>曰：「惟二月既望，粵六日乙未。」又其三月甲辰朔，三日丙午。<bibl xml:id="Zhaogao召誥">召誥</bibl>曰：「惟三月丙午朏。」
+               <note>[五]<persName xml:id="MengKang孟康">孟康</persName>曰：「朏，月出也，音敷尾反。」</note> 古文<bibl
+            xml:id="Yuecai月采">月采</bibl>篇曰「三日曰朏」。 <note>[六]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「<bibl xml:id="Yuecai月采">月采</bibl>說月之光采，其書則亡。」</note>
+            是歲十二月戊辰晦，<persName xml:id="ZhouGong周公">周公</persName>以反政。故<bibl xml:id="Luogao洛誥"
+            >洛誥</bibl>篇曰：「戊辰，王在<place xml:id="Xinyi新邑">新邑</place>，烝祭歲，命作策，惟<persName
+            xml:id="ZhouGong周公">周公</persName>誕保<persName xml:id="ZhouWenWang周文王"
+         >文武</persName>受命，惟七年。」</p>
+      <p><persName xml:id="ZhouChengWang周成王">成王</persName>元年正月己巳朔，此命<persName xml:id="Boqin伯禽"
+            >伯禽</persName>俾侯于<place xml:id="Lu魯">魯</place>之歲也。 <note>[一]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「俾，使也。封之使為諸侯。」</note>後三十年四月庚戌朔，十五日甲<pb n="1017"/>子哉生霸。<note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「哉，始也。」</note> 故<bibl
+            xml:id="Guming顧命">顧命</bibl>曰「惟四月哉生霸，王有疾不豫，甲子，王乃洮沬水」，作<bibl xml:id="Guming顧命">顧命</bibl>。
+               <note>[三]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「洮，盥手也。沬，洗面也。洮音徒高反。沬卽頮字也，音呼內反。」</note> 翌日乙丑，<persName
+               xml:id="ZhouChengWang周成王">成王</persName>崩。<persName xml:id="ZhouKangWang周康王"
+            >康王</persName>十二年六月戊辰朔，三日庚午，故<bibl xml:id="Bimingfengxing畢命豐刑"
+         >畢命豐刑</bibl>曰：「惟十（月）〔有〕二年六月庚午朏， <note>惟十（月）〔有〕二年六月庚午朏， <date type="regnal"
+               >景祐</date>、<place>殿</place>、<place>局</place>本都作「有」。 <persName
+               xml:id="WangXianqian王先謙">王先謙</persName>說作「有」是。</note> 王命作策<bibl xml:id="Fengxing豐刑"
+            >豐刑</bibl>。」 <note>[四]<persName xml:id="MengKang孟康">孟康</persName>曰：「<bibl
+               xml:id="Yishu逸書">逸書</bibl>篇名。」</note>
+      </p>
+      <p><bibl xml:id="Chunqiu春秋">春秋</bibl>、<bibl xml:id="Yinli殷曆">殷曆</bibl>皆以<place xml:id="Yin殷"
+            >殷</place>，<place xml:id="Lu魯">魯</place>自<persName xml:id="ZhouZhaoWang周昭王"
+            >周昭王</persName>以下亡年數，故據<persName xml:id="ZhouGong周公">周公</persName>、<persName
+            xml:id="Boqin伯禽">伯禽</persName>以下為紀。<persName xml:id="Boqin伯禽"
+               >魯公伯禽</persName>，推卽位四十六年，至<persName xml:id="ZhouKangWang周康王">康王</persName>十六年而薨。故傳曰「<persName
+            xml:id="Xiefu燮父">燮父</persName>、<persName xml:id="Boqin伯禽">禽父</persName>並事<persName
+               xml:id="ZhouKangWang周康王">康王</persName>」， <note>[一]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「<persName xml:id="Xiefu燮父">燮父</persName>，<place xml:id="Jin晉"
+               >晉</place><persName xml:id="Tangshuyu唐叔虞">唐叔虞</persName>之子。<persName xml:id="BoQin伯禽"
+               >禽</persName>父，卽<persName xml:id="Boqin伯禽">伯禽</persName>也。父讀曰甫。甫者，男子之美稱。」</note>
+            言<persName xml:id="Xiefu燮父">晉侯燮</persName>、<persName xml:id="Boqin伯禽"
+               >魯公伯禽</persName>俱事<persName xml:id="ZhouKangWang周康王">康王</persName>也。子<persName
+            xml:id="LuKaoGong魯考公">考公就</persName>立，<persName xml:id="LuKaoGong魯考公">酋</persName>。
+               <note>[二]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「又記此酋者，諸說不同，而名字或異也。下皆放此。酋音在由反。」</note>
+         <persName xml:id="LuKaoGong魯考公">考公</persName>，<bibl xml:id="Shijia世家"
+            >世家</bibl>卽位四年，及<persName xml:id="LuYangGong魯煬公">煬公熙</persName>立。 <note>[三]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「及者，兄弟相及，非子繼父也。下皆類此。」</note>
+         <persName xml:id="LuYangGong魯煬公">煬公</persName>二十四年正月丙申朔旦冬至，<bibl xml:id="Yinli殷曆"
+            >殷曆</bibl>以為丁酉，距<persName xml:id="LuWeiGong魯微公">微公</persName>七十六歲。 <note>[四]<persName
+               xml:id="YanShigu顏師古">師古</persName>曰：「煬音弋向反。」</note>
+      </p>
+      <p><bibl xml:id="Shijia世家">世家</bibl>，<persName xml:id="LuYangGong魯煬公"
+            >煬公</persName>卽位六十年，子<persName xml:id="LuYouGong魯幽公">幽公宰</persName>立。<persName
+            xml:id="LuYouGong魯幽公">幽公</persName>，<bibl xml:id="Shijia世家">世家</bibl>卽位十四年，及<persName
+            xml:id="LuWeiGong魯微公">微公茀</persName>立，費。 <note>[一]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「茀音弗。費，古沸字。」</note><persName xml:id="LuWeiGong魯微公">微<pb n="1018"/>公</persName>二十六年正月乙亥朔旦冬至，<bibl xml:id="Yinli殷曆"
+            >殷曆</bibl>以為丙子，距<persName xml:id="LuXianGong魯獻公">獻公</persName>七十六歲。</p>
+      <p><bibl xml:id="Shijia世家">世家</bibl>，<persName xml:id="LuWeiGong魯微公"
+            >微公</persName>卽位五十年，子<persName xml:id="LuLiGong魯厲公">厲公翟</persName>立，<persName
+            xml:id="LuLiGong魯厲公">擢</persName>。<persName xml:id="LuLiGong魯厲公">厲公</persName>，<bibl
+            xml:id="Shijia世家">世家</bibl>卽位三十七年，及<persName xml:id="LuXianGong魯獻公"
+            >獻公具</persName>立。<persName xml:id="LuXianGong魯獻公">獻公</persName>十五年正月甲寅朔旦冬至，<bibl
+            xml:id="Yinli殷曆">殷曆</bibl>以為乙卯，距<persName xml:id="LuYiGong魯懿公">懿公</persName>七十六歲。</p>
+      <p><bibl xml:id="Shijia世家">世家</bibl>，<persName xml:id="LuXianGong魯獻公">獻公</persName>卽位五十年，子<persName
+            xml:id="LuShenGong魯慎公">慎公埶</persName>立，<persName xml:id="LuShenGong魯慎公">嚊</persName>。
+               <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「嚊音皮祕反，又音吁器反。」</note>
+         <persName xml:id="LuShenGong魯慎">慎公</persName>，<bibl xml:id="Shijia世家"
+            >世家</bibl>卽位三十年，及<persName xml:id="LuWuGong魯武公">武公敖</persName>立。<persName
+            xml:id="LuWuGong魯武公">武公</persName>，<bibl xml:id="Shijia世家">世家</bibl>卽位二年，子<persName
+            xml:id="LuYiGong魯懿公">懿公被</persName>立，<persName xml:id="LuYiGong魯懿公">戲</persName>。
+               <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「戲音許宜反。」</note>
+         <persName xml:id="LuYiGong魯懿公">懿公</persName>九年正月癸巳朔旦冬至，<bibl xml:id="Yinli殷曆"
+            >殷曆</bibl>以為甲午，距<persName xml:id="LuHuiGong魯惠公">惠公</persName>七十六歲。</p>
+      <p><bibl xml:id="Shijia世家">世家</bibl>，<persName xml:id="LuYiGong魯懿公"
+            >懿公</persName>卽位九年，兄子<persName xml:id="LuGongBaiyu魯公柏御">柏御</persName>立。<persName
+            xml:id="LuGongBaiyu魯公柏御">柏御</persName>，<bibl xml:id="Shijia世家"
+            >世家</bibl>卽位十一年，叔父<persName xml:id="LuXiaoGong魯孝公">孝公稱</persName>立。<persName
+            xml:id="LuXiaoGong魯孝公">孝公</persName>，<bibl xml:id="Shijia世家">世家</bibl>卽位二十七年，子<persName
+            xml:id="LuHuiGong魯惠公">惠公皇</persName>立。<persName xml:id="LuHuiGong魯惠公"
+            >惠公</persName>三十八年正月壬申朔旦冬至，<bibl xml:id="Yinli殷曆">殷曆</bibl>以為癸酉，距<persName
+            xml:id="LuLiGong魯釐公">釐公</persName>七十六歲。 <note>[一]<persName xml:id="YanShigu顏師古"
+               >師古</persName>曰：「釐讀曰僖。下皆類此。」</note>
+      </p>
+      <p><bibl xml:id="Shijia世家">世家</bibl>，<persName xml:id="LuHuiGong魯惠公"
+            >惠公</persName>卽位四十六年，子<persName xml:id="LuYinGong魯隱公">隱公息</persName>立。</p>
+      <p>凡<persName xml:id="Boqin伯禽">伯禽</persName>至<date type="">春秋</date>，三百八十六年。</p>
+   <pb n="1019"/>
+      <p><date type="">春秋</date>
+         <persName xml:id="LuYinGong魯隱公">隱公</persName>，<bibl xml:id="Chunqiu春秋"
+            >春秋</bibl>卽位十一年，及<persName xml:id="LuHuanGong魯桓公">桓公軌</persName>立。此元年上距伐<persName
+            xml:id="Zhou紂">紂</persName>四百歲。</p>
+      <p><persName xml:id="LuHuanGong魯桓公">桓公</persName>，<bibl xml:id="Chunqiu春秋"
+            >春秋</bibl>卽位十八年，子<persName xml:id="LuZhuangGong魯莊公">莊公同</persName>立。</p>
+      <p><persName xml:id="LuZhuangGong魯莊公">莊公</persName>，<bibl xml:id="Chunqiu春秋"
+            >春秋</bibl>卽位三十二年，子<persName xml:id="LuMinGong魯愍公">愍公啟方</persName>立。</p>
+      <p><persName xml:id="LuMinGong魯愍公">愍公</persName>，<bibl xml:id="Chunqiu春秋"
+            >春秋</bibl>卽位二年，及<persName xml:id="LuLiGong魯釐公">釐公申</persName>立。<persName
+            xml:id="LuLiGong魯釐公">釐公</persName>五年正月辛亥朔旦冬至，<bibl xml:id="Yinli殷曆"
+            >殷曆</bibl>以為壬子，距<persName xml:id="LuChengGong魯成公">成公</persName>七十六歲。</p>
+      <p>是歲距上元十四萬二千五百七十七歲，得孟統五十三章首。故傳曰：「五年春王正月辛亥朔，日南至。」「八月甲午，<persName xml:id="JinXianGong晉獻公"
+            >晉侯</persName>圍<place xml:id="Shangyang上陽">上陽</place>。」（章）〔童〕謠云： <note>（章）〔童〕謠云： <date
+               type="regnal">景祐</date>、<place>殿</place>本都作「童」，此誤。</note> 「丙子之辰，<name type="tianwen">龍尾</name>伏辰，袀服振振，取<place xml:id="Guo虢">虢</place>之<place xml:id=""
+            >旂</place>。 <note>[一]<persName xml:id="YanShigu顏師古"
+            >師</persName>古曰：「袀音均，又弋均反。振音之人反。」</note>
+         <name type="tianwen">鶉</name>之賁賁，<name type="tianwen">天策</name>焞焞，<name type="tianwen">火</name>中成軍，<persName xml:id="GuoGong虢公">虢公</persName>其奔。」
+               <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「賁音奔。焞音徒門反，又土門反。」</note>
+         <persName xml:id="Buyan卜偃">卜偃</persName>曰：「其九月十月之交乎？丙子旦，日在<name type="tianwen">尾</name>，月在<name type="tianwen">策</name>，<name type="tianwen">鶉火</name>中，必是時也。」冬十二月丙子滅<place xml:id="Guo虢">虢</place>。言曆者以<place xml:id="Xia夏"
+            >夏</place>時，故<place xml:id="Zhou周">周</place>十二月，<place xml:id="Xia夏"
+               >夏</place>十月也。是歲，歲在<name type="tianwen">大火</name>。故傳曰<persName
+            xml:id="JinXianGong晉獻公">晉侯</persName>使寺人<persName xml:id="Pi披">披</persName>伐<place
+            xml:id="Pu蒲">蒲</place>，<persName xml:id="ZhongEr重耳">重耳</persName>奔<place xml:id="Di狄"
+            >狄</place>。 <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<persName
+               xml:id="JinXianGong晉獻公">晉侯</persName>謂<persName xml:id="JinXianGong晉獻公"
+               >獻公</persName>也。寺人，奄人也，<persName xml:id="Pi披">披</persName>其名也。<place xml:id="Pu蒲"
+               >蒲</place>，<place xml:id="Jin晉">晉</place>邑也，公子<persName xml:id="ZhongEr重耳"
+               >重耳</persName>之所居。<persName xml:id="JinXianGong晉獻公">獻公</persName>用<persName xml:id="LiJi驪姬"
+               >驪姬</persName>之讒，故令<persName xml:id="Pi披">披</persName>伐之，而<persName
+               xml:id="ZhongEr重耳">重耳</persName>懼罪出奔也。事見<bibl xml:id="Chunqiuzuoshizhuan春秋左氏傳"
+               >春秋左氏傳</bibl>及<bibl xml:id="Guoyu國語">國語</bibl>。」</note>
+         <persName xml:id="DongYin董因">董因</persName>曰：「君之行，歲在<place xml:id="Dahuo大火">大火</place>。」
+               <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<persName xml:id="DongYin董因"
+               >董因</persName>，<place xml:id="Jin晉">晉</place>史也。本<place xml:id="Zhou周"
+               >周</place>太史<persName xml:id="XinYou辛有">辛有</persName>之後，以董主史官，故為<persName
+               xml:id="DongYin董因">董氏</persName>，<persName xml:id="DongYin董因"
+            >因</persName>其名也。」</note> 後十二年，<persName xml:id="LuLiGong魯釐公">釐</persName>之十六歲，歲在<name type="tianwen">壽星</name>。故傳曰<persName xml:id="ZhongEr重耳">重耳</persName>處<place
+            xml:id="Di狄">狄</place>十二年而行，過<place xml:id="Weiwulu衞五鹿"
+            >衞五鹿</place>，乞食於壄人，壄人舉而與之。<persName xml:id="Zifan子犯"
+               >子犯</persName>曰：「天賜也，後十二年，必獲此土。歲復於<name type="tianwen">壽星</name>，必獲諸侯。」後八歲，<persName xml:id="LuLiGong魯釐公">釐</persName>之二十四年也，歲在<name type="tianwen">實沈</name>，<persName xml:id="QinBo秦伯">秦伯</persName>納之。故傳曰<persName
+                  xml:id="DongYin董因">董因</persName>云：「君以<name type="tianwen">辰</name>出，而以<name type="tianwen">參</name>入，必獲諸侯。」</p>
+   <pb n="1020"/>
+      <p><bibl xml:id="Chunqiu春秋">春秋</bibl>，<persName xml:id="LuLiGong魯釐公"
+            >釐公</persName>卽位三十三年，子<persName xml:id="LuWenGong魯文公">文公興</persName>立。<persName
+            xml:id="LuWenGong魯文公"
+         >文公</persName>元年，距辛亥朔旦冬至二十九歲。是歲閏餘十三，正小雪，閏當在十一月後，而在三月，故傳曰「非禮也」。後五年，閏餘十，是歲亡閏，而置閏。閏，所以正中朔也。亡閏而置閏，又不告朔，故經曰「閏月不告朔」，言亡此月也。傳曰：「不告朔，非禮也。」</p>
+      <p><bibl xml:id="Chunqiu春秋">春秋</bibl>，<persName xml:id="LuWenGong魯文公"
+            >文公</persName>卽位十八年，子<persName xml:id="LuXuanGong魯宣公">宣公倭</persName>立。
+               <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「倭音於危反。」</note>
+      </p>
+      <p><persName xml:id="LuXuanGong魯宣公">宣公</persName>，<bibl xml:id="Chunqiu春秋"
+            >春秋</bibl>卽位十八年，子<persName xml:id="LuChengGong魯成公">成公黑</persName>肱立。<persName
+            xml:id="LuChengGong魯成公">成公</persName>十二年正月庚寅朔旦冬至，<bibl xml:id="Yinli殷曆"
+            >殷曆</bibl>以為辛卯，距<persName xml:id="LuDingGong魯定公">定公</persName>七年七十六歲。</p>
+      <p><bibl xml:id="Chunqiu春秋">春秋</bibl>，<persName xml:id="LuChengGong魯成公"
+            >成公</persName>卽位十八年，子<persName xml:id="LuXiangGong魯襄公">襄公午</persName>立。<persName
+            xml:id="LuXiangGong魯襄公">襄公</persName>二十七年，距辛亥百九歲。九月乙亥朔，是建申之月也。<place xml:id="Lu魯"
+            >魯</place>史書：「十二月乙亥朔，日有食之。」傳曰：「冬十一月乙亥朔，日有食之，於是辰在申，司曆過也，再失閏矣。」言時實行以為十一月也，不察其建，不考之於天也。二<pb n="1021"/>十八年距辛亥百一十歲，歲在<name type="tianwen">星紀</name>，故經曰：「春無冰。」傳曰：「歲在<name type="tianwen">星紀</name>，而淫於<name type="tianwen">玄枵</name>。」三十年歲在<name type="tianwen">娵訾</name>。三十一年歲在<name type="tianwen">降婁</name>。是歲距辛亥百一十三年，二月有癸未，上距<persName
+            xml:id="LuWenGong魯文公">文公</persName>十一年會于<place xml:id="Chengkuang承匡"
+            >承匡</place>之歲夏正月甲子朔凡四百四十有五甲子，奇二十日，為日二萬六千六百有六旬。故傳曰<place xml:id="Jiangxian絳縣"
+            >絳縣</place>老人曰：「臣生之歲，正月甲子朔，四百四十有五甲子矣。其季於今，三之一也。」<persName xml:id="ShiKuang師曠"
+            >師曠</persName>曰：「<persName xml:id="XiChengzi郤成子">郤成子</persName>會于<place
+            xml:id="Chengkuang承匡">承匡</place>之歲也，七十三年矣。」<persName xml:id="ShiZhao史趙"
+         >史趙</persName>曰：「亥有二首六身，下二如身，則其日數也。」 <note>[一]<persName xml:id="MengKang孟康"
+               >孟康</persName>曰：「下二畫使就身也。」<persName xml:id="YanShigu顏師古">師古</persName>曰：「<persName
+               xml:id="DuYu杜預">杜預</persName>云『亥字二畫在上，併三六為身，如算之六也。下亥上二畫，竪置身旁』。」</note>
+         <persName xml:id="ShiwenBo士文伯">士文伯</persName>曰：「然則二萬六千六百有六旬也。」</p>
+      <p><bibl xml:id="Chunqiu春秋">春秋</bibl>，<persName xml:id="LuXiangGong魯襄公"
+            >襄公</persName>卽位三十一年，子<persName xml:id="LuZhaoGong魯昭公">昭公稠</persName>立。<persName
+            xml:id="LuZhaoGong魯昭公">昭公</persName>八年歲在<persName xml:id="Ximu析木"
+               >析木</persName>，十年歲在<place xml:id="Zhuanxuzhixu顓頊之虛">顓頊之虛</place>，<name type="tianwen">玄枵</name>也。十八年距辛亥百三十一歲，五月有丙子、戊寅、壬午，<name type="tianwen">火</name>始昬見，<place xml:id="Song宋">宋</place>、<place xml:id="Wei衞">衞</place>、<place
+            xml:id="Chen陳">陳</place>、<place xml:id="Zheng鄭"
+               >鄭</place>火。二十年春王正月，距辛亥百三十三歲，是辛亥後八章首也。正月己丑朔旦冬至，失閏。故傳曰：「二月己丑，日南至。」三十二年，歲在<name type="tianwen">星紀</name>，距辛亥百四十五歲，盈一次矣。故傳曰：「<place xml:id="Zhao越">越</place>得歲，<place
+            xml:id="Wu吳">吳</place>伐之，必受其咎。」</p>
+      <p><bibl xml:id="Chunqiu春秋">春秋</bibl>，<persName xml:id="LuZhaoGong魯昭公"
+            >昭公</persName>卽位三十二年，及<persName xml:id="LuDingGong魯定公">定公宋</persName>立。<persName
+            xml:id="LuDingGong魯定公">定公</persName>七年，正月己巳朔旦冬至，<bibl xml:id="Yinli殷曆"
+            >殷曆</bibl>以為庚午，距<persName xml:id="LuYuanGong魯元公">元公</persName>七十六歲。</p>
+
+   <pb n="1022"/>
+
+      <p><bibl xml:id="Chunqiu春秋">春秋</bibl>，<persName xml:id="LuDingGong魯定公"
+            >定公</persName>卽位十五年，子<persName xml:id="LuAiGong魯哀公">哀公（將）〔蔣〕</persName>立。
+               <note>子<persName xml:id="LuAiGong魯哀公">哀公（將）〔蔣〕</persName>立。
+               <place>殿</place>本作「蔣」。<persName xml:id="WangXianqian王先謙">
+            王先謙</persName>說作「蔣」是。</note>
+         <persName xml:id="LuAiGong魯哀公">哀公</persName>十二年冬十二月流火，非建戌之月也。是月也螽，故傳曰：「<name type="tianwen">火</name>伏而後蟄者畢，今<name type="tianwen">火</name>猶西流，司曆過也。」<bibl xml:id="Shi詩"
+            >詩</bibl>曰：「七月流火。」<bibl xml:id="Chunqiu春秋">春秋</bibl>，<persName xml:id="LuAiGong魯哀公"
+            >哀公</persName>卽位二十七年。自<bibl xml:id="Chunqiu春秋">春秋</bibl>盡<persName xml:id="LuAiGong魯哀公"
+            >哀</persName>十四年，凡二百四十二年。</p>
+      <p><date type="">六國</date>
+         <bibl xml:id="Chunqiu春秋">春秋</bibl><persName xml:id="LuAiGong魯哀公">哀公</persName>後十三年遜于<place
+            xml:id="Zhu邾">邾</place>，子<persName xml:id="LuDaoGong魯悼公">悼公曼</persName>立，<persName
+            xml:id="LuDaoGong魯悼公">寧</persName>。<persName xml:id="LuDaoGong魯悼公">悼公</persName>，<bibl
+            xml:id="Shijia世家">世家</bibl>卽位三十七年，子<persName xml:id="LuYuanGong魯元公"
+            >元公嘉</persName>立。<persName xml:id="LuYuanGong魯元公">元公</persName>四年正月戊申朔旦冬至，<bibl
+            xml:id="Yinli殷曆">殷曆</bibl>以為己酉，距<persName xml:id="LuKangGong魯康公"
+            >康公</persName>七十六歲。<persName xml:id="LuYuanGong魯元公">元公</persName>，<bibl
+            xml:id="Shijia世家">世家</bibl>卽位二十一年，子<persName xml:id="LuMuGong魯穆公"
+            >穆公衍</persName>立，<persName xml:id="LuMuGong魯穆公">顯</persName>。<persName
+            xml:id="LuMuGong魯穆公">穆公</persName>，<bibl xml:id="Shijia世家">世家</bibl>卽位三十三年，子<persName
+            xml:id="LuGongGong魯恭公">恭公奮</persName>立。<persName xml:id="LuGongGong魯恭公"
+            >恭公</persName>，<bibl xml:id="Shijia世家">世家</bibl>卽位二十二年，子<persName xml:id="LuKangGong魯康公"
+            >康公毛</persName>立。<persName xml:id="LuKangGong魯康公">康公</persName>四年正月丁亥朔旦冬至，<bibl
+            xml:id="Yinli殷曆">殷曆</bibl>以為戊子，距<persName xml:id="LuMinGong魯緡公">緡公</persName>七十六歲。
+               <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「緡讀與愍同。下皆類此。」</note>
+         <persName xml:id="LuKangGong魯康公">康公</persName>，<bibl xml:id="Shijia世家"
+            >世家</bibl>卽位九年，子<persName xml:id="LuJingGong魯景公">景公偃</persName>立。<persName
+            xml:id="LuJingGong魯景公">景公</persName>，<bibl xml:id="Shijia世家">世家</bibl>卽位二十九年，子<persName
+            xml:id="LuPingGong魯平公">平公旅</persName>立。<persName xml:id="LuPingGong魯平公"
+            >平公</persName>，<bibl xml:id="Shijia世家">世家</bibl>卽位二十年，子<persName xml:id="LuMinGong魯緡公"
+            >緡公賈</persName>立。<persName xml:id="LuMinGong魯緡公">緡公</persName>二十二年正月丙寅朔旦冬至，<bibl
+            xml:id="Yinli殷曆">殷曆</bibl>以為丁卯，距<persName xml:id="ChuYuan楚元">楚元</persName>七十六歲。<persName
+            xml:id="LuMinGong魯緡公">緡公</persName>，<bibl xml:id="Shijia世家">世家</bibl>卽位二十三年，子<persName
+            xml:id="LuQingGong魯頃公">頃公讐</persName>立。<persName xml:id="LuQingGong魯頃公"
+            >頃公</persName>，<bibl xml:id="Biao表">表</bibl>十八年，<persName xml:id="QinZhaoWang秦昭王"
+            >秦昭王</persName>之五十一年也，<place xml:id="Qin秦">秦</place>始滅<place xml:id="Zhou周"
+            >周</place>。<place xml:id="Zhou周">周</place>凡三十六王，八百六十七歲。</p>
+      <p><place xml:id="Qin秦">秦</place>伯 <note>[一]<persName xml:id="YanShigu顏師古"
+            >師古</persName>曰：「伯讀曰霸。其下亦同。」</note>
+         <persName xml:id="QinZhaoWang秦昭王">昭（公）〔王〕</persName>，本紀無天子五年。 <note><persName
+               xml:id="QinZhaoWang秦昭王">昭（公）〔王〕</persName>，<bibl xml:id="Benji本紀">本紀</bibl>無天子五年。
+               <date type="regnal">景祐</date>、<place>殿</place>本都作「王」。 <persName
+               xml:id="WangXianqian王先謙">王先謙</persName>說作「王」是。</note>
+         <persName xml:id="QinXiaowenWang秦孝文王">孝文王</persName>，<bibl xml:id="Benji本紀"
+            >本紀</bibl>卽位一年。元年，<persName xml:id="ChuKaoliewang楚考烈王">楚考烈王</persName>滅<persName
+            xml:id="LuQingGong魯頃公">魯頃公</persName>為家人，<place xml:id="Zhou周">周</place>滅後六年也。<persName
+            xml:id="QinZhuangxiangWang秦莊襄王">莊襄王</persName>，<bibl xml:id="Benji本紀"
+            >本紀</bibl>卽位三年。<persName xml:id="QinShiHuang秦始皇">始皇</persName>，<bibl xml:id="Benji本紀"
+            >本紀</bibl>卽位三十七年。<persName xml:id="Ershi二世">二世</persName>，<bibl xml:id="Benji本紀"
+            >本紀</bibl>卽位三年。凡<place xml:id="Qin秦">秦</place>伯五世，四十九歲。</p>
+   <pb n="1023"/>
+      <p><persName xml:id="LiuBang劉邦">漢高祖皇帝</persName>，著<bibl xml:id="Ji紀">紀</bibl>，伐<place
+            xml:id="Qin秦">秦</place>繼<place xml:id="Zhou周">周</place>。木生火，故為火德。天下號曰<place
+               xml:id="Han漢">漢</place>。距上元年十四萬三千二十五歲，歲在<name type="tianwen">大棣</name>之<name type="tianwen">東井</name>二十二度，<name type="tianwen">鶉首</name>之六度也。故<bibl
+                  xml:id="Hanzhi漢志">漢志</bibl>曰歲在<name type="tianwen">大棣</name>，名曰敦牂，<name type="tianwen">太歲</name>在午。八年十一月乙巳朔旦冬至，<persName xml:id="ChuYuan楚元"
+            >楚元</persName>三年也。故<bibl xml:id="Yinli殷曆">殷曆</bibl>以為丙午，距<date type="regnal"
+            >元朔</date>七十六歲。著<bibl xml:id="Ji紀">紀</bibl>，<persName xml:id="LiuBang劉邦"
+         >高帝</persName>卽位十二年。</p>
+      <p><persName xml:id="LiuYing劉盈">惠帝</persName>，著<bibl xml:id="Ji紀">紀</bibl>卽位七年。</p>
+      <p><persName xml:id="LvZhi吕雉">高（帝）〔后〕</persName>， <note><persName xml:id="LvZhi吕雉"
+               >高（帝）后</persName>， <persName xml:id="QianDaxin錢大昕">錢大昭</persName>說「帝」字誤。 按<date
+               type="regnal">景祐</date>、<place>殿</place>本都作「后」。</note>著<bibl xml:id="Ji紀"
+         >紀</bibl>卽位八年。</p>
+      <p><persName xml:id="LiuHeng劉恆">文帝</persName>，前十六年，後七年，著<bibl xml:id="Ji紀">紀</bibl>卽位二十三年。</p>
+      <p><persName xml:id="LiuQi劉啓">景帝</persName>，前七年，中六年，後三年，著<bibl xml:id="Ji紀">紀</bibl>卽位十六年。</p>
+      <p><persName xml:id="LiuChe劉徹">武帝</persName><date type="regnal">建元</date>、<date type="regnal"
+            >元光</date>、<date type="regnal">元朔</date>各六年。<date type="regnal"
+            >元朔</date>六年十一月甲申朔旦冬至，<bibl xml:id="Yinli殷曆">殷曆</bibl>以為乙酉，距<date type="regnal"
+            >初元</date>七十六歲。<date type="regnal">元狩</date>、<date type="regnal">元鼎</date>、<date
+            type="regnal">元封</date>各六年。<place xml:id="Han漢">漢</place>曆<date type="regnal"
+               >太初</date>元年，距上元十四萬三千一百二十七歲。前十一月甲子朔旦冬至，歲在<name type="tianwen">星紀</name><name type="tianwen">婺女</name>六度，故<bibl xml:id="Hanzhi漢志">漢志</bibl>曰歲名困敦， <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「敦音頓。」</note>
+         正月<name type="tianwen">歲星</name>出<name type="tianwen">婺女</name>。<date type="regnal">太初</date>、<date type="regnal">天漢</date>、<date type="regnal">太始</date>、<date type="regnal">征和</date>各四年，後二年，著<bibl xml:id="Ji紀">紀</bibl>卽位五十四年。</p>
+      <p><persName xml:id="LiuFuling劉弗陵">昭帝</persName><date type="regnal">始元</date>、<date type="regnal">元鳳</date>各六年，<date type="regnal">元平</date>一年，著<bibl xml:id="Ji紀">紀</bibl>卽位十三年。</p>
+   <pb n="1024"/>
+      <p><persName xml:id="LiuBingyi劉病已">宣帝</persName><date type="regnal">本始</date>、<date type="regnal">地節</date>、<date type="regnal">元康</date>、<date type="regnal">神爵</date>、<date type="regnal">五鳳</date>、<date type="regnal">甘露</date>各四年，<date type="regnal">黃龍</date>一年，著<bibl xml:id="Ji紀">紀</bibl>即位二十五年。</p>
+      <p><persName xml:id="LiuShi劉始">元帝</persName><date type="regnal">初元</date>二年十一月癸亥朔旦冬至，<bibl xml:id="Yinli殷曆">殷曆</bibl>以為甲子，以為紀首。是歲也，十月日食，非合辰之會，不得為紀首。距<date type="regnal">建武</date>七十六歲。<date type="regnal">初元</date>、<date type="regnal">永光</date>、<date type="regnal">建昭</date>各五年，<date type="regnal">竟寧</date>一年，著<bibl xml:id="Ji紀">紀</bibl>卽位十六年。</p>
+      <p><persName xml:id="LiuAo劉鰲">成帝</persName><date type="regnal">建始</date>、<date type="regnal">河平</date>、<date type="regnal">陽朔</date>、<date type="regnal">鴻嘉</date>、<date type="regnal">永始</date>、<date type="regnal">元延</date>各四年，<date type="regnal">綏和</date>二年，著<bibl type="Ji紀">紀</bibl>卽位二十六年。</p>
+      <p><persName xml:id="LiuXin劉欣">哀帝</persName><date type="regnal">建平</date>四年，<date type="regnal">元壽</date>二年，著<bibl xml:id="Ji紀">紀</bibl>卽位六年。</p>
+      <p><persName xml:id="LiuKan劉衎">平帝</persName>，著<bibl xml:id="Ji紀">紀</bibl>即位<date type="regnal">元始</date>五年，以<persName xml:id="LiuBingyi劉病已">宣帝</persName>玄孫<persName xml:id="LiuYing劉嬰6">嬰</persName>為嗣，謂之<persName xml:id="LiuYing劉嬰6">孺子</persName>。<persName type="LiuYing劉嬰6">孺子</persName>，著<bibl xml:id="Ji紀">紀</bibl><persName xml:id="WangMang王莽2">新都侯王莽</persName><date type="">居攝</date>三年，<persName xml:id="WangMang王莽2">王莽</persName>居攝，盜襲帝位，竊號曰<persName xml:id="Xinshi新室">新室</persName>。<date type="regnal">始建國</date>五年，<date type="regnal">天鳳</date>六年，<date type="regnal">地皇</date>三年，著<bibl xml:id="Ji紀">紀</bibl>盜位十四年。<persName xml:id="LiuXuan劉玄4">更始帝</persName>，著<bibl xml:id="Ji紀">紀</bibl>以<place xml:id="Han漢">漢</place>宗室滅<persName xml:id="WangMang王莽2">王莽</persName>，卽位二年。<persName xml:id="Chimei赤眉">赤眉</persName>賊立宗室<persName xml:id="LiuPenzi劉盆子">劉盆子</persName>，滅<persName xml:id="LiuXuan劉玄4">更始帝</persName>。自<place xml:id="Han漢">漢</place>元年訖<date type="regnal">更始</date>二年，凡二百三十歲。</p>
+      <p><persName xml:id="LiuXiu劉秀2">光武皇帝</persName>，著<bibl xml:id="Ji紀">紀</bibl>以<persName xml:id="LiuQi劉啓">景帝</persName>後<persName xml:id="LiuBang劉邦">高祖</persName>九世孫受命中興復<place xml:id="Han漢">漢</place>，改元曰<date type="regnal">建武</date>，歲在<name type="tianwen">鶉尾</name>之<name type="tianwen">張</name>度。<date type="regnal">建武</date>三十一年，<date type="regnal">中元</date>二年，卽位三十三年。</p>
+   </div>
+   <pb n="1025"/>
+   <pb n="1026"/>
+</xml>

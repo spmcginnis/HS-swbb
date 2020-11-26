@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+      <!-- tei-like text fragment file.  created 20150720.  page numbers need checking and some blank pages will need to be added -->
+      <!-- Needs verification and collation. -->
+      <div>
+            <head/>
+            <p><persName xml:id="SuiHong眭弘">眭弘</persName>字<persName xml:id="SuiHong眭弘"
+                        >孟</persName>，<place xml:id="Luguo魯國">魯國</place><place xml:id="Fan蕃"
+                        >蕃</place>人也。 <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「眭音息隨反。今<place xml:id="Heshuo河朔"
+                              >河朔</place>尚有此姓，音字皆然。而<persName xml:id="WeiZhao韋昭"
+                              >韋昭</persName>、<persName xml:id="YingShao應劭"
+                              >應劭</persName>並云音桂，非也。今有<persName xml:id="Gui炅"
+                              >炅</persName>姓，乃音桂耳。<place xml:id="Han漢">漢</place>之（決錄）〔<persName
+                              xml:id="QueQin炔欽">炔欽</persName>〕又不作眭字， 漢之（決錄）〔<persName
+                              xml:id="QueQin炔欽">炔欽</persName>〕又不作眭字， <persName xml:id="SongQi宋祁"
+                              >宋祁</persName>說，「決錄」<place>浙</place>本作「炔欽」。<persName
+                              xml:id="YeDehui葉德輝">葉德輝</persName>說，<bibl xml:id="Rulinzhuan儒林傳"
+                              >儒林傳</bibl><persName xml:id="XuShang許商">許商</persName>門人有<place
+                              xml:id="Qi齊">齊</place>人<persName xml:id="QueQin炔欽"
+                        >炔欽</persName>，則作「決錄」者誤也。 寧可混糅將為一族？又近代學者旁引<place xml:id="GuiShi炅氏"
+                              >炅氏</place>譜以相附著。私譜之文出於閭巷，家自為說，事非經典，苟引先賢，妄相假託，無所取信，寧足據乎？蕃音皮。」</note>
+                        少時好俠，鬬雞走馬，長乃變節，從<persName xml:id="YingGong嬴公">嬴公</persName>受<bibl
+                        xml:id="Chunqiu春秋">春秋</bibl>。 <note>[二]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<persName xml:id="YingGong嬴公"
+                        >嬴</persName>，姓也。公，長老之號耳。」</note> 以明經為議郎，至符節令。</p>
+      </div>
+      <div>
+            <p><persName xml:id="LiuFuling劉弗陵">孝昭</persName><date type="regnal">元鳳</date>三年正月，<place
+                        xml:id="Taishan泰山">泰山</place><place xml:id="Laiwushan萊蕪山"
+                        >萊蕪山</place>南匈匈有數千人聲，民視之，有大石自立，高丈五尺，大四十八圍，入地深八尺，三石為足。石立後有白烏數千下集其旁。是時<place
+                        xml:id="Changyi昌邑">昌邑</place>有枯社木臥復生， <note>[一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「社木，社主之樹也。」</note> 又<place
+                        xml:id="Shanglinyuan上林苑"
+                        >上林苑</place>中大柳樹斷枯臥地，亦自立生，有蟲食樹葉成文字，曰「公孫病已立」，<persName xml:id="SuiHong眭弘"
+                        >孟</persName>推<bibl xml:id="Chunqiu春秋">春秋</bibl>之意，以為「石柳皆陰類，下民之象，（而）<place
+                        xml:id="Taishan泰山">泰山</place>者<place xml:id="Daizong岱宗">岱宗</place>之嶽，
+                              <note>（而）<place xml:id="Taishan泰山">泰山</place>者<place
+                              xml:id="Daizong岱宗">岱宗</place>之嶽， <date type="regnal"
+                              >景祐</date>、<place>殿</place>本都無「而」字。</note> 王者易姓告代之處。今 </p>
+      </div>
+      <pb n="3154"/>
+      <div>
+            <p> 大石自立，僵柳復起， <note>[二]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「僵，偃也，偃臥於地，音居羊反。」</note>
+                        非人力所為，此當有從匹夫為天子者。枯社木復生，故廢之家<persName xml:id="GongsunShi公孫氏"
+                        >公孫氏</persName>當復興者也。」<persName xml:id="SuiHong眭弘"
+                        >孟</persName>意亦不知其所在，即說曰：「先師<persName xml:id="DongZhongshu董仲舒"
+                        >董仲舒</persName>有言，雖有繼體守文之君，不害聖人之受命。<persName xml:id="Hanjia漢家"
+                        >漢家</persName><persName xml:id="Yao堯">堯</persName>後，有傳國之運。<place
+                        xml:id="Han漢">漢</place>帝宜誰差天下，求索賢人， <note>[三]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「誰，問；差，擇也。問擇天下賢人。」</note> 襢以帝位， <note>[四]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「襢，古禪字也。」</note> 而退自封百里，如<place
+                        xml:id="Yin殷">殷</place><place xml:id="Zhou周">周</place>二王後，以承順天命。」<persName
+                        xml:id="SuiHong眭弘">孟</persName>使友人內官長<persName xml:id="Ci賜3"
+                  >賜</persName>上此書。 <note>[五]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「內官，署名。<bibl xml:id="Baiguanbiao百官表"
+                              >百官表</bibl>云：『內官長丞，初屬少府，中屬主爵，後屬宗正。』<persName xml:id="Ci賜3"
+                              >賜</persName>者，其長之名。」</note> 時，<persName xml:id="LiuFuling劉弗陵"
+                        >昭帝</persName>幼，大將軍<persName xml:id="HuoGuang霍光"
+                        >霍光</persName>秉政，惡之，下其書廷尉。奏<persName xml:id="Ci賜3">賜</persName>、<persName
+                        xml:id="SuiHong眭弘">孟</persName>妄設祅言惑衆，大逆不道，皆伏誅。後五年，<persName
+                        xml:id="LiuBingyi劉病已">孝宣帝</persName>興於民間，即位，徵<persName xml:id="SuiHong眭弘"
+                        >孟</persName>子為郎。</p>
+      </div>
+      <div>
+            <p><persName xml:id="XiahouShichang夏侯始昌">夏侯始昌</persName>，<place xml:id="Lu魯"
+                        >魯</place>人也。通<bibl xml:id="Wujing五經">五經</bibl>，以<bibl xml:id="Qishi齊詩"
+                        >齊詩</bibl>、<bibl xml:id="Shangshu尚書">尚書</bibl>教授。自<persName
+                        xml:id="DongZhongshu董仲舒">董仲舒</persName>、<persName xml:id="HanYing韓嬰2"
+                        >韓嬰</persName>死後，<persName xml:id="LiuChe劉徹">武帝</persName>得<persName
+                        xml:id="XiahouShichang夏侯始昌">始昌</persName>，甚重之。<persName
+                        xml:id="XiahouShichang夏侯始昌">始昌</persName>明於陰陽，先言<place
+                        xml:id="Bailiangtai柏梁臺">柏梁臺</place>災日，至期日果災。時<persName xml:id="LiuHe劉賀4"
+                        >昌邑王</persName>以少子愛，上為選師，<persName xml:id="XiahouShichang夏侯始昌"
+                        >始昌</persName>為太傅。年老，以壽終。族子<persName xml:id="XiahouSheng夏侯勝"
+                  >勝</persName>亦以儒顯名。</p>
+      </div>
+      <div>
+            <p><persName xml:id="XiahouSheng夏侯勝">夏侯勝</persName>字<persName xml:id="XiahouSheng夏侯勝"
+                        >長公</persName>。初，<persName xml:id="LiuYu劉餘1">魯共王</persName>分<place
+                        xml:id="Lu魯">魯</place>西<place xml:id="Ningxiang寧鄉">寧鄉</place>
+                  <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「共讀如恭。<persName
+                              xml:id="LiuYu劉餘1">恭王</persName>名<persName xml:id="LiuYu劉餘1"
+                              >餘</persName>，<persName xml:id="LiuQi劉啓">景帝</persName>之子也。」</note>
+                        以封子<persName xml:id="">節侯</persName>，別屬<place xml:id="Dahe大河"
+                        >大河</place>，<place xml:id="大河">大河</place>後更名<place xml:id="Dongping東平"
+                        >東平</place>，故<persName xml:id="XiahouSheng夏侯勝">勝</persName>為<place
+                        xml:id="Dongping東平">東平</place>人。<persName xml:id="XiahouSheng夏侯勝"
+                        >勝</persName>少孤，好學，從<persName xml:id="XiahouShichang夏侯始昌"
+                        >始昌</persName>受<bibl xml:id="Shangshu尚書">尚書</bibl>及<bibl
+                        xml:id="Hongfanwuxingzhuan洪範五行傳">洪範五行傳</bibl>，說災異。後事<persName
+                        xml:id="JianQing蕳卿">間卿</persName>， <note>[二]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「姓<persName xml:id="JianQing蕳卿"
+                              >間</persName>名<persName xml:id="JianQing蕳卿"
+                        >卿</persName>。間音姦。」</note> 又從<persName xml:id="OuyangShi歐陽氏"
+                        >歐陽氏</persName>問。為學精孰，所問非一師也。善說禮服。 <note>[三]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「禮之喪服也。」</note> 徵為博士、光祿大夫。會<persName
+                        xml:id="LiuFuling劉弗陵">昭帝</persName>崩，<persName xml:id="LiuHe劉賀4"
+                        >昌邑王</persName>嗣立，數出。 <note>[四]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「每出游戲也。」</note>
+                  <persName xml:id="XiahouSheng夏侯勝">勝</persName>當乘輿前諫曰：「天久陰而不雨，臣下有謀上者，陛下出欲何之？」
+                              <note>[五]<persName xml:id="YanShigu顏師古">師古</persName>曰：「之，往也。」</note>
+                        王怒，謂<persName xml:id="XiahouSheng夏侯勝">勝</persName>為祅言，縛以屬吏。
+                              <note>[六]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「屬，委也。音之欲反。」</note> 吏白大將軍<persName xml:id="HuoGuang霍光"
+                        >霍光</persName>，<persName xml:id="HuoGuang霍光">光</persName>不舉法。是時，<persName
+                        xml:id="HuoGuang霍光">光</persName>與車騎將軍<persName xml:id="ZhangAnshi張安世"
+                        >張安世</persName>謀欲廢<persName xml:id="LiuHe劉賀4">昌邑王</persName>。<persName
+                        xml:id="HuoGuang霍光">光</persName>讓<persName xml:id="ZhangAnshi張安世"
+                        >安世</persName>以為泄語，<persName xml:id="ZhangAnshi張安世"
+                        >安世</persName>實不言。乃召問<persName xml:id="XiahouSheng夏侯勝"
+                        >勝</persName>，<persName xml:id="XiahouSheng夏侯勝">勝</persName>對言：「在<bibl
+                        xml:id="Hongfanzhuan洪範傳">洪範傳</bibl>曰『皇之不極，厥罰常陰，時則下人有伐上者』，惡察察言，
+                              <note>[七]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「惡謂忌諱也。察（謂）〔為〕計謀不敢明顯言之也。 察（謂）〔為〕計謀不敢明顯言之也。 <date
+                              type="regnal">景祐</date>、<place xml:id="">殿</place>本都作「為」。<persName
+                              xml:id="WangXianqian王先謙">王先謙</persName>說「為」「謂」同字。 <bibl
+                              xml:id="Wuxingzhi五行志">五行志</bibl>曰『不敢察察言』也。」</note> 故云臣下有謀。」<persName
+                        xml:id="HuoGuang霍光">光</persName>、<persName xml:id="ZhangAnshi張安世"
+                        >安世</persName>大驚，以此益重經術士。後十餘日，<persName xml:id="HuoGuang霍光"
+                        >光</persName>卒與<persName xml:id="ZhangAnshi張安世">安世</persName>（共）白太后，
+                              <note><persName xml:id="HuoGuang霍光">光</persName>卒與<persName
+                              xml:id="ZhangAnshi張安世">安世</persName>（共）白太后， <date type="regnal"
+                              >景祐</date>、<place xml:id="">殿</place>本都無「共」字。</note>
+                  <note>[八]<persName xml:id="YanShigu顏師古">師古</persName>曰：「卒，終也。」</note> 廢<persName
+                        xml:id="LiuHe劉賀4">昌邑王</persName>，尊立<persName xml:id="LiuBingyi劉病已"
+                        >宣帝</persName>。<persName xml:id="HuoGuang霍光">光</persName>以為羣臣奏事東宮，太后省政，
+                              <note>[九]<persName xml:id="YanShigu顏師古">師古</persName>曰：「省，視也。」</note>
+                        宜知經術，白令<persName xml:id="XiahouSheng夏侯勝">勝</persName>用<bibl
+                        xml:id="Shangshu尚書">尚書</bibl>授太后。遷<place xml:id="Changxin長信"
+                  >長信</place>少府，賜爵關內侯，以與謀廢立， <note>[一０]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「與讀曰豫。」</note> 定策安宗廟，益千戶。</p>
+      </div>
+      <pb n="3156"/>
+      <div>
+            <p><persName xml:id="LiuBingyi劉病已">宣帝</persName>初即位，欲襃先帝，詔丞相御史曰：「朕以眇身，蒙遺德，承聖業，奉宗廟，夙夜惟念。
+                              <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「惟，思也。」</note>
+                  <persName xml:id="LiuChe劉徹">孝武皇帝</persName>躬仁誼，厲威武，北征<orgName xml:id="Xiongnu匈奴"
+                        >匈奴</orgName>，單于遠遁，南平<orgName xml:id="Diqiang氐羌">氐羌</orgName>、<orgName
+                        xml:id="Kunming昆明">昆明</orgName>、<orgName xml:id="Ouluo甌駱"
+                        >甌駱</orgName>兩<orgName xml:id="Yue越">越</orgName>， <note>[二]師古曰：「<orgName
+                              xml:id="Ouluo甌駱">甌駱</orgName>皆<orgName xml:id="Yue越"
+                        >越</orgName>號。」</note> 東定<place xml:id="Hui薉">薉</place>、<place xml:id="Mo貊"
+                        >貉</place>、<place xml:id="Chaoxian朝鮮">朝鮮</place>， <note>[三]<persName
+                              xml:id="ZhangYan張晏">張晏</persName>曰：「<place xml:id="Hui薉"
+                              >薉</place>也，<place xml:id="Mo貉">貉</place>也，在<place xml:id="Liaodong遼東"
+                              >遼東</place>之東。」<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「薉字與穢字同。貉音莫客反。」</note>
+                        廓地斥境，立郡縣，百蠻率服，款塞自至，珍貢陳於宗廟；協音律，造樂歌，薦上帝，封<place xml:id="Taishan泰山"
+                        >太山</place>，立明堂，改正朔，易服色；明開聖緒，尊賢顯功，興滅繼絕，襃<place xml:id="Zhou周"
+                  >周</place>之後；備天地之禮，廣道術之路。上天報況， <note>[四]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「況，賜也。」</note> 符瑞並應，寶鼎出，白麟獲，海效鉅魚， <note>[五]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「效，致也。鉅，大也。」</note>
+                  神人並見，山稱萬歲。功德茂盛，不能盡宣，而廟樂未稱， <note>[六]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「稱，副也。」</note> 朕甚悼焉。其與列侯、二千石、博士議。」於是羣臣大議廷中，皆曰：「宜如詔書。」<place
+                        xml:id="Changxin長信">長信</place>少府<persName xml:id="XiahouSheng夏侯勝"
+                        >勝</persName>獨曰：「<persName xml:id="LiuChe劉徹"
+                  >武帝</persName>雖有攘四夷廣土斥境之功，然多殺士衆，竭民財力，奢泰亡度，天下虛耗， <note>[七]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「耗，減也。音呼到反。」</note> 百姓流離，物故者（過）半。
+                        <note>物故者（過）半。 <persName xml:id="SongQi宋祁">宋祁</persName>說，「者」字下疑有「過」字。按<date
+                              type="regnal">景祐</date>本無「過」字，<place xml:id="">殿</place>本亦無。</note>
+                  <note>[八]<persName xml:id="YanShigu顏師古">師古</persName>曰：「物故謂死也。」</note> 蝗蟲大起，赤地數千里，
+                              <note>[九]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「言無五穀之苗。」</note> 或人民相食，畜積至今未復。 <note>[一０]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「畜讀曰蓄。」</note>
+                        亡德澤於民，不宜為立廟樂。」公卿共難<persName xml:id="XiahouSheng夏侯勝"
+                        >勝</persName>曰：「此詔書也。」<persName xml:id="XiahouSheng夏侯勝"
+                  >勝</persName>曰：「詔書不可用也。人臣之誼，宜直言正論，非苟阿意順指。議 </p>
+      </div>
+      <pb n="3157"/>
+      <div>
+            <p> 已出口，雖死不悔。」於是丞相<persName xml:id="CaiYi蔡義">義</persName>、御史大夫<persName
+                        xml:id="TianGuangming田廣明">廣明</persName>
+                  <note>[一一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<persName
+                              xml:id="CaiYi蔡義">蔡義</persName>、<persName xml:id="TianGuangming田廣明"
+                              >田廣明</persName>。」</note> 劾奏<persName xml:id="XiahouSheng夏侯勝"
+                        >勝</persName>非議詔書，毀先帝，不道，及丞相長史<persName xml:id="HuangBa黃霸"
+                        >黃霸</persName>阿縱<persName xml:id="XiahouSheng夏侯勝"
+                        >勝</persName>，不舉劾，俱下獄。有司遂請尊<place xml:id="Xiaowudimiao孝武帝廟"
+                        >孝武帝廟</place>為<place xml:id="Shizongmiao世宗廟">世宗廟</place>，奏<bibl
+                        xml:id="Shengde盛德">盛德</bibl>、<bibl xml:id="Wenshi文始">文始</bibl>、<bibl
+                        xml:id="Wuxing五行">五行</bibl>之舞，天下世世獻納，以明盛德。<persName xml:id="LiuChe劉徹"
+                        >武帝</persName>巡狩所幸郡國凡四十九，皆立廟，如<persName xml:id="LiuBang劉邦"
+                        >高祖</persName>、<persName xml:id="LiuHeng劉恆">太宗</persName>焉。</p>
+      </div>
+      <div>
+            <p><persName xml:id="XiahouSheng夏侯勝">勝</persName>、<persName xml:id="HuangBa黃霸"
+                        >霸</persName>既久繫，<persName xml:id="HuangBa黃霸">霸</persName>欲從<persName
+                        xml:id="XiahouSheng夏侯勝">勝</persName>受經，<persName xml:id="XiahouSheng夏侯勝"
+                        >勝</persName>辭以罪死。<persName xml:id="XiahouSheng夏侯勝"
+                  >霸</persName>曰：「『朝聞道，夕死可矣』。」 <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<bibl xml:id="Lunyu論語">論語</bibl>稱<persName
+                              xml:id="KongZi孔子">孔子</persName>曰『朝聞道，夕死可矣』，故<persName
+                              xml:id="HuangBa黃霸">霸</persName>引之。」</note>
+                  <persName xml:id="XiahouSheng夏侯勝">勝</persName>賢其言，遂授之。繫再更冬，講論不怠。
+                              <note>[二]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「更，歷也，音工衡反。」</note>
+            </p>
+      </div>
+      <pb n="3158"/>
+      <div>
+            <p>至四年夏，<place xml:id="Guandong關東"
+                        >關東</place>四十九郡同日地動，或山崩，壞城郭室屋，殺六千餘人。上乃素服，避正殿，遣使者弔問吏民，賜死者棺錢。下詔曰：「蓋災異者，天地之戒也。朕承洪業，託士民之上，未能和羣生。曩者地震<place
+                        xml:id="Beihai北海">北海</place>、<place xml:id="Langya琅邪"
+                        >琅邪</place>，壞祖宗廟，朕甚懼焉。其與列侯、中二千石博問術士，有以應變，補朕之闕，毋有所諱。」因大赦，<persName
+                        xml:id="XiahouSheng夏侯勝">勝</persName>出為諫大夫給事中，<persName xml:id="HuangBa黃霸"
+                        >霸</persName>為<place xml:id="Yangzhou揚州">揚州</place>刺史。</p>
+      </div>
+      <div>
+            <p><persName xml:id="XiahouSheng夏侯勝">勝</persName>為人質樸守正，簡易亡威儀。見時謂上為君， <note>[一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「見，見於天子。」</note> 誤相字於前，
+                              <note>[二]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「前，天子之前也。君前臣名不當相呼字也。」</note> 上亦以是親信之。 <note>[三]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「知其質樸也。」</note> 嘗見，出道上語，
+                              <note>[四]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「入見天子而以其言為外人道之。」</note> 上聞而讓<persName
+                        xml:id="XiahouSheng夏侯勝">勝</persName>， <note>[五]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「讓，責也。」</note>
+                  <persName xml:id="XiahouSheng夏侯勝">勝</persName>曰：「陛下所言善，臣故揚之。<persName
+                        xml:id="Yao堯">堯</persName>言布於天下，至今見誦。臣以為可傳，故傳耳。」朝廷每有大議，上知<persName
+                        xml:id="XiahouSheng夏侯勝">勝</persName>素直，謂曰：「先生通正言，無懲前事。」 <note>[六]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「通謂陳道之也。懲，創也。前事謂坐議廟樂事。」</note>
+            </p>
+      </div>
+      <pb n="3159"/>
+      <div>
+            <p><persName xml:id="XiahouSheng夏侯勝">勝</persName>復為<place xml:id="Changxin長信"
+                        >長信</place>少府，遷太子太傅。受詔撰<bibl xml:id="Shangshu尚書">尚書</bibl>、<bibl
+                        xml:id="Lunyushuo論語說">論語說</bibl>， <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「解說其意，若今義疏也。」</note> 賜黃金百斤。年九十卒官，賜冢塋，葬<place
+                        xml:id="Pingling平陵">平陵</place>。太后賜錢二百萬，為<persName xml:id="XiahouSheng夏侯勝"
+                        >勝</persName>素服五日，以報師傅之恩，儒者以為榮。</p>
+      </div>
+      <div>
+            <p>始，<persName xml:id="XiahouSheng夏侯勝">勝</persName>每講授，常謂諸生曰：「士病不明經術；經術苟明，其取青紫如俛拾地芥耳。
+                              <note>[一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「地芥謂草芥之橫在地上者。俛而拾之，言其易而必得也。青紫，卿大夫之服也。俛即俯字也。」</note>
+                  學經不明，不如歸耕。」</p>
+      </div>
+      <div>
+            <p><persName xml:id="XiahouSheng夏侯勝">勝</persName>從父子<persName xml:id="XiahouJian夏侯建"
+                        >建</persName>字<persName xml:id="XiahouJian夏侯建">長卿</persName>，
+                              <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「從父昆弟之子，名<persName xml:id="XiahouJian夏侯建"
+                              >建</persName>字<persName xml:id="XiahouJian夏侯建">長卿</persName>。」</note>
+                        自師事<persName xml:id="XiahouSheng夏侯勝">勝</persName>及<persName
+                        xml:id="OuyangGao歐陽高">歐陽高</persName>，左右采獲， <note>[二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「言於<persName
+                              xml:id="XiahouSheng夏侯勝">勝</persName>及<persName
+                              xml:id="OuyangGaoOuyangGao歐陽高">高</persName>兩處采問疑義而得（之）。」 言於<persName
+                              xml:id="XiahouSheng夏侯勝">勝</persName>及<persName xml:id="OuyangGao歐陽高"
+                              >高</persName>兩處采問疑義而得（之）。 <persName xml:id="SongQi宋祁"
+                              >宋祁</persName>說，注末當有「之」字。按<date type="regnal">景祐</date>本無「之」字，<place
+                              xml:id="">殿</place>本亦無。 </note> 又從<bibl xml:id="Wujing五經"
+                        >五經</bibl>諸儒問與<bibl xml:id="Shangshu尚書">尚書</bibl>相出入者，牽引以次章句，具文飾說。<persName
+                        xml:id="XiahouSheng夏侯勝">勝</persName>非之曰：「<persName xml:id="XiahouJian夏侯建"
+                        >建</persName>所謂章句小儒，破碎大道。」<persName xml:id="XiahouJian夏侯建"
+                        >建</persName>亦非<persName xml:id="XiahouSheng夏侯勝"
+                        >勝</persName>為學疏略，難以應敵。<persName xml:id="XiahouJian夏侯建">建</persName>卒自顓門名經，
+                              <note>[三]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「顓與專同。專門者，自別為一家之學。」</note> 為議郎博士，至太子少傅。<persName
+                        xml:id="XiahouSheng夏侯勝">勝</persName>子<persName xml:id="XiahouJian夏侯兼"
+                        >兼</persName>為左曹太中大夫，孫<persName xml:id="XiahouYao夏侯堯">堯</persName>至<place
+                        xml:id="Changxin長信">長信</place>少府、司農、鴻臚，曾孫<persName xml:id="XiahouFan夏侯蕃"
+                        >蕃</persName>郡守、州牧、<place xml:id="Changle長樂">長樂</place>少府。<persName
+                        xml:id="XiahouSheng夏侯勝">勝</persName>同產弟子<persName xml:id="XiahouShang夏侯賞"
+                        >賞</persName>為<place xml:id="Liang梁">梁</place>內史，<place xml:id="Liang梁"
+                        >梁</place>內史子<persName xml:id="XiahouDingguo夏侯定國">定國</persName>為<place
+                        xml:id="Yuzhang豫章">豫章</place>太守。而<persName xml:id="XiahouJian夏侯建"
+                        >建</persName>子<persName xml:id="XiahouQianqiu夏侯千秋"
+                  >千秋</persName>亦為少府、太子少傅。</p>
+      </div>
+      <div>
+            <p><persName xml:id="JingFang京房2">京房</persName>字<persName xml:id="JingFang京房2"
+                        >君明</persName>，<place xml:id="Dongjundunqiu東郡頓丘">東郡頓丘</place>人也。治<bibl
+                        xml:id="Yi易">易</bibl>，事<place xml:id="Liang梁">梁</place>人<persName
+                        xml:id="JiaoYanshou焦延壽">焦延壽</persName>。<persName xml:id="JiaoYanshou焦延壽"
+                              >延壽</persName>字<persName xml:id="JiaoYanshou焦延壽">贛</persName>。 <note>[一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「贛音貢。」</note>
+                  <persName xml:id="JiaoYanshou焦延壽">贛</persName>貧賤，以好學得幸<persName
+                        xml:id="LiangWang梁王">梁王</persName>，王共其資用， <note>[二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「共讀曰恭。」</note>
+                        令極意學。既成，為郡史，察舉補<place xml:id="Xiaohuang小黃">小黃</place>令。以候司先知姦邪，盜賊不得發。
+                              <note>[三]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「以其常先知姦邪，故欲為盜賊者，不敢起發。」</note> 愛養吏民，化行縣中。舉最當遷，
+                              <note>[四]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「以課最而被舉，故欲遷為他官也。」</note> 三老官屬上書願留<persName
+                        xml:id="JiaoYanshou焦延壽">贛</persName>，有詔許增秩留， <note>[五]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「依許留而增其秩。」</note> 卒於<place
+                        xml:id="Xiaohuang小黃">小黃</place>。<persName xml:id="JiaoYanshou焦延壽"
+                        >贛</persName>常曰：「得我道以亡身者，必<persName xml:id="JingFang京房2"
+                  >京生</persName>也。」其說長於災變，分六十四卦，更直日用事，以風雨寒溫為候： <note>[六]<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「分卦直日之法，一爻主一日，六十四卦為三百六十日。餘四卦，<bibl
+                              xml:id="Zhen震">震</bibl>、<bibl xml:id="Li離">離</bibl>、<bibl
+                              xml:id="Dui兌">兌</bibl>、<bibl xml:id="Kan坎">坎</bibl>，為方伯監司之官。所以用<bibl
+                              xml:id="Zhen震">震</bibl>、<bibl xml:id="Li離">離</bibl>、<bibl
+                              xml:id="Dui兌">兌</bibl>、<bibl xml:id="Dui坎"
+                              >坎</bibl>者，是二至二分用事之日，又是四時各專王之氣。各卦主時，其占法各以日觀其善惡也。」<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「更音工衡反。」</note> 各有占驗。<persName
+                        xml:id="JingFang京房2">房</persName>用之尤精。好鍾律，知音聲。<date type="regnal"
+                  >初元</date>四年以孝廉為郎。</p>
+      </div>
+      <div>
+            <p><date type="regnal">永光</date>、<date type="regnal">建昭</date>間，<orgName
+                        xml:id="Xiqiang西羌">西羌</orgName>反，日蝕，又久青亡光，陰霧不精。 <note>[一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「精謂日光清明也。」</note>
+                  <persName xml:id="JingFang京房2">房</persName>數上疏，先言其將然， <note>[二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「言且欲有此事。」</note>
+                  近數月，遠一歲，所言屢中，天子說之。 <note>[三]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「說讀曰悅。」</note> 數召見問，<persName xml:id="JingFang京房2"
+                        >房</persName>對曰：「古帝王以功舉賢，則萬化成，瑞應著， <note>[四]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「萬化，萬機之事，施教化者也。一曰萬物之類也。」</note>
+                        末世以毀譽取人，故功業廢而致災異。宜令百官各試其功，災異可息。」詔使<persName xml:id="JingFang京房2"
+                        >房</persName>
+            </p>
+      </div>
+      <pb n="3161"/>
+      <div>
+            <p> 作其事，<persName xml:id="JingFang京房2">房</persName>奏考功課吏法。 <note>[五]<persName
+                              xml:id="JinZhuo晉灼"
+                        >晉灼</persName>曰：「令丞尉治一縣，崇教化亡犯法者輒遷。有盜賊，滿三日不覺者則尉事也。令覺之，自除，二尉負其（二）〔辠〕。
+                        令覺之，自除，二尉負其（二）〔辠〕。 <place xml:id="">殿</place>本作「辠」。<persName
+                              xml:id="WangXianqian王先謙">王先謙</persName>說作「辠」是。 率相准如此法。」</note>
+                        上令公卿朝臣與<persName xml:id="JingFang京房2">房</persName>會議<place xml:id="Wenshi溫室"
+                        >溫室</place>， <note>[六]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<place
+                              xml:id="Wenshi溫室">溫室</place>，殿名也。」</note> 皆以<persName
+                        xml:id="JingFang京房2">房</persName>言煩碎，令上下相司，不可許。上意鄉之。 <note>[七]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「鄉讀曰嚮。」</note>
+                        時部刺史奏事京師，上召見諸刺史，令<persName xml:id="JingFang京房2"
+                        >房</persName>曉以課事，刺史復以為不可行。唯御史大夫<persName xml:id="ZhengHong鄭弘"
+                        >鄭弘</persName>、光祿大夫<persName xml:id="ZhouKan周堪">周堪</persName>初言不可，後善之。</p>
+      </div>
+      <div>
+            <p>是時中書令<persName xml:id="ShiXian石顯">石顯</persName>顓權， <note>[一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「顓與專同。」</note>
+                  <persName xml:id="ShiXian石顯">顯</persName>友人<persName xml:id="WuluChongzong五鹿充宗"
+                        >五鹿充宗</persName>為尚書令，與<persName xml:id="JingFang京房2"
+                        >房</persName>同經，論議相非。二人用事，<persName xml:id="JingFang京房2">房</persName>嘗宴見，
+                              <note>[二]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「以閒宴時而入見天子。」</note> 問上曰：「<persName xml:id="ZhouYouWang周幽王"
+                        >幽</persName><persName xml:id="ZhouLiWang周厲王"
+                        >厲</persName>之君何以危？所任者何人也？」上曰：「君不明，而所任者巧佞。」<persName xml:id="JingFang京房2"
+                        >房</persName>曰：「知其巧佞而用之邪，將以為賢也？」上曰：「賢之。」<persName xml:id="JingFang京房2"
+                        >房</persName>曰：「然則今何以知其不賢也？」上曰：「以其時亂而君危知之。」<persName xml:id="JingFang京房2"
+                        >房</persName>曰：「若是，任賢必治，任不肖必亂，必然之道也。<persName xml:id="ZhouYouWang周幽王"
+                        >幽</persName><persName xml:id="ZhouLiWang周厲王"
+                  >厲</persName>何不覺寤而更求賢，曷為卒任不肖以至於是？」 <note>[三]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「卒，終也。」</note> 上曰：「臨亂之君各賢其臣，令皆覺 </p>
+      </div>
+      <pb n="3162"/>
+      <div>
+            <p> 寤，天下安得危亡之君？」<persName xml:id="JingFang京房2">房</persName>曰：「<persName
+                        xml:id="QiHuanGong齊桓公">齊桓公</persName>、<persName xml:id="Ershi二世"
+                        >秦二世</persName>亦嘗聞此君而非笑之，然則任<persName xml:id="ShuDiao豎刁"
+                        >豎刁</persName>、<persName xml:id="ZhaoGao趙高"
+                        >趙高</persName>，政治日亂，盜賊滿山，何不以<persName xml:id="ZhouYouWang周幽王"
+                        >幽</persName><persName xml:id="ZhouLiWang周厲王"
+                        >厲</persName>卜之而覺寤乎？」上曰：「唯有道者能以往知來耳。」<persName xml:id="JingFang京房2"
+                        >房</persName>因免冠頓首，曰：「<bibl xml:id="Chunqiuji春秋紀">春秋紀</bibl>二百四十二年災異，以視萬世之君。
+                              <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「視讀曰示。」</note>
+                  今陛下即位已來，日月失明，星辰逆行，山崩泉涌，地震石隕，夏霜冬靁， <note>[五]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「靁，古雷字。」</note> 春凋秋榮，隕霜不殺，水旱螟蟲，民人飢疫，盜賊不禁，刑人滿市，<bibl
+                        xml:id="Chunqiu春秋">春秋</bibl>所記災異盡備。 <note>[六]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「言今皆備有之。」</note> 陸下視今為治邪，亂邪？」上曰：「亦極亂耳。尚何道！」<persName
+                        xml:id="JingFang京房2">房</persName>曰：「今所任用者誰與？」 <note>[七]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「與讀曰歟。」</note>
+                  上曰：「然幸其瘉於彼，又以為不在此人也。」 <note>[八]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「瘉與愈同，愈猶勝也。言今之災異及政道猶幸勝於往日，又不由所任之人。」</note>
+                  <persName xml:id="JingFang京房2"
+                        >房</persName>曰：「夫前世之君亦皆然矣。臣恐後之視今，猶今之視前也。」上良久乃曰：「今為亂者誰哉？」<persName
+                        xml:id="JingFang京房2">房</persName>曰：「明主宜自知之。」上曰：「不知也；如知（之），何故用之？」
+                        <note>如知（之），何故用之？ <date type="regnal">景祐</date>、<place xml:id=""
+                              >殿</place>本都無「之」字，<bibl xml:id="Tongjian通鑑">通鑑</bibl>同。</note>
+                  <note>[九]<persName xml:id="YanShigu顏師古">師古</persName>曰：「如，若也。」</note>
+                  <persName xml:id="JingFang京房2">房</persName>曰：「上最所信任，與圖事帷幄之中進退天下之士者是矣。」
+                              <note>[一０]<persName xml:id="YanShigu顏師古">師古</persName>曰：「圖，謀也。」</note>
+                  <persName xml:id="JingFang京房2">房</persName>指謂<persName xml:id="ShiXian石顯"
+                        >石顯</persName>，上亦知之，謂<persName xml:id="JingFang京房2">房</persName>曰：「已諭。」
+                              <note>[一一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「言已曉此意。」</note>
+            </p>
+      </div>
+      <pb n="3163"/>
+      <div>
+            <p><persName xml:id="JingFang京房2">房</persName>罷出，後上令<persName xml:id="JingFang京房2"
+                        >房</persName>上弟子曉知考功課吏事者，欲試用之。<persName xml:id="JingFang京房2"
+                        >房</persName>上中郎<persName xml:id="RenLiang任良">任良</persName>、<persName
+                        xml:id="YaoPing姚平">姚平</persName>，「願以為刺史，試考功法，臣得通籍殿中，為奏事，以防雍塞。」
+                              <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「雍讀曰壅。」</note>
+                  <persName xml:id="ShiXian石顯">石顯</persName>、<persName xml:id="WuluChongzong五鹿充宗"
+                        >五鹿充宗</persName>皆疾<persName xml:id="JingFang京房2">房</persName>，欲遠之，
+                              <note>[二]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「出之，令遠去。」</note> 建言宜試以<persName xml:id="JingFang京房2"
+                        >房</persName>為郡守。 <note>[三]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「立議云然也。」</note>
+                  <persName xml:id="LiuShi劉始">元帝</persName>於是以<persName xml:id="JingFang京房2"
+                        >房</persName>為<place xml:id="Weijun魏郡">魏郡</place>太守，秩八百石，居得以考功法治郡。<persName
+                        xml:id="JingFang京房2">房</persName>自請，願無屬刺史，得除用它郡人，自第吏千石已下， <note>[四]<persName
+                              xml:id="RuChun如淳">如淳</persName>曰：「令長屬縣，自課第殿最。」</note> 歲竟乘傳奏事。
+                              <note>[五]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「傳音張戀反。其下亦同。」</note> 天子許焉。</p>
+      </div>
+      <pb n="3164"/>
+      <div>
+            <p><persName xml:id="JingFang京房2">房</persName>自知數以論議為大臣所非，內與<persName xml:id="ShiXian石顯"
+                        >石顯</persName>、<persName xml:id="WuluChongzong五鹿充宗"
+                        >五鹿充宗</persName>有隙，不欲遠離左右，及為太守，憂懼。<persName xml:id="JingFang京房2"
+                        >房</persName>以<date type="regnal"
+                  >建昭</date>二年二月朔拜，上封事曰：「辛酉以來，蒙氣衰去，太陽精明，臣獨欣然，以為陛下有所定也。然少陰倍力而乘消息。 <note>[一]<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「<persName xml:id="JingFang京房2"
+                              >房</persName>以消息卦為辟。辟，君也。息卦曰太陰，消卦曰太陽，其餘卦曰少陰少陽，謂臣下也。并力雜卦氣干消息也。」</note>
+                        臣疑陛下雖行此道，猶不得如意，臣竊悼懼。守<persName xml:id="WangFeng王鳳"
+                  >陽平侯鳳</persName>欲見未得，至己卯，臣拜為太守，此言上雖明下猶勝之效也。 <note>[二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「言權臣蔽主之明，故己出為郡守也。」</note>
+                  臣出之後，恐必為用事所蔽，身死而功不成，故願歲盡乘傳奏事，蒙哀見許。乃辛巳，蒙氣復乘卦，太陽侵色， <note>[三]<persName
+                              xml:id="ZhangYan張晏">張晏</persName>曰：「<bibl xml:id="Jingua晉卦"
+                              >晉卦</bibl>、<bibl xml:id="Jiegua解卦">解卦</bibl>也。太陽侵色，謂<bibl
+                              xml:id="Dazhuang大壯">大壯</bibl>。」</note> 此上大夫覆陽而上意疑也。 <note>[四]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「覆，掩蔽也。」</note>
+                  己卯、庚辰之間，必有欲隔絕臣令不得乘傳奏事者。」</p>
+      </div>
+      <div>
+            <p><persName xml:id="JingFang京房2">房</persName>未發，上令<persName xml:id="WangFeng王鳳"
+                        >陽平侯鳳</persName>承制詔<persName xml:id="JingFang京房2"
+                        >房</persName>，止無乘傳奏事。<persName xml:id="JingFang京房2">房</persName>意愈恐，去至<place
+                        xml:id="Xinfeng新豐">新豐</place>，因郵上封事 <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「郵，行書者也，若今傳送文書矣。郵音尤。」</note> 曰：「臣〔前〕以六月中言<bibl
+                        xml:id="Dungua遯卦">遯卦</bibl>不效， <note>臣〔前〕以六月中言<bibl xml:id="Dungua遯卦"
+                              >遯卦</bibl>不效， <date type="regnal">景祐</date>、<place xml:id=""
+                        >殿</place>本都有「前」字。</note> 法曰：『道人始去，寒，涌水為災。』 <note>[二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「道人，有道術之人也。天氣寒而又有水涌出也。」</note>
+                        至其七月，涌水出。臣弟子<persName xml:id="YaoPing姚平">姚平</persName>謂臣曰：『<persName
+                        xml:id="JingFang京房2">房</persName>可謂知道，未可謂信道也。<persName xml:id="JingFang京房2"
+                        >房</persName>言災異，未嘗不中，今涌水已出，道人當逐死，尚復何言？』臣曰：『陛下至仁，於臣尤厚，雖言而死，臣猶言也。』
+                              <note>[三]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「自云不避死也。」</note><persName xml:id="YaoPing姚平"
+                        >平</persName>又曰：『<persName xml:id="JingFang京房2">房</persName>可 </p>
+      </div>
+      <pb n="3165"/>
+      <div>
+            <p> 謂小忠，未可謂大忠也。昔<place xml:id="Qin秦">秦</place>時<persName xml:id="ZhaoGao趙高"
+                        >趙高</persName>用事，有<persName xml:id="ZhengXian正先">正先</persName>者，非刺<persName
+                        xml:id="ZhaoGao趙高">高</persName>而死， <note>[四]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「姓<persName xml:id="ZhengXian正先"
+                              >正</persName>名<persName xml:id="ZhengXian正先">先</persName>，<place
+                              xml:id="Qin秦">秦</place>博士也。」</note>
+                  <persName xml:id="ZhaoGao趙高">高</persName>威自此成，故<place xml:id="Qin秦"
+                        >秦</place>之亂，<persName xml:id="ZhengXian正先">正先</persName>趣之。』
+                              <note>[五]<persName xml:id="YanShigu顏師古">師古</persName>曰：「趣讀曰促。」</note>
+                  今臣得出守郡，自詭效功， <note>[六]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「詭，責也，〔自以為憂責也〕。」 詭，責也，〔自以為憂責也〕。 <date type="regnal"
+                              >景祐</date>、<place>殿</place>本都有後六字。 </note> 恐未效而死。惟陛下毋使臣塞涌水之異，
+                              <note>[七]<persName xml:id="YanShigu顏師古">師古</persName>曰：「塞亦當也。」</note>
+                        當<persName xml:id="ZhengXian正先">正先</persName>之死，為<persName
+                        xml:id="YaoPing姚平">姚平</persName>所笑。」</p>
+      </div>
+      <div>
+            <p><persName xml:id="JingFang京房2">房</persName>至<place xml:id="Shan陝">陝</place>，復上封事
+                              <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<place
+                              xml:id="Shan陝">陝</place>，<place xml:id="Hongnong弘農"
+                        >弘農</place>之縣也，音式冉反。」</note> 曰：「乃丙戌小雨，丁亥蒙氣去，然少陰并力而乘消息，戊子益甚，到五十分，蒙氣復起。
+                              <note>[二]<persName xml:id="MengKang孟康"
+                        >孟康</persName>曰：「分一日為八十分，分起夜半，是為戊子之日日在已西而蒙也。蒙常以晨夜，今向中而蒙起，是臣黨盛君不勝也。」</note>
+                  此陛下欲正消息，雜卦之黨并力而爭，消息之氣不勝。彊弱安危之機不可不察。己丑夜，有還風，盡辛卯， <note>[三]<persName
+                              xml:id="MengKang孟康"
+                        >孟康</persName>曰：「諸卦氣以寒溫不效後九十一日為還風。還風，暴風也。風為教令，言正令還也。」</note> 太陽復侵色，至癸巳，日月相薄，
+                              <note>[四]<persName xml:id="MengKang孟康">孟康</persName>曰：「<bibl
+                              xml:id="Jingfangzhuan京房傳"
+                        >京房傳</bibl>曰：『雖非日月同宿之時，陰道盛，猶上薄日光如此，但日無光不食也。』」</note>
+                  此邪陰同力而太陽為之疑也。臣前白九年不改，必有星亡之異。 <note>[五]<persName xml:id="ZhangYan張晏"
+                              >張晏</persName>曰：「九，陽數之極也。」<persName xml:id="MengKang孟康"
+                        >孟康</persName>曰：「晝食為既，夜食為盡，而星亡為星不見也。」</note> 臣願出<persName
+                        xml:id="RenLiang任良"
+                  >任良</persName>試考功，臣得居內，星亡之異可去。議者知如此於身不利，臣不可蔽，故云使弟子不若試師。臣為刺史又當奏事，故復云為刺史恐太守不與同心，不若以為太守，此其所以隔絕臣也。陛下不違其言而
+            </p>
+      </div>
+      <pb n="3166"/>
+      <div>
+            <p> 遂聽之，此乃蒙氣所以不解，太陽亡色者也。臣去朝稍遠，太陽侵色益甚，唯陛下毋難還臣而易逆天意。 <note>[六]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「易，輕也。音弋豉反。」</note>
+                        邪說雖安于人，天氣必變，故人可欺，天不可欺也。願陛下察焉。」<persName xml:id="JingFang京房2"
+                  >房</persName>去月餘，竟徵下獄。</p>
+      </div>
+      <div>
+            <p>初，<persName xml:id="LiuQin劉欽1">淮陽憲王</persName>舅<persName xml:id="ZhangBo張博"
+                        >張博</persName>從<persName xml:id="JingFang京房2">房</persName>受學，以女妻<persName
+                        xml:id="JingFang京房2">房</persName>。<persName xml:id="JingFang京房2"
+                        >房</persName>與相親，每朝見，輒為<persName xml:id="ZhangBo張博">博</persName>道其語，
+                              <note>[一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「所與天子言，皆具說之。」</note> 以為上意欲用<persName xml:id="JingFang京房2"
+                        >房</persName>議，而羣臣惡其害己，故為衆所排。<persName xml:id="ZhangBo張博"
+                        >博</persName>曰：「<persName xml:id="LiuQin劉欽1">淮陽王</persName>上親弟，敏達好政，欲為國忠。
+                              <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「為音于偽反。」</note>
+                        今欲令王上書求入朝，得佐助<persName xml:id="JingFang京房2">房</persName>。」<persName
+                        xml:id="JingFang京房2">房</persName>曰：「得無不可？」 <note>[三]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「恐不可也。」</note>
+                  <persName xml:id="ZhangBo張博">博</persName>曰：「前<persName xml:id=""
+                        >楚王</persName>朝薦士，何為不可？」<persName xml:id="JingFang京房2"
+                        >房</persName>曰：「中書令<persName xml:id="ShiXian石顯">石顯</persName>、尚書令<persName
+                        xml:id="WuluChongzong五鹿充宗">五鹿</persName>君相與合同，巧佞之人也，事縣官十餘年；及丞相<persName
+                        xml:id="WeiXuancheng韋玄成">韋侯</persName>，皆久亡補於民，可謂亡功矣。 <note>[四]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「<persName
+                              xml:id="WeiXuancheng韋玄成">韋玄成</persName>也。」</note> 此尤不欲行考功者也。<persName
+                        xml:id="LiuQin劉欽1"
+                        >淮陽王</persName>即朝見，勸上行考功，事善；不然，但言丞相、中書令任事久而不治，可休丞相，以御史大夫<persName
+                        xml:id="ZhengHong鄭弘">鄭弘</persName>代之，遷中 </p>
+      </div>
+      <pb n="3167"/>
+      <div>
+            <p> 書令置他官，以鉤盾令<persName xml:id="XuLi徐立">徐立</persName>代之，如此，<persName
+                        xml:id="JingFang京房2">房</persName>考功事得施行矣。」<persName xml:id="ZhangBo張博"
+                        >博</persName>具從<persName xml:id="JingFang京房2"
+                        >房</persName>記諸所說災異事，（固）〔因〕令<persName xml:id="JingFang京房2"
+                        >房</persName>為<persName xml:id="LiuQin劉欽1">淮陽王</persName>作求朝奏草，
+                              <note>（固）〔因〕令<persName xml:id="JingFang京房2">房</persName>為<persName
+                              xml:id="LiuQin劉欽1">淮陽王</persName>作求朝奏草， <date type="regnal"
+                              >景祐</date>、<place xml:id="">殿</place>本都作「因」。</note> 皆持柬與<persName
+                        xml:id="LiuQin劉欽1">淮陽王</persName>。<persName xml:id="ShiXian石顯"
+                        >石顯</persName>微司具知之，以<persName xml:id="JingFang京房2"
+                        >房</persName>親近，未敢言。及<persName xml:id="JingFang京房2"
+                        >房</persName>出守郡，<persName xml:id="ShiXian石顯">顯</persName>告<persName
+                        xml:id="JingFang京房2">房</persName>與<persName xml:id="ZhangBo張博"
+                        >張博</persName>通謀，非謗政治，歸惡天子，詿誤諸侯王，語在<bibl xml:id="Xianwangzhuan憲王傳"
+                        >憲王傳</bibl>。初，<persName xml:id="JingFang京房2">房</persName>見道<persName
+                        xml:id="ZhouYouWang周幽王">幽</persName><persName xml:id="ZhouLiWang周厲王"
+                        >厲</persName>事，出為御史大夫<persName xml:id="ZhengHong鄭弘"
+                        >鄭弘</persName>言之。<persName xml:id="JingFang京房2">房</persName>、<persName
+                        xml:id="ZhangBo張博">博</persName>皆棄巿，<persName xml:id="ZhengHong鄭弘"
+                        >弘</persName>坐免為庶人。<persName xml:id="JingFang京房2">房</persName>本姓<persName
+                        xml:id="JingFang京房2">李</persName>，推律自定為<persName xml:id="JingFang京房2"
+                        >京氏</persName>，死時年四十一。</p>
+      </div>
+      <div>
+            <p><persName xml:id="YiFeng翼奉">翼奉</persName>字<persName xml:id="YiFeng翼奉"
+                        >少君</persName>，<place xml:id="DongHai東海">東海</place><place xml:id="Xiapi下邳"
+                        >下邳</place>人也。治<bibl xml:id="Qishi齊詩">齊詩</bibl>，與<persName
+                        xml:id="XiaoWangzhi蕭望之">蕭望之</persName>、<persName xml:id="KuangHeng匡衡"
+                        >匡衡</persName>同師。三人經術皆明，<persName xml:id="KuangHeng匡衡"
+                        >衡</persName>為後進，<persName xml:id="XiaoWnagzhi蕭望之"
+                        >望之</persName>施之政事，而<persName xml:id="YiFeng翼奉"
+                        >奉</persName>惇學不仕，好律曆陰陽之占。<persName xml:id="LiuShi劉始"
+                  >元帝</persName>初即位，諸儒薦之，徵待詔宦者署，數言事宴見，天子敬焉。</p>
+      </div>
+      <div>
+            <p>時，<persName xml:id="WangLin王臨1">平昌侯王臨</persName>以<persName xml:id="LiuBingyi劉病已"
+                        >宣（布）〔帝〕</persName>外屬侍中， <note><persName xml:id="WangLin王臨1"
+                              >平昌侯王臨</persName>以<persName xml:id="LiuBingyi劉病已"
+                        >宣（布）〔帝〕</persName>外屬侍中， <date type="regnal">景祐</date>、<place xml:id=""
+                              >殿</place>、<place xml:id="">局</place>本都作「帝」，此誤。</note> 稱詔欲從<persName
+                        xml:id="YiFeng翼奉">奉</persName>學其術。<persName xml:id="YiFeng翼奉"
+                  >奉</persName>不肯與言，而上封事曰：「臣聞之於師，治道要務，在知下之邪正。人誠鄉正，雖愚為用； <note>[一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「鄉讀曰嚮。」</note>若乃懷邪，知益為害。知 </p>
+      </div>
+      <pb n="3168"/>
+      <div>
+            <p> 下之術，在於六情十二律而已。北方之情，好也；好行貪狼，申子主之。 <note>[二]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「北方水，水生於申，盛於子。水性觸地而行，觸物而潤，多所好故；多好則貪而無厭，故為貪狼也。」</note>
+                  東方之情，怒也；怒行陰賊，亥卯主之。 <note>[三]<persName xml:id="MengKang孟康"
+                        >孟康</persName>曰：「東方木，木生於亥，盛於卯。木性受水氣而生，貫地而出，故為怒；以陰氣賊害土，故為陰賊也。」</note>
+                        貪狼必待陰而後動，陰賊必待貪狼而後用，二陰並行，是以王者忌子卯也。<bibl xml:id="Lijing禮經">禮經</bibl>避之，<bibl
+                        xml:id="Chunqiu春秋">春秋</bibl>諱焉。 <note>[四]<persName xml:id="LiQi李奇"
+                              >李奇</persName>曰：「北方陰也，卯又陰賊，故為二陰，王者忌之，不舉樂。<bibl xml:id="Chunqiu春秋"
+                              >春秋</bibl>、<bibl xml:id="Liji禮記">禮記</bibl>說皆同。<persName
+                              xml:id="JiaShi賈氏">賈氏</persName>說：『<persName xml:id="Jie桀"
+                              >桀</persName>以乙卯亡，<persName xml:id="Zhou紂"
+                              >紂</persName>以甲子喪，惡以為戒。』」<persName xml:id="ZhangYan張晏"
+                              >張晏</persName>曰：「子刑卯，卯刑子，相刑之日，故以為忌。而云<place xml:id="Xia夏"
+                              >夏</place>以乙卯亡，<place xml:id="Yin殷">殷</place>以甲子亡，不推<persName
+                              xml:id="Tang湯">湯</persName><persName xml:id="ZhouWuWang周武王"
+                              >武</persName>以興，此說非也。」<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「儒者以為子卯<place xml:id="Xia夏">夏</place><place
+                              xml:id="Yin殷">殷</place>亡日，大失之矣。<persName xml:id="HeRuliang何儒亮"
+                              >何儒亮</persName>以為學者雖駁云，只取<place xml:id="Xia夏">夏</place><place
+                              xml:id="Yin殷">殷</place>亡日，不論<place xml:id="Yin殷">殷</place>
+                        <place xml:id="Zhou周">周</place>之興，以為大失，不博考其義。且天人之際，其理相符，有德者昌，無德者亡。以<persName
+                              xml:id="Jie桀">桀</persName><persName xml:id="Zhou紂"
+                              >紂</persName>之暴虐，又遇惡日，其理必亡。以<persName xml:id="Tang湯"
+                              >湯</persName><persName xml:id="ZhouWuWang周武王"
+                        >武</persName>之德，固先天而天不違，所謂德能消殃矣，豈殃能消德也！」</note> 南方之情，惡也；惡行廉貞，寅午主之。
+                              <note>[五]<persName xml:id="MengKang孟康"
+                        >孟康</persName>曰：「南方火，火生於寅，盛於午。火性炎猛，無所（加）〔容〕受， 無所（加）〔容〕受， <date type="regnal"
+                              >景祐</date>、<place xml:id="">殿</place>本都作「容」。<persName
+                              xml:id="WangXianqian王先謙">王先謙</persName>說作「容」是。
+                        故為惡；其氣精專嚴整，故為廉貞。」</note> 西方之情，喜也；喜行寬大，巳酉主之。 <note>[六]<persName
+                              xml:id="MengKang孟康"
+                        >孟康</persName>曰：「西方金，金生於巳，盛於酉。金之為物，喜以利刃加於萬物，故為喜；利刃所加，無不寬大，故曰寬大也。」</note>
+                        二陽並行，是以王者吉午酉也。<bibl xml:id="Shi詩">詩</bibl>曰：『吉日庚午。』 <note>[七]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「<bibl xml:id="Xiaoya小雅"
+                              >小雅</bibl><bibl xml:id="Jiri吉日"
+                        >吉日</bibl>之詩也。其詩曰『吉日庚午，既差我馬』，言以庚午之吉日簡擇車馬以出田也。」</note> 上方之情，樂也；樂行姦邪，辰未主之。
+                              <note>[八]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「上方謂北與東也。陽氣所萌生，故為上。辰，窮水也。未，窮木也。<persName
+                              xml:id="YiFeng翼奉">翼氏</persName><bibl xml:id="Fengjiao風角"
+                        >風角</bibl>曰『木落歸本，水流歸末』，故木利在亥，水利在辰，盛衰各得其所，故樂也。水窮則無隙不入，木上出，窮則旁行，故為姦邪。」</note>
+                  下方之情，哀也；哀行公正，戌丑主之。 <note>[九]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「下方謂南與西也。陰氣所萌生，故為下。戌，窮火也。丑，窮金也。<persName
+                              xml:id="YiFeng翼奉">翼氏</persName><bibl xml:id="Fengjiao風角"
+                        >風角</bibl>曰『金剛火彊，各歸其鄉』，故火刑於午，金刑於酉。酉午，金火之盛也。盛時而受刑，至窮無所歸，故曰哀也。火性無所私，金性方剛，故曰公正。」</note>
+                  辰未屬陰，戌丑屬陽，萬物各以其類應。今陛下明聖虛靜以待物至，萬事雖衆，何聞而不諭， <note>[一０]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「諭謂曉解之。」</note>
+                  豈況乎執十二律而御六情！於以知下參實，亦甚優矣，萬不失一，自然之道也。乃正月癸未日加申，有暴風從西南來。未主姦邪，申主貪狼，風以大陰下抵建前，是人主左右邪臣之氣也。
+                              <note>[一一]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「<date
+                              type="regnal">初元</date>二年，歲在甲戌，正月二十二日癸未也，太陰在太歲後。」<persName
+                              xml:id="MengKang孟康"
+                              >孟康</persName>曰：「時太陰在未，月建在寅，風從未下至寅南也。建為主氣，太陰臣氣也，加主氣，是人主左右邪臣驗也。」<persName
+                              xml:id="JinZhuo晉灼">晉灼</persName>曰：「癸未日風，未辰也，時加申。<persName
+                              xml:id="ZhangYan張晏">張</persName>說是也。」</note>
+                  <persName xml:id="WangLin王臨1">平昌侯</persName>比三來見臣，皆以正辰加邪時。辰為客，時為主人。以律知人情，王者之祕道也，
+                              <note>[一二]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「<persName
+                              xml:id="WangLin王臨1">平昌侯</persName>欲依上來學，為時邪也。風日加申，申知祕道也。」<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「謂乙丑之日也。丑為正日，加未而來為邪時。」<persName
+                              xml:id="JinZhuo晉灼">晉灼</persName>曰：「<persName xml:id="YiFeng翼奉"
+                              >奉</persName>以未為邪時，占知<persName xml:id="WangLin王臨1"
+                              >平昌侯</persName>為邪人，此當言皆以邪辰加邪時，字誤作正耳。下言大邪之見，辰時俱邪是也。<persName
+                              xml:id="YiFeng翼奉">翼氏</persName>曰『五行動為五音，四時散為十二律』也。」</note>
+                  愚臣誠不敢以語邪人。」</p>
+      </div>
+      <pb n="3170"/>
+      <div>
+            <p>上以<persName xml:id="YiFeng翼奉">奉</persName>為中郎，召問<persName xml:id="YiFeng翼奉"
+                        >奉</persName>：「來者以善日邪時，孰與邪日善時？」<persName xml:id="YiFeng翼奉"
+                  >奉</persName>對曰：「師法用辰不用日。 <note>[一]<persName xml:id="MengKang孟康"
+                        >孟康</persName>曰：「假令甲子日，子為辰，甲為日，用子不用甲也。」</note> 辰為客，時為主人。見於明主，侍者為主人。
+                              <note>[二]<persName xml:id="ZhangYan張晏"
+                        >張晏</persName>曰：「禮，君燕見臣，則使臣為主人，故侍者為主人。」</note>
+                  辰正時邪，見者正，侍者邪；辰邪時正，見者邪，侍者正。忠正之見，侍者雖邪，辰時俱正； <note>[三]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「大正厭小邪也。凡辰時屬南與西為正，北與東為邪。」<persName xml:id="JinZhuo晉灼"
+                              >晉灼</persName>曰：「以上占推之，南方巳午、西方酉戌、東北寅丑為正，西南申未、北方亥子、東方辰卯為邪。」</note>
+                  大邪之見，侍者雖正，辰時俱邪。 <note>[四]<persName xml:id="MengKang孟康"
+                        >孟康</persName>曰：「大邪厭小正也。」</note> 即以自知侍者之邪，而時邪辰正，見者反邪； <note>[五]<persName
+                              xml:id="MengKang孟康"
+                              >孟康</persName>曰：「凡占以見者為本。今自知侍者邪，而時復邪，則邪無所施，故屬見者。」<persName
+                              xml:id="JinZhuo晉灼"
+                        >晉灼</persName>曰：「上言忠正客見，侍者雖邪，辰時俱正，然則小邪屬主人矣。何以知之，見者以大正來反我小邪故也。」</note>
+                  即以自知侍者之正，而時正辰邪，見者反正。 <note>[六]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「已自知侍者正，而時復正，則正無所施。辰雖邪，而見者更正也。」<persName
+                              xml:id="JinZhuo晉灼"
+                        >晉灼</persName>曰：「上言大邪客見，侍者雖正，辰時俱邪，然則小正屬主人矣。以此法占之，即以自知主人之正，而時正辰邪矣。何以知之？見者以大邪來反我小正故也。」</note>
+                  辰為常事，時為一行。 <note>[七]<persName xml:id="MengKang孟康"
+                        >孟康</persName>曰：「假令甲子日，則一日一夜為子。時，十二時也。日加之，行過也。」</note>
+                  辰疏而時精，其效同功，必參五觀之，然後可知。故曰：察其所繇，省其進退， <note>[八]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「繇與由同。」</note>
+                  參之六合五行，則可以見人性，知人情。難用外察，從中甚明，故詩之為學，情性而已。五性不相害，六情更興廢。 <note>[九]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「更音工衡反。」</note> 觀性以曆，
+                              <note>[一０]<persName xml:id="ZhangYan張晏"
+                              >張晏</persName>曰：「性謂五行也。曆謂日也。」<persName xml:id="JinZhuo晉灼"
+                              >晉灼</persName>曰：「<persName xml:id="YiFeng翼奉">翼氏</persName><bibl
+                              xml:id="Wuxing五性"
+                        >五性</bibl>：肝性靜，靜行仁，甲己主之；心性躁，躁行禮，丙辛主之；脾性力，力行信，戊癸主之；肺性堅，堅行義，乙庚主之；腎性智，智行敬，丁壬主之也。」</note>
+                  觀情以律， <note>[一一]<persName xml:id="ZhangYan張晏"
+                        >張晏</persName>曰：「情謂六情，廉貞、寬大、公正、姦邪、陰賊、貪狼也。律，十二律也。」</note>
+                  明主所宜獨用，難與二人共也。故曰：『顯諸仁，臧諸用。』 <note>[一二]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<bibl xml:id="Yi易">易</bibl><bibl xml:id="Shangji上繫"
+                              >上繫</bibl>之辭也。道周萬物，故曰顯諸仁；日用不知，故曰藏諸用也。」</note> 露之則不神，獨行則自然矣，唯<persName
+                        xml:id="YiFeng翼奉">奉</persName>能用之，學者莫能行。」</p>
+      </div>
+      <pb n="3171"/>
+      <div>
+            <p>是歲，<place xml:id="Guandong關東"
+                  >關東</place>大水，郡國十一飢，疫尤甚。上乃下詔江海陂湖園池屬少府者以假貧民，勿租稅；損大官膳，減樂府員，省苑（囿）〔馬〕， <note>省苑（囿）〔馬〕，
+                              <date type="regnal">景祐</date>本作「馬」。<persName xml:id="WangNiansun王念孫"
+                              >王念孫</persName>說<date type="regnal">景祐</date>本是。</note>
+                        諸宮館稀御幸者勿繕治；太僕少府減食穀馬，水衡省食肉獸。明年二月戊午，地震。其夏，<place xml:id="Qi齊"
+                        >齊</place>地人相食。七月己酉，地復震。上曰：「蓋聞賢聖在位，陰陽和，風雨時，日月光，星辰靜，黎庶康寧，考終厥命。今朕共承天地，託于公侯之上，明不能燭，德不能綏，災異並臻，連年不息。乃二月戊午，地大震于<place
+                        xml:id="Longxijun隴西郡">隴西郡</place>，毀落<place xml:id="Taishangmiao太上廟"
+                        >太上廟</place>殿壁木飾，壞敗<place xml:id="Huandaoxian豲道縣">豲道縣</place>
+                  <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「豲音（完）〔桓〕。」 豲音（完）〔桓〕。 <date
+                              type="regnal">景祐</date>、<place xml:id="">殿</place>本都作「桓」。 </note>
+                  城郭官寺及民室屋，厭殺人衆，山崩地裂，水泉涌出。一 </p>
+      </div>
+      <pb n="3172"/>
+      <div>
+            <p> 年地再動，天惟降災，震驚朕躬。治有大虧，咎至於此。夙夜兢兢，不通大變，深懷鬱悼，未知其序。比年不登，元元困乏，不勝飢寒，以陷刑辟，朕甚閔焉。憯怛於心。
+                              <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「憯音千感反。」</note>
+                  已詔吏虛倉廩，開府臧，振捄貧民。 <note>[三]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「捄，古救字。」</note> 羣司其茂思天地之戒， <note>[四]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「茂，勉也。」</note>
+                  有可蠲除減省以便萬姓者，各條奏。悉意陳朕過失，靡有所諱。」 <note>[五]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「悉，盡也。」</note> 因赦天下，舉直言極諫之士。<persName
+                        xml:id="YiFeng翼奉">奉</persName>奏封事曰：</p>
+      </div>
+      <div>
+            <p>臣聞之於師曰，天地設位，懸日月，布星辰，分陰陽，定四時，列五行，以視聖人，名之曰道。 <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「視讀曰示。下亦類此。」</note>
+                        聖人見道，然後知王治之象，故畫州土，建君臣，立律曆，陳成敗，以視賢者，名之曰經。賢者見經，然後知人道之務，則<bibl xml:id="Shi詩"
+                        >詩</bibl>、<bibl xml:id="Shu書">書</bibl>、<bibl xml:id="Yi易">易</bibl>、<bibl
+                        xml:id="Chunqiu春秋">春秋</bibl>、<bibl xml:id="Li禮">禮</bibl>、<bibl xml:id="Yue樂"
+                        >樂</bibl>是也。<bibl xml:id="Yi易">易</bibl>有陰陽，<bibl xml:id="Shi詩">詩</bibl>有五際，
+                              <note>[二]<persName xml:id="YingShao應劭"
+                              >應劭</persName>曰：「君臣、父子、兄弟、夫婦、朋友也。」<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「<bibl xml:id="Shineizhuan詩內傳"
+                        >詩內傳</bibl>：『五際，卯、酉、午、戌、亥也。陰陽終始際會之歲，於此則有變改之政也。』」</note>
+                  <bibl xml:id="Chunqiu春秋">春秋</bibl>有災異，皆列終始，推得失，考天心，以言王道之安危。至<persName
+                        xml:id="YiFeng翼奉">秦</persName>乃不說，傷之以法， <note>[三]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「說音悅。言不悅<bibl xml:id="Shi詩"
+                              >詩</bibl>、<bibl xml:id="Shu書">書</bibl>而以文法傷文學之人也。」</note>
+                  是以大道不通，至於滅亡。今陛下明聖，深懷要道，燭臨萬方， <note>[四]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「燭，照也。」</note> 布德流惠，靡有闕遺。罷省不急之用，振救困貧，賦醫藥，賜棺錢，
+                              <note>[五]<persName xml:id="YanShigu顏師古">師古</persName>曰：「賦謂分給之。」</note>
+                  恩澤甚厚。又舉 </p>
+      </div>
+      <pb n="3173"/>
+      <div>
+            <p> 直言，求過失，盛德純備，天下幸甚。</p>
+      </div>
+      <div>
+            <p>臣<persName xml:id="YiFeng翼奉">奉</persName>竊學<bibl xml:id="Qishi齊詩"
+                        >齊詩</bibl>，聞五際之要<bibl xml:id="Shiyuezhijiao十月之交">十月之交</bibl>篇，
+                              <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<bibl
+                              xml:id="Xiaoya小雅">小雅</bibl>篇名也。」</note> 知日蝕地震之效昭然可明，猶巢居知風，穴處知雨，
+                              <note>[二]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「巢居，烏鵲之屬也。穴處，狐貍之類也。」</note>
+                  亦不足多，適所習耳。臣聞人氣內逆，則感動天地；天變見於星氣日蝕，地變見於奇物震動。所以然者，陽用其精，陰用其形，猶人之有五臧六體，五臧象天，六體象地。故臧病則氣色發於面，體病則欠申動於貌。今年太陰建於甲戌，律以庚寅初用事，曆以甲午從春。
+                              <note>[三]<persName xml:id="MengKang孟康"
+                        >孟康</persName>曰：「太陰在甲戌，則太歲在子。十一月庚寅日，黃鍾律初起用事也。」</note> 曆中甲庚，律得參陽，性中仁義，情得公正貞廉，
+                              <note>[四]<persName xml:id="ZhangYan張晏"
+                              >張晏</persName>曰：「甲庚皆三陽。甲在東方為仁，庚在西方為義。戌為公正，寅午為廉貞。」<persName
+                              xml:id="JinZhuo晉灼">晉灼</persName>曰：「木數三。寅在東方，木位之始，故曰參陽也。」<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「中音竹仲反。」</note> 百年之精歲也。正以精歲，本首王位，
+                              <note>[五]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「春也。」</note>
+                  日臨中時接律而地大震，其後連月久陰，雖有大令，猶不能復， <note>[六]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「大令謂虛倉廩，開府庫之屬也。復，補也，音扶目反。」</note>
+                  陰氣盛矣。古者朝廷必有同姓以明親親，必有異姓以明賢賢，此聖王之所以大通天下也。同姓親而易進，異姓疏而難通，故同姓一，異姓五，乃為平 </p>
+      </div>
+      <pb n="3174"/>
+      <div>
+            <p> 均。今左右亡同姓，獨以舅后之家為親，異姓之臣又疏。二后之黨滿朝，非特處位，勢尤奢僭過度，<persName xml:id="Lv呂"
+                        >呂</persName>、<persName xml:id="Huo霍">霍</persName>、<persName
+                        xml:id="ShangguanShi上官氏">上官</persName>足以卜之，甚非愛人之道，又非後嗣之長策也。陰氣之盛，不亦宜乎！</p>
+      </div>
+      <div>
+            <p>臣又聞<place xml:id="Weiyang未央">未央</place>、<place xml:id="Jianzhang建章">建章</place>、<place
+                        xml:id="Ganquan甘泉">甘泉</place>宮才人各以百數，皆不得天性。 <note>[一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「言絕男女之好也。」</note> 若<place
+                        xml:id="Dulingyuan杜陵園"
+                        >杜陵園</place>，其已御見者，臣子不敢有言，雖然，太皇太后之事也。及諸侯王園，與其後宮，宜為設員，出其過制者，此損陰氣應天救邪之道也。今異至不應，災將隨之。其法大水，極陰生陽，反為大旱，甚則有火災，<date>春秋</date><place
+                        xml:id="Song宋">宋</place><persName xml:id="Boji伯姬">伯姬</persName>是矣。
+                              <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<persName
+                              xml:id="Boji伯姬">伯姬</persName>，<persName xml:id="LuChengGong魯成公"
+                              >魯成公</persName>女，<persName xml:id="SongGongGong宋恭公"
+                        >宋恭公</persName>之夫人也。幽居守寡，既久而遇火災，極陰生陽也。」</note> 唯陛下財察。 <note>[三]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「財與裁同。」</note>
+            </p>
+      </div>
+      <pb n="3175"/>
+      <div>
+            <p>明年夏四月乙未，<place xml:id="Xiaowuyuan孝武園">孝武園</place><place xml:id="Baiheguan白鶴館"
+                        >白鶴館</place>災。<persName xml:id="YiFeng翼奉"
+                        >奉</persName>自以為中，上疏曰：「臣前上五際地震之效，曰極陰生陽，恐有火災。不合明聽，未見省答，臣竊內不自信。今<place
+                        xml:id="Baiheguan白鶴館">白鶴館</place>以四月乙未，時加於卯，月宿亢災，與前地震同法。臣<persName
+                        xml:id="YiFeng翼奉">奉</persName>乃深知道之可信也。不勝拳拳，願復賜間，卒其終始。」 <note>[一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「間，空隙也。卒，盡也。」</note>
+            </p>
+      </div>
+      <div>
+            <p>上復延問以得失。<persName xml:id="YiFeng翼奉">奉</persName>以為祭天地於<place xml:id="Yunyang雲陽"
+                        >雲陽</place><place xml:id="Fenyin汾陰"
+                  >汾陰</place>，及諸寢廟不以親疏迭毀，皆煩費，違古制。又宮室苑囿，奢泰難供，以故民困國虛，亡累年之畜。所繇來久， <note>[一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「畜讀曰蓄。繇與由同。」</note>
+                  不改其本，難以末正，乃上疏曰：</p>
+      </div>
+      <div>
+            <p>臣聞昔者<persName xml:id="PanGeng盤庚">盤庚</persName>改邑以興<place xml:id="Yin殷"
+                  >殷</place>道，聖人美之。 <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<persName xml:id="PanGeng盤庚">盤庚</persName>，<place
+                              xml:id="Yin殷">殷</place>王名也。將遷<place xml:id="Bo亳">亳</place>，<place
+                              xml:id="Yin殷">殷</place>衆庶咸怨，作<bibl xml:id="Pangeng盤庚"
+                              >盤庚</bibl>三篇以告之，遂乃遷都，事見<bibl xml:id="Shangshu尚書">尚書</bibl>也。」</note>
+                        竊聞<place xml:id="Han漢">漢</place>德隆盛，在於<persName xml:id="LiuHeng劉恆"
+                        >孝文皇帝</persName>躬行節儉，外省繇役。其時未有<place xml:id="Ganquan甘泉">甘泉</place>、<place
+                        xml:id="Jianzhang建章">建章</place>及<place xml:id="Shanglin上林"
+                        >上林</place>中諸離宮館也。<place xml:id="Weiyanggong未央宮">未央宮</place>又無<place
+                        xml:id="Gaomen高門">高門</place>、<place xml:id="Wutai武臺">武臺</place>、<place
+                        xml:id="Qilin麒麟">麒麟</place>、<place xml:id="Fenghuang鳳皇">（凰）〔鳳〕皇</place>、
+                        <note>（凰）〔鳳〕皇、 <date type="regnal">景祐</date>、<place xml:id=""
+                        >殿</place>本都作「鳳」，此誤。</note>
+                  <place xml:id="Baihu">白虎</place>、<place xml:id="Yutang玉堂">玉堂</place>、<place
+                        xml:id="Jinhua金華">金華</place>之殿，獨有<place xml:id="Qiandian前殿"
+                        >前殿</place>、<place xml:id="Qutai曲臺">曲臺</place>、<place xml:id="Jiantai漸臺"
+                        >漸臺</place>、<place xml:id="Xuanshi宣室">宣室</place>、<place xml:id="Wenshi溫室"
+                        >溫室</place>、<place xml:id="Chengming承明">承明</place>耳。<persName
+                        xml:id="LiuHeng劉恆">孝文</persName>欲作一臺，度用百金， <note>[二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「度，計也，音大各反。」</note>
+                  重民之財，廢而不為，其積土基，至今猶存， <note>[三]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「今在<place xml:id="Xinfengxian新豐縣">新豐縣</place>南，<place
+                              xml:id="Lishan驪山">驪山</place>頂上也。」</note>
+                  又下遺詔，不起山墳。故其時天下大和，百姓洽足，德流後嗣。</p>
+      </div>
+      <pb n="3176"/>
+      <div>
+            <p>如令處於當今，因此制度，必不能成功名。天道有常，王道亡常，亡常者所以應有常也。必有非常之主，然後能立非常之功。臣願陛下徙都於<place
+                        xml:id="Chengzhou成周">成周</place>，左據<place xml:id="Chengquan成皋"
+                        >成皋</place>，（左）〔右〕阻<place xml:id="Mianchi黽池">黽池</place>， <note>左據<place
+                              xml:id="Chengquan成皋">成皋</place>，（左）〔右〕阻<place xml:id="Mianchi黽池"
+                              >黽池</place>， <date type="regnal">景祐</date>、<place xml:id=""
+                              >殿</place>，<place xml:id="">局</place>本都作「右」。</note> 前鄉<place
+                        xml:id="Songgao崧高">崧高</place>，後介<place xml:id="Dahe大河">大河</place>，
+                              <note>[一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「鄉讀曰嚮。介，隔也，礙也。」</note> 建<place xml:id="Xingyang滎陽"
+                        >滎陽</place>，扶<place xml:id="Hedong河東">河東</place>，南北千里以為關，而入<place
+                        xml:id="Aocang敖倉">敖倉</place>；地方百里者八九，足以自娛；東厭諸侯之權，西遠<orgName xml:id="Qiang羌"
+                        >羌</orgName><orgName xml:id="Hu胡">胡</orgName>之難， <note>[二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「厭，抑也。音一葉反。遠音于萬反。」</note> 陛下共己亡為，
+                              <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「共讀曰恭。」</note>
+                        按<place xml:id="Chengzhou成周">成周</place>之居，兼<persName xml:id="PanGeng盤庚"
+                        >盤庚</persName>之德，萬歲之後，長為<persName xml:id="ZiZhao子昭">高宗</persName>。<persName
+                        xml:id="Hanjia漢家">漢家</persName>郊兆寢廟祭祀之禮多不應古，臣<persName xml:id="YiFeng翼奉"
+                        >奉</persName>誠難亶居而改作， <note>[四]<persName xml:id="RuChun如淳"
+                              >如淳</persName>曰：「亶居猶虛居也，欲徙都乃可更制度也。」<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「亶讀曰但。但居，謂依舊都也。」</note>
+                  故願陛下遷都正本。衆制皆定，亡復繕治宮館不急之費，歲可餘一年之畜。 <note>[五]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「畜讀曰蓄。次下亦同。」</note>
+            </p>
+      </div>
+      <div>
+            <p>臣聞<place xml:id="Sandai三代">三代</place>之祖積德以王，然皆不過數百年而絕。<place xml:id="Zhou周"
+                        >周</place>至<persName xml:id="ZhouChengWang周成王"
+                        >成王</persName>，有上賢之材，因<persName xml:id="ZhouWenWang周文王"
+                        >文</persName><persName xml:id="ZhouWuWang周武王">武</persName>之業，以<persName
+                        xml:id="ZhouGong周公">周</persName><persName xml:id="ZhouZhaoGong周召公"
+                        >召</persName>為輔， <note>[一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「召讀曰邵。」</note> 有司各敬其事，在位莫非其人。 <note>[二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「言所任皆得賢材也。」</note> 天下甫二世耳，
+                              <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「甫，始也。」</note>
+                        然<persName xml:id="ZhouGong周公">周公</persName>猶作 </p>
+      </div>
+      <pb n="3177"/>
+      <div>
+            <p> 詩書深戒<persName xml:id="ZhouChengWang周成王">成王</persName>，以恐失天下。<bibl xml:id="Shu書"
+                        >書</bibl>則曰：「王毋若<persName xml:id="Zhou紂">殷王紂</persName>。」 <note>[四]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「<bibl xml:id="Zhoushuwangyi周書亡逸"
+                              >周書亡逸</bibl>篇也。其書曰<persName xml:id="ZhouGong周公"
+                              >周公</persName>曰：『烏虖！毋若<persName xml:id="Zhou紂"
+                        >殷王紂</persName>之迷亂，酗于酒德哉！』是也。」</note> 其<bibl xml:id="Shi詩"
+                        >詩</bibl>則曰：「<place xml:id="Yin殷">殷</place>之未喪師，克配上帝；宜監于<place xml:id="Yin殷"
+                        >殷</place>，駿命不易。」 <note>[五]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<bibl xml:id="Shidaya詩大雅">詩大雅</bibl><bibl
+                              xml:id="Wenwang文王">文王</bibl>之詩也。師，衆也。駿，大也。言<place xml:id="Yin殷"
+                              >殷</place>家自<persName xml:id="Diyi帝乙"
+                              >帝乙</persName>以上，未喪天下之時，皆能配天而行。至<persName xml:id="Zhou紂">紂</persName>荒
+                              怠，自取敗滅。今宜以<persName xml:id="">殷王</persName>賢愚為鏡，知天之大命甚難也。」</note>
+                        今<place xml:id="Han漢">漢</place>初取天下，起於<place xml:id="Fengpei豐沛"
+                        >豐沛</place>，以兵征伐，德化未洽，後世奢侈，國家之費當數代之用，非直費財，又乃費士。<persName xml:id="LiuChe劉徹"
+                        >孝武</persName>之世，暴骨四夷，不可勝數。有天下雖未久，至於陛下八世九主矣， <note>[六]<persName
+                              xml:id="RuChun如淳">如淳</persName>曰：「<persName xml:id="LvZhi吕雉"
+                              >呂后</persName>為主，不得為世，故八世九主矣。」</note> 雖有<persName
+                        xml:id="ZhouChengWang周成王">成王</persName>之明，然亡<persName xml:id="ZhouGong周公"
+                        >周</persName><persName xml:id="ZhouZhaoGong周召公">召</persName>之佐。
+                              <note>[七]<persName xml:id="YanShigu顏師古">師古</persName>曰：「召讀曰邵。」</note>
+                  今東方連年飢饉，加之以疾疫，百姓菜色，或至相食。 <note>[八]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「人專食菜，故肌膚青黃，為菜色也。」</note> 地比震動，天氣溷濁，日光侵奪。 <note>[九]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「比，頻也。溷，汙也，音下頓反。」</note> 繇此言之，
+                              <note>[一０]<persName xml:id="YanShigu顏師古">師古</persName>曰：「繇與由同。」</note>
+                        執國政者豈可以不懷怵惕而戒萬分之一乎！故臣願陛下因天變而徙都，所謂與天下更始者也。天道終而復始，窮則反本，故能延長而亡窮也。今<place
+                        xml:id="Han漢">漢</place>道未終，陛下本而始之，於以永世延祚，不亦優乎！如因丙子之孟夏，順太陰以東行，
+                              <note>[一一]<persName xml:id="ZhangYan張晏"
+                        >張晏</persName>曰：「如因今丙子之四月也。太陰是時在甲戌，當轉在乙亥、丙子，左旋之也。」</note>
+                  到後七年之明歲，必有五年之餘蓄，然後大行考室之禮， <note>[一二]<persName xml:id="LiQi李奇"
+                              >李奇</persName>曰：「凡宮新成，殺牲以釁祭，致其五祀之神，謂之考室。」<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「考，成也，成其禮也。<bibl xml:id="Shi詩"
+                              >詩</bibl><bibl xml:id="Xiaoya小雅">小雅</bibl><bibl xml:id="Sigan斯干"
+                              >斯干</bibl>之詩序曰『<bibl xml:id="Sigan斯干">斯干</bibl>，<persName
+                              xml:id="ZhouXuanWang周宣王">宣王</persName>考室也』，故<persName
+                              xml:id="YiFeng翼奉">奉</persName>引之。」</note> 雖<place xml:id="Zhou周"
+                        >周</place>之隆盛，亡以加此。唯陛下留神，詳察萬世之策。</p>
+      </div>
+      <pb n="3178"/>
+      <div>
+            <p>書奏，天子異其意，答曰：「問<persName xml:id="YiFeng翼奉">奉</persName>：今園廟有七，云東徙，狀何如？」<persName
+                        xml:id="YiFeng翼奉">奉</persName>對曰：「昔<persName xml:id="ZhouChengWang周成王"
+                        >成王</persName>徙<place xml:id="Luo洛">洛</place>，<persName xml:id="PanGeng盤庚"
+                        >般庚</persName>遷<place xml:id="Yin殷"
+                        >殷</place>，其所避就，皆陛下所明知也。非有聖明，不能一變天下之道。臣<persName xml:id="YiFeng翼奉"
+                        >奉</persName>愚戇狂惑，唯陛下裁赦。」</p>
+      </div>
+      <div>
+            <p>其後，<persName xml:id="GongYu貢禹2">貢禹</persName>亦言當定迭毀禮，上遂從之。及<persName
+                        xml:id="KuangHeng匡衡">匡衡</persName>為丞相，奏徙南北郊，其議皆自<persName xml:id="YiFeng翼奉"
+                        >奉</persName>發之。</p>
+      </div>
+      <div>
+            <p><persName xml:id="YiFeng翼奉">奉</persName>以中郎為博士、諫大夫，年老以壽終。子及孫，皆以學在儒官。</p>
+      </div>
+      <div>
+            <p><persName xml:id="LiXun李尋">李尋</persName>字<persName xml:id="LiXun李尋"
+                        >子長</persName>，<place xml:id="Pingling平陵">平陵</place>人也。治<bibl
+                        xml:id="Shangshu尚書">尚書</bibl>，與<persName xml:id="ZhangWugu張無故"
+                        >張孺</persName>、<persName xml:id="ZhengKuanzhong鄭寬中"
+                        >鄭寬中</persName>同師。<persName xml:id="ZhengKuanzhong鄭寬中"
+                        >寬中</persName>等守師法教授，<persName xml:id="LiXun李尋">尋</persName>獨好<bibl
+                        xml:id="Hongfan洪範">洪範</bibl>災異，又學天文月令陰陽。事丞相<persName xml:id="ZhaiFangjin翟方進"
+                        >翟方進</persName>，<persName xml:id="ZhaiFangjin翟方進"
+                        >方進</persName>亦善為星曆，除<persName xml:id="LiXun李尋">尋</persName>為吏，數為<persName
+                        xml:id="ZhaiFangjin翟方進">翟侯</persName>言事。帝舅<persName xml:id="WangGen王根"
+                        >曲陽侯王根</persName>為大司馬票騎將軍，厚遇<persName xml:id="LiXun李尋"
+                        >尋</persName>。是時多災異，<persName xml:id="WangGen王根"
+                        >根</persName>輔政，數虛己問<persName xml:id="LiXun李尋">尋</persName>。<persName
+                        xml:id="LiXun李尋">尋</persName>見<persName xml:id="Hanjia漢家"
+                        >漢家</persName>有中衰會之象，其意以為且有洪水為災，乃說<persName xml:id="WangGen王根"
+                        >根</persName>曰：</p>
+      </div>
+      <div>
+            <p><bibl xml:id="Shu書">書</bibl>云「天聰明，」 <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<bibl xml:id="Yushu虞書">虞書</bibl><bibl
+                              xml:id="Gaotaomo皋陶謨">皋陶謨</bibl>之辭也。天視聽，人君之行不可不畏慎也。」</note> 蓋言<name
+                        type="tianwen">紫宮</name>極樞，通位帝紀， <note>[二]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「<name type="tianwen"
+                              >紫宮</name>，天之北宮也。極，天之北極星也，樞是其迴轉者也。<bibl xml:id="Tianwenzhi天文志"
+                              >天文志</bibl>曰：『天極其一明者，<persName xml:id="Taiyi太一"
+                              >太一</persName>常居也。』<persName xml:id="Taiyi太一"
+                        >太一</persName>，天皇大帝也，與通極為一體，故曰通位帝紀也。」</note>
+                  <name type="tianwen">太微</name>四門，廣開大道， <note>[三]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「<name type="tianwen">太微</name>，天之南宮也。四門，<name
+                              type="tianwen">太微</name>之四門也。」</note> 五經六緯，尊術顯士， <note>[四]<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「六緯，<bibl xml:id="Wujing五經"
+                              >五經</bibl>與樂緯也。」<persName xml:id="ZhangYan張晏">張晏</persName>曰：「六緯，<bibl
+                              xml:id="Wujing五經">五經</bibl>就<bibl xml:id="Xiaojing孝經"
+                              >孝經</bibl>緯也。」<persName xml:id="YanShigu顏師古">師古</persName>曰：「六緯者，<bibl
+                              xml:id="Wujing五經">五經</bibl>之緯及樂緯也。<persName xml:id="MengKang孟康"
+                              >孟</persName> 說是也。」</note>
+                  <name type="tianwen">翼</name><name type="tianwen">張</name>舒布，燭臨四海，
+                              <note>[五]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「<name
+                              type="tianwen">翼</name>二十八星，十八度。舒布，張廣也。<name type="tianwen"
+                              >翼</name>翅夾<name type="tianwen">張</name>，故言也。」</note>
+                  <name type="tianwen">少微</name>處士，為比為輔， <note>[六]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「<name type="tianwen">少微</name>四星在<name type="tianwen"
+                              >太微</name>西，主處士儒學之官，為<name type="tianwen">太微</name>輔佐也。」</note>
+                  故次帝廷，女宮在後。 <note>[七]<persName xml:id="MengKang孟康">孟康</persName>曰：「言<name
+                              type="tianwen">少微</name>四星在<name type="tianwen">太微</name>次。<name
+                              type="tianwen">太微</name>為天帝廷。女宮謂<name type="tianwen"
+                        >軒轅星</name>也。」</note> 聖人承天，賢賢易色，取法於此。 <note>[八]<persName
+                              xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「賢賢，尊上賢人。易色，輕略於色，不貴之也。易音弋二反。」</note> 天官上相上將，皆顓面正朝，
+                              <note>[九]<persName xml:id="MengKang孟康">孟康</persName>曰：「朝<name
+                              type="tianwen">太微宮</name>垣也。西垣為上將，東垣為上相，各專一面而正天之朝事也。」</note>
+                        憂責甚重，要在得人。得人之效，成敗之機，不可不勉也。昔<persName xml:id="QinMuGong秦穆公"
+                  >秦穆公</persName>說諓諓之言，任仡仡之勇，身受大辱，社稷幾亡。 <note>[一０]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「諓諓，小善也。仡仡，壯健也。謂聽<persName xml:id="QiZi杞子"
+                              >杞子</persName>、<persName xml:id="Fengsun逢孫">逢孫</persName>、<persName
+                              xml:id="Yangsun楊孫">楊孫</persName>之言，言<place xml:id="Zheng鄭"
+                              >鄭</place>可襲，乃使<persName xml:id="MengMingshi孟明視"
+                              >孟明視</persName>、<persName xml:id="Xiqishu西乞術">西乞術</persName>、<persName
+                              xml:id="Baiyibing白乙丙">白乙丙</persName>帥師伐<place xml:id="Zheng鄭"
+                              >鄭</place>，遂為<persName xml:id="JinXiangGong晉襄公"
+                              >晉襄公</persName>所禦而敗於<place xml:id="Xiao殽"
+                        >殽</place>，三帥盡獲，匹馬隻輪皆無反者。諓音踐。仡音（目）〔巨〕乙反， 仡，（目）〔巨〕乙反， <date type="regnal"
+                              >景祐</date>、<place xml:id="">殿</place>、<place xml:id=""
+                        >局</place>本都作「巨」，此誤。 又音牛乞反。」</note> 悔過自責，思惟黃髮，任用<persName
+                        xml:id="BailiXi百里奚">百里奚</persName>，卒伯西域，德列王道。 <note>[一一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「謂<place xml:id="Jin晉"
+                              >晉</place>歸三帥之後，<persName xml:id="QinMuGong秦穆公">穆公</persName>自悔，作<bibl
+                              xml:id="Qinshi秦誓"
+                              >秦誓</bibl>云：『雖則員然，尚猶詢茲黃髮，則罔所諐。』自言前有云然之過，今庶幾以道謀此黃髮賢老，則行事無所過失矣。<persName
+                              xml:id="BailiXi百里奚">百里奚</persName>本<place xml:id="Yu虞"
+                              >虞</place>人也，<persName xml:id="QinMuGong秦穆公"
+                        >穆公</persName>用之，卒成霸業。」</note> 二者禍福如此，可不慎哉！</p>
+      </div>
+      <pb n="3180"/>
+      <div>
+            <p>夫士者，國家之大寶，功名之本也。將軍一門九侯，二十朱輪，<place xml:id="Han漢"
+                  >漢</place>興以來，臣子貴盛，未嘗至此。夫物盛必衰，自然之理，唯有賢友彊輔，庶幾可以保身命，全子孫，安國家。</p>
+      </div>
+      <div>
+            <p><bibl xml:id="Shu書">書</bibl>曰「曆象日月星辰」， <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<bibl xml:id="Yushu虞書">虞書</bibl><bibl
+                              xml:id="Yaodian堯典">堯典</bibl>之辭也。」</note>
+                  此言仰視天文，俯察地理，觀日月消息，候星辰行伍，揆山川變動，參人民繇俗， <note>[二]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「繇讀與謠同。繇俗者，謂若童謠及輿人之誦。」</note>
+                  以制法度，考禍福。舉錯誖逆，咎敗將至，徵兆為之先見。 <note>[三]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「誖，乖也，音布內反。」</note> 明君恐懼修正，側身博問，轉禍為福；不可救者，即蓄備以待之，故社稷亡憂。</p>
+      </div>
+      <pb n="3181"/>
+      <div>
+            <p>竊見往者赤黃四塞，地氣大發，動土竭民，天下擾亂之徵也。彗星爭明， <note>[一]<persName xml:id="ZhangYan張晏"
+                        >張晏</persName>曰：「與日月爭明。」</note> 庶雄為桀，大寇之引也。 <note>[二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「將引致大寇也。」</note>
+                  此二者已頗效矣。城中訛言大水，奔走上城，朝廷驚駭，女孽入宮， <note>[三]<persName xml:id="YingShao應劭"
+                              >應劭</persName>曰：「謂小女<persName xml:id="ChenChigong陳持弓"
+                        >陳持弓</persName>也。」</note> 此獨未效。間者重以水泉涌溢，旁宮闕仍出。 <note>[四]<persName
+                              xml:id="LiQi李奇">李奇</persName>曰：「旁宮闕而出水也。」<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「旁，附也。仍，頻也。重音直用反。旁音薄郎反。」</note>
+                        月、<name type="tianwen">太白</name>入<name type="tianwen">東井</name>，犯<name
+                        type="tianwen">積水</name>，缺<name type="tianwen">天淵</name>。 <note>[五]<persName
+                              xml:id="ZhangYan張晏">張晏</persName>曰：「犯<name type="tianwen"
+                              >東井</name>，有水災。」<persName xml:id="MengKang孟康">孟康</persName>曰：「<name
+                              type="tianwen">積水</name>一星在<name type="tianwen">北河</name>北。<name
+                              type="tianwen">天淵</name>十星在<name type="tianwen"
+                        >北斗</name>星東南。缺者，拂其角而過之也。」</note> 日數湛於極陽之色。 <note>[六]<persName
+                              xml:id="ZhangYan張晏">張晏</persName>曰：「衆陽之宗，故為極陽也。色宜明耀，而無光也。」</note>
+                  羽氣乘宮， <note>[七]<persName xml:id="MengKang孟康">孟康</persName>曰：「<bibl
+                              xml:id="Tianwenzhi天文志">天文志</bibl>曰西方為羽。羽，少陰之位。少陰臣氣，乘於君也。」<persName
+                              xml:id="JinZhuo晉灼"
+                        >晉灼</persName>曰：「羽，北方水也，水陰為臣。宮，中央土也，土為君。今水乘土，言臣氣勝於君也。」</note>
+                        起風積雲。又錯以山崩地動，<place xml:id="He河">河</place>不用其道。 <note>[八]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「錯，雜也。言<place xml:id="He河"
+                              >河</place>徙流不從故道也。」</note> 盛冬靁電，潛龍為孽。 <note>[九]<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「黑龍冬見。」<persName
+                              xml:id="ZhangYan張晏">張晏</persName>曰：「<bibl xml:id="Wuxingzhuan五行傳"
+                              >五行傳</bibl>曰：『龍見井中，幽囚之象也。』」</note> 繼以隕星流彗，維、填上見， <note>[一０]<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「有地維星，有四填星，皆妖星也。」<persName
+                              xml:id="JinZhuo晉灼">晉灼</persName>曰：「<bibl xml:id="Tianwenzhi天文志"
+                              >天文志</bibl>四填星出四隅，去地可四丈，地維藏光亦出四隅，去地可二丈，若月始出，所見下有亂者亡，有德者昌。」</note>
+                  日蝕有背鄉。 <note>[一一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「背音步內反。鄉讀曰嚮。」</note>
+                  此亦高下易居，洪水之徵也。不憂不改，洪水乃欲盪滌，流彗乃欲埽除；改之，則有年亡期。 <note>[一二]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「言可延期，得禳災。」</note> 故屬者頗有變改，小貶邪猾， <note>[一三]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「屬者謂近時也。屬音之欲反。」</note> 日月光精，時雨氣應，
+                              <note>[一四]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「精謂光明也。」</note> 此皇天右<place xml:id="Han漢">漢</place>亡已也，
+                              <note>[一五]<persName xml:id="YanShigu顏師古"
+                  >師古</persName>曰：「右讀曰祐。」</note>何況致大改之！</p>
+      </div>
+      <pb n="3182"/>
+      <div>
+            <p>宜急博求幽隱，拔擢天士，任以大職。 <note>[一]<persName xml:id="LiQi李奇"
+                              >李奇</persName>曰：「天士，知天道者也。」<persName xml:id="JinZhuo晉灼"
+                              >晉灼</persName>曰：「<persName xml:id="YanJunping嚴君平"
+                              >嚴君平</persName>言師於天士。天士，應宿台鼎之臣也。」<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<persName xml:id="LiQi李奇">李</persName>說是也。」</note>
+                  諸闒茸佞讇，抱虛求進， <note>[二]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「闒音吐臘反。茸音人勇反。讇，古諂字。」</note>
+                  及用殘賊酷虐聞者，若此之徒，皆嫉善憎忠，壞天文，敗地理，涌趯邪陰，湛溺太陽， <note>[三]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「趯字與躍同。湛讀曰沈。」</note> 為主結怨於民， <note>[四]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「為音于偽反。」</note>
+                  宜以時廢退，不當得居位。誠必行之，凶災銷滅，子孫之福不旋日而至。政治感陰陽，猶鐵炭之低卬，見效可信者也。 <note>[五]<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「<bibl xml:id="Tianwenzhi天文志"
+                              >天文志</bibl>云『縣土炭』也，以鐵易土耳。先冬夏至，縣鐵炭於衡，各一端，令適停。冬，陽氣至，炭仰而鐵低。夏，陰氣至，炭低而鐵仰。以此候二至也。」</note>乃諸蓄水連泉，務通利之。修舊隄防，省池
+            </p>
+      </div>
+      <pb n="3183"/>
+      <div>
+            <p> 澤稅，以助損邪陰之盛。案行事，考變易，訛言之效，未嘗不至。請徵<persName xml:id="HanFang韓放">韓放</persName>，
+                              <note>[六]<persName xml:id="FuQian服虔">服虔</persName>曰：「姓名也，曉水。」</note>
+                        掾<persName xml:id="ZhouChang周敞1">周敞</persName>、<persName
+                        xml:id="WangWang王望1">王望</persName>可與圖之。</p>
+      </div>
+      <div>
+            <p><persName xml:id="WangGen王根">根</persName>於是薦<persName xml:id="LiXun李尋"
+                        >尋</persName>。<persName xml:id="LiuXin劉欣">哀帝</persName>初即位，召<persName
+                        xml:id="LiXun李尋">尋</persName>待詔黃門，使侍中衞尉<persName xml:id="FuXi傅喜"
+                        >傅喜</persName>問<persName xml:id="LiXun李尋"
+                  >尋</persName>曰：「間者水出地動，日月失度，星辰亂行，災異仍重， <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「重音直用反。」</note> 極言毋有所諱。」<persName xml:id="LiXun李尋"
+                        >尋</persName>對曰：</p>
+      </div>
+      <div>
+            <p>陛下聖德，尊天敬地，畏命重民，悼懼變異，不忘疏賤之臣，幸使重臣臨問，愚臣不足以奉明詔。竊見陛下新即位，開大明，除忌諱，博延名士，靡不並進。臣<persName
+                        xml:id="LiXun李尋">尋</persName>位卑術淺，過隨衆賢待詔， <note>[一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「過猶謬也。」</note> 食太官，衣御府，久汙<place
+                        xml:id="Yutang玉堂">玉堂</place>之署。 <note>[二]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<place xml:id="Yutangdian玉堂殿">玉堂殿</place>在<place
+                              xml:id="Weiyanggong未央宮">未央宮</place>。」</note> 比得召見，亡以自效。
+                              <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「比，頻也。」</note>
+                  復特見延問至誠，自以逢不世出之命，願竭愚心，不敢有所避，庶幾萬分有一可采。唯棄須 </p>
+      </div>
+      <pb n="3184"/>
+      <div>
+            <p> 臾之間，宿留瞽言， <note>[四]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「間謂空隙之時也。宿音先就反。留音力救反。」</note> 考之文理，稽之<bibl xml:id="Wujing五經"
+                        >五經</bibl>，揆之聖意，以參天心。夫變異之來，各應象而至，臣謹條陳所聞。</p>
+      </div>
+      <div>
+            <p><bibl xml:id="Yi易">易</bibl>曰：「縣象著明，莫大乎日月。」 <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<bibl xml:id="Shangji上繫"
+                        >上繫</bibl>之辭也。在天成象，故曰縣象也。」</note> 夫日者，衆陽之長，輝光所燭，萬里同晷，人君之表也。
+                              <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「晷，景也。」</note>
+                  故日將旦，清風發，羣陰伏，君以臨朝，不牽於色。日初出，炎以陽，君登朝，佞不行，忠直進，不蔽障。日中輝光，君德盛明，大臣奉公。日將入，專以壹，君就房，有常節。君不修道，則日失其度，晻昧亡光。
+                              <note>[三]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「晻與暗同，又音烏感反。」</note> 各有云為。其於東方作，日初出時， <note>[四]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「作，起也。日出之時，人物皆起。」</note>
+                  陰雲邪氣起者，法為牽於女謁， <note>[五]<persName xml:id="FuQian服虔">服虔</persName>曰：「謁，請也。」</note>
+                  有所畏難；日出後，為近臣亂政；日中，為大臣欺誣；日且入，為妻妾役使所營。 <note>[六]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「營謂繞也。」</note>
+                  間者日尤不精，光明侵奪失色，邪氣珥蜺數作。本起於晨，相連至昏，其日出後至日中間差瘉。 <note>[七]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「瘉與愈同。」</note>
+                  小臣不知內事，竊以日視陛下志操，衰於始初多矣。其咎恐有以守正直言而得罪者，傷嗣害世，不可不慎也。唯陛下執乾剛之德，彊志守度，毋聽女謁邪臣之態。諸保阿乳母甘言悲辭之託，斷而勿聽。勉強大
+            </p>
+      </div>
+      <pb n="3185"/>
+      <div>
+            <p> 誼，絕小不忍；良有不得已，可賜以財貨，不可私以官位，誠皇天之禁也。日失其光，則星辰放流。 <note>[八]<persName xml:id="ZhangYan張晏"
+                              >張晏</persName>曰：「日夜食則失光，晝立六尺木，不見其景也。日陽失光明，陰得施也。」</note>
+                        陽不能制陰，陰桀得作。間者<name type="tianwen">太白</name>正晝經天。宜隆德克躬，以執不軌。</p>
+      </div>
+      <div>
+            <p>臣聞月者，衆陰之長，銷息見伏，百里為品，千里立表，萬里連紀， <note>[一]<persName xml:id="MengKang孟康"
+                        >孟康</persName>曰：「品，同也，言百里內數度同也。千里則當立表度其景，萬里則繼其本所起紀其宿度也。」</note>
+                  妃后大臣諸侯之象也。朔晦正終始，弦為繩墨，望成君德，春夏南，秋冬北。間者，月數以春夏與日同道， <note>[二]<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「<name type="tianwen"
+                        >房</name>有四星，其間有三道。春夏南行，南頭第一星裏道也。秋冬北行。北頭第一星裏道也。與日同道者，謂中央道也。此三道者，日月五星之所由也。」</note>
+                        過<name type="tianwen">軒轅</name>上后受氣， <note>[三]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「<name type="tianwen">軒轅</name>南大星為后。」</note> 入<name
+                        type="tianwen">太微</name>帝廷（楊）〔揚〕光輝， <note>入<name type="tianwen"
+                        >太微</name>帝廷（楊）〔揚〕光煇， <date type="regnal">景祐</date>、<place xml:id=""
+                              >殿</place>本都作「揚」，此誤。</note> 犯上將近臣，列星皆失色，厭厭如滅， <note>[四]<persName
+                              xml:id="ZhengDe鄭德">鄭氏</persName>曰：「厭音檿桑之檿。」<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「音烏點反。」</note> 此為母后與政亂朝，
+                              <note>[五]<persName xml:id="YanShigu顏師古">師古</persName>曰：「與讀曰豫。」</note>
+                  陰陽俱傷，兩不相便。外臣不知朝事，竊信天文即如此，近臣已不足杖矣。 <note>[六]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「杖謂倚任也。」</note> 屋大柱小，可為寒心。 <note>[七]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「言天下事重大，臣之任當得賢能者。」</note>
+                  唯陛下親求賢士，無彊所惡，以崇社稷，尊彊本朝。 <note>[八]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「邪佞之人誠可賤惡，勿得寵異，令其盛彊也。」</note>
+            </p>
+      </div>
+      <pb n="3186"/>
+      <div>
+            <p>臣聞五星者，五行之精，五帝司命，應王者號令為之節度。<name type="tianwen"
+                        >歲星</name>主歲事，為統首，號令所紀，今失度而盛，此君指意欲有所為，未得其節也。又<name type="tianwen"
+                        >填星</name>不避<name type="tianwen">歲星</name>者，后帝共政，相留於<name type="tianwen"
+                        >奎</name>、<name type="tianwen">婁</name>， <note>[一]<persName
+                              xml:id="ZhangYan張晏">張晏</persName>曰：「<name type="tianwen"
+                              >歲星</name>為帝，<name type="tianwen">填星</name>為女主也。」</note> 當以義斷之。<name
+                        type="tianwen">（營）〔熒〕惑</name>往來亡常， <note><name type="tianwen"
+                        >（營）〔熒〕惑</name>往來亡常， <persName xml:id="LiuBan劉攽"
+                              >劉攽</persName>說「營」當作「熒」。按<place xml:id="">殿</place>本作「熒」。</note>
+                  周歷兩宮，作態低卬， <note>[二]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「兩宮謂<name
+                              type="tianwen">紫微</name>、<name type="tianwen">太微</name>。」</note>
+                        入天門，上明堂，貫<name type="tianwen">尾</name>亂宮。 <note>[三]<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「<name type="tianwen"
+                              >角</name>兩星為天門，<name type="tianwen">房</name>為明堂，<name type="tianwen"
+                              >尾</name>為後宮。」<persName xml:id="SuLin蘇林"
+                              >蘇林</persName>曰：「常占（常）〔當〕從<name type="tianwen">尾</name>北，
+                              常占（常）〔當〕從<name type="tianwen">尾</name>北， <date type="regnal"
+                              >景祐</date>、<place xml:id="">殿</place>本都作「當」，<persName
+                              xml:id="WangXianqian王先謙">王先謙</persName>說作「當」是。 而今貫之，<name
+                              type="tianwen">尾</name>為後宮之義也。」</note>
+                  <name type="tianwen">太白</name>發越犯庫， <note>[四]<persName xml:id="ZhangYan張晏"
+                              >張晏</persName>曰：「發越，疾貌也。庫，天庫也。」<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「<name type="tianwen">奎</name>為天庫。」</note>
+                  兵寇之應也。貫黃龍，入帝庭， <note>[五]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「黃龍，<name
+                              type="tianwen">軒轅</name>也。」</note> 當門而出，隨<name type="tianwen"
+                        >熒惑</name>入天門，至<name type="tianwen">房</name>而分，欲與<name type="tianwen"
+                        >熒惑</name>為患，不敢當明堂之精。此陛下神靈，故禍亂不成也。<name type="tianwen">熒惑</name>厥弛，
+                              <note>[六]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「厥弛，動搖貌。」</note>
+                  佞巧依勢，微言毀譽，進類蔽善。 <note>[七]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「進其黨類而擁蔽善人。」</note>
+                  <name type="tianwen">太白</name>出端門， <note>[八]<persName xml:id="MengKang孟康"
+                              >孟康</persName>曰：「端門，<name type="tianwen">太微</name>正南門。」</note>
+                        臣有不臣者。<name type="tianwen">火</name>入室，<name type="tianwen">金</name>上堂，
+                              <note>[九]<persName xml:id="ZhangYan張晏">張晏</persName>曰：「<name
+                              type="tianwen">熒惑</name>入<name type="tianwen">營室</name>也。」<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「<name type="tianwen"
+                              >火</name>入室謂<name type="tianwen">熒惑</name>歷兩宮也。<name type="tianwen"
+                              >金</name>謂<name type="tianwen">太白</name>也。上堂，入<name type="tianwen"
+                              >房星</name>也。」</note> 不以時解，其憂凶。<name type="tianwen">填</name>、<name
+                        type="tianwen">歲</name>相守，又主內亂。宜察蕭牆之內， </p>
+      </div>
+      <pb n="3187"/>
+      <div>
+            <p> 毋忽親疏之微， <note>[一０]<persName xml:id="YanShigu顏師古">師古</persName>曰：「微謂其事微。」</note>
+                  誅放佞人，防絕萌牙，以盪滌濁濊，消散積惡， <note>[一一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「濊與穢同也。」</note> 毋使得成禍亂。<name type="tianwen"
+                        >辰星</name>主正四時，當效於四仲；四時失序，則<name type="tianwen"
+                  >辰星</name>作異。今出於歲首之孟，天所以譴告陛下也。政急則出蚤，政緩則出晚，政絕不行則伏不見而為彗茀。 <note>[一二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「茀與孛同。」</note>
+                  四孟皆出，為易王命；四季皆出，星家所諱。今幸獨出寅孟之月，蓋皇天所以篤右陛下也， <note>[一三]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「篤，厚也。右與祐同。祐猶助也。」</note> 宜深自改。</p>
+      </div>
+      <pb n="3188"/>
+      <div>
+            <p>治國故不可以戚戚，欲速則不達。經曰：「三載考績，三考黜陟。」 <note>[一]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<bibl xml:id="Yushu虞書">虞書</bibl><bibl
+                              xml:id="Shundian舜典">舜典</bibl>之辭也，言三年一考功績，三考一行黜陟也。」</note>
+                  加以號令不順四時，既往不咎，來事之師也。間者春三月治大獄，時賊陰立逆，恐歲小收；季夏舉兵法，時寒氣應，恐後有霜雹之災；秋月行封爵，其月土濕奧，
+                              <note>[二]<persName xml:id="ZhangYan張晏"
+                              >張晏</persName>曰：「違於月令也。」<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「奧，溫也，音於六反。」</note> 恐後有雷雹之變。夫以喜怒賞罰，而不顧時禁，雖有<persName
+                        xml:id="Yao堯">堯</persName><persName xml:id="Shun舜"
+                        >舜</persName>之心，猶不能致和。善言天者，必有效於人。設上農夫而欲冬田，肉袒深耕，汗出種之，然猶不生者，非人心不至，天時不得也。<bibl
+                        xml:id="Yi易">易</bibl>曰：「時止則止，時行則行，動靜不失其時，其道光明。」 <note>[三]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「此<bibl xml:id="Gengua艮卦"
+                              >艮卦</bibl>象辭也。言動止隨時則有光明也。」</note>
+                  <bibl xml:id="Shu書">書</bibl>曰：「敬授民時。」 <note>[四]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<bibl xml:id="Yushu虞書">虞書</bibl><bibl
+                              xml:id="Yaodian堯典">堯典</bibl>之辭也。言授下以四時之命，不可不敬也。」</note>
+                  故古之王者，尊天地，重陰陽，敬四時，嚴月令。順之以善政，則和氣可立致，猶枹鼓之相應也。 <note>[五]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「枹，擊鼓之椎也，音孚。其字從木也。」</note>
+                  今朝廷忽於時月之令，諸侍中尚書近臣宜皆令通知月令之意，設羣下請事；若陛下出令有謬於時者，當知爭之，以順時氣。</p>
+      </div>
+      <pb n="3189"/>
+      <div>
+            <p>臣聞五行以水為本，其星玄武<name type="tianwen">婺女</name>，天地所紀，終始所生。 <note>[一]<persName
+                              xml:id="MengKang孟康">孟康</persName>曰：「<name type="tianwen"
+                              >婺女</name>，<name type="tianwen">須女</name>也，北方天地之統，陰陽之終始也。」</note>
+                  水為準平，王道公正修明，則百川理，落脈通； <note>[二]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「落謂經絡也。」</note> 偏黨失綱，則踊溢為敗。<bibl xml:id="Shu書"
+                  >書</bibl>云「水曰潤下」， <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<bibl
+                              xml:id="Zhoushu周書">周書</bibl><bibl xml:id="Hongfan洪範"
+                        >洪範</bibl>之辭也。」</note> 陰動而卑，不失其道。天下有道，則<place xml:id="He河"
+                        >河</place>出圖，<place xml:id="Luo洛">洛</place>出書，故<place xml:id="He河"
+                        >河</place>、<place xml:id="Luo洛">洛</place>決溢，所為最大。今<place xml:id="Ru汝"
+                        >汝</place>、<place xml:id="Ying潁">潁</place>畎澮皆川水漂踊，與雨水並為民害，
+                              <note>[四]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「畎澮，小流也。<persName xml:id="XuShen許慎"
+                        >許慎</persName>說廣尺深尺曰畎，廣二尋深二仞謂之澮。川者，水貫穿而通流也。畎音工犬反。澮音工外反。」</note> 此<bibl
+                        xml:id="Shi詩">詩</bibl>所謂「爗爗震電，不寧不令，百川沸騰」者也。 <note>[五]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「<bibl xml:id="Shi詩">詩</bibl><bibl
+                              xml:id="Xiaoya小雅">小雅</bibl><bibl xml:id="Shiyuezhijiao十月之交"
+                              >十月之交</bibl>之詩也。爗爗，光貌。寧，安；令，善也。言陰陽失和，雷電失序，不安不善，故百川又沸騰。」</note>
+                        其咎在於<persName xml:id="Huangfu皇甫">皇甫</persName>卿士之屬。 <note>[六]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「<persName xml:id="Huangfu皇甫"
+                              >皇甫</persName>卿士，<place xml:id="Zhoushi周室">周室</place>女寵之族也，解在<bibl
+                              xml:id="Liuxiangzhuan劉向傳">劉向傳</bibl>。」</note> 唯陛下留意詩人之言，少抑外親大臣。</p>
+      </div>
+      <div>
+            <p>臣聞地道柔靜，陰之常義也。地有上中下，其上位震，應妃后不順，中位應大臣作亂，下位應庶民離畔。震或於其國，國君之咎也。四方中央連國歷州俱動者，其異最 </p>
+      </div>
+      <pb n="3190"/>
+      <div>
+            <p> 大。間者<place xml:id="Guandong關東"
+                  >關東</place>地數震，五星作異，亦未大逆，宜務崇陽抑陰，以救其咎；固志建威，閉絕私路，拔進英雋，退不任職，以彊本朝。夫本彊則精神折衝，本弱則招殃致凶，為邪謀所陵。
+                              <note>[一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「折衝，言有欲衝突為害者，則能折挫之。」</note> 聞往者<persName xml:id="LiuAn劉安2"
+                        >淮南王</persName>作謀之時，其所難者，獨有<persName xml:id="JiAn汲黯"
+                        >汲黯</persName>，〔以為〕<persName xml:id="GongsunHong公孫弘">公孫弘</persName>等不足言也。
+                              <note>〔以為〕<persName xml:id="GongsunHong公孫弘">公孫弘</persName>等不足言也。 <date
+                              type="regnal">景祐</date>、<place xml:id="">殿</place>本都有「以為」二字。</note>
+                  <persName xml:id="GongsunHong公孫弘">弘</persName>，<place xml:id="Han漢"
+                        >漢</place>之名相，於今亡比，而尚見輕，何況亡<persName xml:id="GongsunHong公孫弘"
+                  >弘</persName>之屬乎？故曰朝廷亡人，則為賊亂所輕，其道自然也。天下未聞陛下奇策固守之臣也。語曰，何以知朝廷之衰？人人自賢，不務於通人，故世陵夷。
+                              <note>[二]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「通人謂薦達賢材也。陵夷謂頹替也。」</note>
+            </p>
+      </div>
+      <div>
+            <p>馬不伏歷，不可以趨道；士不素養，不可以重國。 <note>[一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「伏歷謂伏槽歷而秣之也。趨讀曰趣。」</note>
+                  <bibl xml:id="Shi詩">詩</bibl>曰「濟濟多士，<persName xml:id="ZhouWenWang周文王"
+                  >文王</persName>以寧」， <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<bibl
+                              xml:id="Daya大雅">大雅</bibl><bibl xml:id="Wenwang文王"
+                        >文王</bibl>之詩也。已解於上。」</note>
+                  <persName xml:id="KongZi孔子">孔子</persName>曰「十室之邑，必有忠信」， <note>[三]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「<bibl xml:id="Lunyu論語"
+                              >論語</bibl>載<persName xml:id="KongZi孔子">孔子</persName>之言也。」</note>
+                  非虛言也。陛下秉四海之衆，曾亡柱幹之固守聞於四境，殆開之不廣，取之不明，勸之不篤。傳曰：「土之美者善養禾，君之明者善養士。」中人皆可使為君子。
+                              <note>[四]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「言在所以勸厲之。」</note> 詔書進賢良，赦小過，無求備，以博聚英儁。如近世<persName
+                        xml:id="GongYu貢禹2">貢禹</persName>，以言事忠切蒙尊榮，當此之時，士厲身立名者多。<persName
+                        xml:id="Yu禹">禹</persName>死之後，日日以衰。及京兆尹<persName xml:id="WangZhang王章2"
+                        >王章</persName>坐言事誅滅，智者結舌， <note>[五]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「不敢出言也。」</note> 邪偽並興，外戚顓命， <note>[六]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「顓與專同。」</note> 君臣隔塞，至絕繼嗣，女宮作亂。
+                              <note>[七]<persName xml:id="YanShigu顏師古">師古</persName>曰：「謂<persName
+                              xml:id="ZhaoFeiyan趙飛燕">趙飛燕</persName>姊妺也。」</note> 此行事之敗，誠可畏而悲也。</p>
+      </div>
+      <pb n="3191"/>
+      <div>
+            <p>本在積任母后之家，非一日之漸，往者不可及，來者猶可追也。先帝大聖，深見天意昭然，使陛下奉承天統，欲矯正之也。宜少抑外親，選練左右，舉有德行道術通明之士充備天官，然後可以輔聖德，保帝位，承大宗。下至郎吏從官，行能亡以異，又不通一藝，及博士無文雅者，宜皆使就南畝，
+                              <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「遣歸農業。」</note>
+                  以視天下， <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「視讀曰示。」</note>
+                  明朝廷皆賢材君子，於以重朝尊君，滅凶致安，此其本也。臣自知所言害身，不辟死亡之誅，唯財留神，反覆覆愚臣之言。 <note>[三]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「財與裁同，謂裁量而反思之。」</note>
+            </p>
+      </div>
+      <pb n="3192"/>
+      <div>
+            <p>是時<persName xml:id="LiuXin劉欣">哀帝</persName>初立，<persName xml:id="LiuAo劉鰲"
+                        >成帝</persName>外家<persName xml:id="WangShi王氏">王氏</persName>未甚抑黜，而帝外家<persName
+                        xml:id="Ding丁">丁</persName>、<persName xml:id="Fu傅"
+                        >傅</persName>新貴，祖母<persName xml:id="FuTaihou傅太后"
+                        >傅太后</persName>尤驕恣，欲稱尊號。丞相<persName xml:id="KongGuang孔光"
+                        >孔光</persName>、大司空<persName xml:id="ShiDan師丹"
+                        >師丹</persName>執政諫爭，久之，上不得已，遂免<persName xml:id="KongGuang孔光"
+                        >光</persName>、<persName xml:id="ShiDan師丹">丹</persName>而尊<persName
+                        xml:id="FuTaihou傅太后">傅太后</persName>。語在<bibl xml:id="Danzhuan丹傳"
+                        >丹傳</bibl>。上雖不從<persName xml:id="LiXun李尋"
+                        >尋</persName>言，然采其語，每有非常，輒問<persName xml:id="LiXun李尋">尋</persName>。<persName
+                        xml:id="LiXun李尋">尋</persName>對屢中，遷黃門侍郎。以<persName xml:id="LiXun李尋"
+                        >尋</persName>言且有水災，故拜<persName xml:id="LiXun李尋">尋</persName>為騎都尉，使護<place
+                        xml:id="He河">河</place>隄。</p>
+      </div>
+      <div>
+            <p>初，<persName xml:id="LiuAo劉鰲">成帝</persName>時，<place xml:id="Qi齊">齊</place>人<persName
+                        xml:id="GanZhongke甘忠可">甘忠可</persName>詐造<bibl xml:id="Tianguanli天官曆"
+                        >天官曆</bibl>、<bibl xml:id="Baoyuantaipingjing包元太平經"
+                        >包元太平經</bibl>十二卷，以言「<persName xml:id="Hanjia漢家"
+                        >漢家</persName>逢天地之大終，當更受命於天，天帝使真人<persName xml:id="Chijingzi赤精子"
+                        >赤精子</persName>，下教我此道。」<persName xml:id="GanZhongke甘忠可"
+                        >忠可</persName>以教<place xml:id="Zhongping重平">重平</place><persName
+                        xml:id="XiaHeliang夏賀良">夏賀良</persName>、<place xml:id="Rongqiu容丘"
+                        >容丘</place><persName xml:id="DingGuangshi丁廣世">丁廣世</persName>、
+                              <note>[一]<persName xml:id="FuQian服虔">服虔</persName>曰：「<place
+                              xml:id="Zhongping重平">重平</place>，<place xml:id="Bohai勃海"
+                              >勃海</place>縣也。」<persName xml:id="JinZhuo晉灼">晉灼</persName>曰：「<place
+                              xml:id="Rongqiu容丘">容丘</place>，<place xml:id="DongHai東海"
+                        >東海</place>縣也。」</note>
+                  <place xml:id="Dongjun東郡">東郡</place><persName xml:id="GuoChang郭昌3"
+                        >郭昌</persName>等，中壘校尉<persName xml:id="LiuXiang劉向1">劉向</persName>奏<persName
+                        xml:id="GanZhongke甘忠可">忠可</persName>假鬼神罔上惑衆，下獄治服，未斷病死。<persName
+                        xml:id="XiaHeliang夏賀良">賀良</persName>等坐挾學<persName xml:id="GanZhongke甘忠可"
+                        >忠可</persName>書以不敬論，後<persName xml:id="XiaHeliang夏賀良"
+                        >賀良</persName>等復私以相教。<persName xml:id="LiuXin劉欣"
+                        >哀帝</persName>初立，司隸校尉<persName xml:id="XieGuang解光"
+                        >解光</persName>亦以明經通災異得幸，白<persName xml:id="XiaHeliang夏賀良"
+                        >賀良</persName>等所挾<persName xml:id="GanZhongke甘忠可"
+                        >忠可</persName>書。事下奉車都尉<persName xml:id="LiuXin劉歆1">劉歆</persName>，<persName
+                        xml:id="LiuXin劉歆1">歆</persName>以為不合<bibl xml:id="Wujing五經"
+                        >五經</bibl>，不可施行。而<persName xml:id="LiXun李尋">李尋</persName>亦好之。<persName
+                        xml:id="XieGuang解光">光</persName>曰：「前<persName xml:id="LiuXin劉歆1"
+                        >歆</persName>父<persName xml:id="LiuXiang劉向1">向</persName>奏<persName
+                        xml:id="GanZhongke甘忠可">忠可</persName>下獄，<persName xml:id="LiuXin劉歆1"
+                        >歆</persName>安肯通此道？」時<persName xml:id="GuoChang郭昌3">郭昌</persName>為<place
+                        xml:id="ChangAn長安">長安</place>令，勸<persName xml:id="LiXun李尋"
+                        >尋</persName>宜助<persName xml:id="XiaHeliang夏賀良">賀良</persName>等。<persName
+                        xml:id="LiXun李尋">尋</persName>遂白<persName xml:id="XiaHeliang夏賀良"
+                        >賀良</persName>等皆待詔黃門，數召見，陳說「<place xml:id="Han漢">漢</place>曆中衰，當更受命。<persName
+                        xml:id="LiuAo劉鰲">成帝</persName>不應天命，故絕嗣。今陛下久疾，變異屢數， <note>[二]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「數音所角反。」</note>
+                  天所以譴告人也。宜急改元易號，乃得延年益壽，皇子生，災異息矣。得道不得行，咎殃且亡， <note>[三]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「言知道不能行之，必有殃咎，將至滅亡。」</note> 不有洪水將出，災火且起，滌盪（人民）〔民人〕。」
+                        <note>滌盪（人民）〔民人〕。 <date type="regnal">景祐</date>、<place xml:id=""
+                        >殿</place>本都作「民人」。</note>
+            </p>
+      </div>
+      <pb n="3193"/>
+      <div>
+            <p><persName xml:id="LiuXin劉欣">哀帝</persName>久寢疾，幾其有益， <note>[一]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「幾讀曰冀。」</note> 遂從<persName
+                        xml:id="XiaHeliang夏賀良">賀良</persName>等議。於是詔制丞相御史：「蓋聞<bibl xml:id="Shangshu尚書"
+                        >尚書</bibl>『五曰考終命』， <note>[二]<persName xml:id="YanShigu顏師古"
+                              >師古</persName>曰：「<bibl xml:id="Zhoushu周書">周書</bibl><bibl
+                              xml:id="Hongfan洪範">洪範</bibl>五福之數也。言得壽考而終其命也。」</note>
+                  言大運壹終，更紀天元人元，考文正理，推曆定紀，數如甲子也。朕以眇身入繼太祖，承皇天，總百僚，子元元，未有應天心之效。即位出入三年，災變數降，日月失度，星辰錯謬，高下貿易，
+                              <note>[三]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「言山崩川竭也。」</note> 大異連仍，盜賊並起。 <note>[四]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「仍，頻也。」</note> 朕甚懼焉，戰戰兢兢，唯恐陵夷。
+                              <note>[五]<persName xml:id="YanShigu顏師古">師古</persName>曰：「慮漸滅亡也。」</note>
+                        惟<place xml:id="Han漢">漢</place>興至今二百載，曆紀開元，皇天降非材之右，<place xml:id="Hanguo漢國"
+                        >漢國</place>再獲受命之符， <note>[六]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「右讀曰祐。祐，助也。帝自言不材而得天助也。」</note>
+                        朕之不德，曷敢不通夫受天之元命，必與天下自新。其大赦天下，以<date type="regnal">建平</date>二年為<date
+                        type="regnal">太初</date>（元將）元年， <note>以<date type="regnal">建平</date>二年為<date
+                              type="regnal">太初</date>（元將）元年， <date type="regnal"
+                              >景祐</date>、<place>殿</place>本都無「元將」二字。</note> 號曰陳<persName
+                        xml:id="LiuXin劉欣">聖劉太平皇帝</persName>。漏刻以百二十為度。布告天下，使明知之。」後月餘，上疾自若。
+                              <note>[七]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「自若言如故也。」</note>
+                  <persName xml:id="XiaHeliang夏賀良">賀良</persName>等復欲妄變政事，大臣爭以為不可許。<persName
+                        xml:id="XiaHeliang夏賀良">賀良</persName>等奏言大臣皆不知天命，宜退丞相御史，以<persName
+                        xml:id="XieGuang解光">解光</persName>、<persName xml:id="LiXun李尋"
+                        >李尋</persName>輔政。上以其言亡驗，遂下<persName xml:id="XiaHeliang夏賀良"
+                  >賀良</persName>等吏，而下詔曰：「朕獲保宗廟，為政不德，變異屢仍，恐懼戰栗，未知所繇。 <note>[八]<persName
+                              xml:id="YanShigu顏師古">師古</persName>曰：「繇讀與由同。」</note> 待詔<persName
+                        xml:id="XiaHeliang夏賀良">賀良</persName>等建言改元易號，增益漏刻，可以永安國家。朕信道不篤，過聽其言，
+                              <note>[九]<persName xml:id="YanShigu顏師古">師古</persName>曰：「過，誤也。」</note>
+                  幾為百姓獲福。 <note>[一０]<persName xml:id="YanShigu顏師古">師古</persName>曰：「幾讀曰冀。」</note>
+                        卒無嘉應，久旱為災。以問<persName xml:id="XiaHeliang夏賀良"
+                  >賀良</persName>等，對當復改制度，皆背經誼，違聖制，不合時宜。夫過而不改，是為過矣。六月甲子詔書，非赦令也，皆蠲除之。
+                              <note>[一一]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「唯赦令不改，餘皆除之。」</note>
+                  <note>六月甲子詔書，非赦令也，皆蠲除之。[一一] 注[一一]原在「也」字下，改從<date type="regnal">景祐</date>、<place
+                              xml:id="">殿</place>本。</note>
+                  <persName xml:id="XiaHeliang夏賀良">賀良</persName>等反道惑衆，姦態當窮竟。」皆下獄，光祿勳<persName
+                        xml:id="PingDang平當">平當</persName>、光祿大夫<persName xml:id="MaoMoru毛莫如"
+                        >毛莫如</persName>與御史中丞、廷尉雜治，當<persName xml:id="XiaHeliang夏賀良"
+                  >賀良</persName>等執左道，亂朝政， <note>[一二]<persName xml:id="YanShigu顏師古"
+                        >師古</persName>曰：「當謂處正其罪名。」</note> 傾覆國家，誣罔主上，不道。<persName xml:id="XiaHeliang夏賀良">賀良</persName>等皆伏誅。<persName xml:id="LiXun李尋">尋</persName>及<persName xml:id="XieGuang解光">解光</persName>減死一等，徙 </p>
+      </div>
+      <pb n="3194"/>
+      <div>
+            <p> <place xml:id="Dunhuangjun敦煌郡">敦煌郡</place>。</p>
+      </div>
+      <div>
+            <p>贊曰：幽贊神明，通合天人之道者，莫著乎<bibl xml:id="Yi易">易</bibl>、<bibl xml:id="Chunqiu春秋">春秋</bibl>。 <note>[一]<persName xml:id="YanShigu顏師古">師古</persName>曰：「幽，深；贊，明也。」</note> 然<persName xml:id="ZiGong子贛">子贛</persName>猶云「夫子之文章可得而聞，
+                  <note>[二]<persName xml:id="YanShigu顏師古">師古</persName>曰：「謂<bibl xml:id="Yiciwenyan易辭文言">易辭文言</bibl>及<bibl xml:id="Chunqiu春秋">春秋</bibl>之屬是。」</note> 夫子之言性與天道不可得而聞」已矣。
+                  <note>[三]<persName xml:id="YanShigu顏師古">師古</persName>曰：「性命玄遠，天道幽深，故<persName xml:id="KongZi孔子">孔子</persName>不言之也。此皆<bibl xml:id="Lunyu論語">論語</bibl>述<persName xml:id="Zigong子貢">子貢</persName>之言也。」</note> <place xml:id="Han漢">漢</place>興推陰陽言災異者，<persName xml:id="LiuChe劉徹">孝武</persName>時有<persName xml:id="DongZhongshu董仲舒">董仲</persName> </p>
+      </div>
+      <pb n="3195"/>
+      <div>
+            <p> <persName xml:id="DongZhongshu董仲舒">舒</persName>、<persName xml:id="XiahouShichang夏侯始昌">夏侯始昌</persName>，<persName xml:id="LiuFuling劉弗陵">昭</persName>、<persName xml:id="LiuBingyi劉病已">宣</persName>則<persName xml:id="SuiHong眭弘">眭孟</persName>、<persName xml:id="XiahouSheng夏侯勝">夏侯勝</persName>，<persName xml:id="LiuShi劉始">元</persName>、<persName xml:id="LiuAo劉鰲">成</persName>則<persName xml:id="JingFang京房2">京房</persName>、<persName xml:id="YiFeng翼奉">翼奉</persName>、<persName xml:id="LiuXiang劉向1">劉向</persName>、<persName xml:id="GuYong谷永">谷永</persName>，<persName xml:id="LiuXin劉欣">哀</persName>、<persName xml:id="LiuKan劉衎">平</persName>則<persName xml:id="LiXun李尋">李尋</persName>、<persName xml:id="TianZhongshu田終術">田終術</persName>。此其納說時君著明者也。察其所言，仿佛一端。
+                        <note>[四]<persName xml:id="YanShigu顏師古">師古</persName>曰：「仿讀曰髣。佛與髴同。」</note> 假經設誼，依託象類，或不免乎「億則屢中」。
+                  <note>[五]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<bibl xml:id="Lunyu論語">論語</bibl>稱<persName xml:id="KongZi孔子">孔子</persName>曰『<persName xml:id="Zigong子貢">賜</persName>不受命，而貨殖焉，億則屢中』，故此贊引之，言<persName xml:id="DongZhongshu董仲舒">仲舒</persName>等億度，所言既多，故時有中者耳，非必道術皆通明也。億音於力反。」</note>
+                  <persName xml:id="DongZhongshu董仲舒">仲舒</persName>下吏，<persName xml:id="">夏侯</persName>囚執，<persName xml:id="SuiHong眭弘">眭孟</persName>誅戮，<persName xml:id="LiXun李尋">李尋</persName>流放，此學者之大戒也。<persName xml:id="JingFang京房2">京房</persName>區區，不量淺深，危言刺譏，構怨彊臣，罪辜不旋踵，亦不密以失身，悲夫！
+                        <note>[六]<persName xml:id="YanShigu顏師古">師古</persName>曰：「<bibl xml:id="Yi易">易</bibl><bibl xml:id="Shangji上繫">上繫</bibl>辭曰『君不密則失臣，臣不密則失身』，故贊引之也。」</note>
+            </p>
+      </div>
+</xml>

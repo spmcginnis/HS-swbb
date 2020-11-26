@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="zh-lzh-Hant">漢書數文竝本</title>
+            <title xml:lang="zh-lzh-Latn-pinyin">Hanshu shuwen bing ben</title>
+            <title xml:lang="en">The History of the [Western] Han (digital-literary combined edition)</title>
+            <author>The majority of the work was written and compiled by <name xml:id="BanGu班固" xml:lang="zh-cnm-Latn-pinyin">Ban Gu</name><name xml:id="BanGu班固" xml:lang="zh-Hant">班固</name> (32-92 CE).</author>
+            <author>The work was brought to completion by <name xml:lang="zh-cnm-Latn-pinyin" xml:id="BanZhao班昭">Ban Zhao</name><name xml:id="BanZhao班昭" xml:lang="zh-Hant">班昭</name>.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digital Literary Combined Edition</edition>
+            <editor>Based on the print edition edited by <name xml:id="YangJialuo楊家駱" xml:lang="zh-cnm-Latn-pinyin">Yang Jialuo</name><name xml:id="YangJialuo楊家駱" xml:lang="zh-Hant">楊家駱</name>, which is in turn based upon the <title xml:lang="zh-lzh-Latn-pinyin">Hanshu buzhu</title><title xml:lang="zh-lzh-Hant">漢書補注</title> edited and given commentary by <name xml:lang="zh-cnm-Latn-pinyin" xml:id="WangXianqian王先謙">Wang Xianqian</name><name xml:id="WangXianqian王先謙" xml:lang="zh-Hant">王先謙</name>.</editor>
+            <editor>First TEI edition edited by <name xml:id="spm">Scott Paul McGinnis</name><name xml:id="spm" xml:lang="zh-Hant">馬吉寧</name>.</editor>
+            <funder>Digital Humanities at Berkeley</funder>
+            <funder>The Andrew W. Mellon Foundation</funder>
+            <principal><name xml:id="spm">Scott Paul McGinnis</name></principal>
+         </editionStmt>
+         <extent><!-- Might want to give this more detail by adding <measure/> to the schema, as in the samples provided by the TEI guidelines for <extent/> -->
+            100 chapters (juan 卷), [x] pages, [x] Chinese glyphs.
+         </extent>
+         <publicationStmt>
+            <p>Eventually to be published under an open license, e.g. Creative Commons, Berkeley Distribution or MIT open license.</p> 
+         </publicationStmt>
+         <sourceDesc>
+            <p>Based on the <title xml:id="HS">Han shu</title> available through the Acadamia Sinica Chinese text database at [...], collated with the Dingwen printing of <name xml:id="YangJialuo楊家駱">Yang Jialuo</name>'s edition of the <title xml:id="HS">Han shu</title>, which is in turn based upon the <title xml:id="HSBZ">Han shu buzhu</title> recension of <name xml:id="WangXianqian王先謙">Wang Xianqian</name>.  Names, locations, and textual citations are encoded based upon the highlighting provided in those two print editions.  Where there is a conflict between them, <name xml:id="YangJialuo楊家駱">Yang Jialuo</name>'s edition is given preference.</p>
+         </sourceDesc>
+      </fileDesc>
+     <!-- TEI header filled out to this point.  spm 20150723 -->
+     <encodingDesc>
+        <p>[A description of the encoding standards and practices employed in the creation of this TEI edition.]</p>
+        <projectDesc>
+           <p></p>
+        </projectDesc>
+        <editorialDecl>
+           <p></p>
+        </editorialDecl>
+        <refsDecl>
+           <p>[Describe the way references are made, e.g. chapter and page number.]</p>
+           <p>[The profileDesc element contains an optional creation element, followed by any number of additional elements taken from the model.profileDescPart class.]</p>
+        </refsDecl>
+     </encodingDesc>
+     <profileDesc>
+        <langUsage><!-- A description of the languages used in the text. -->
+           <language ident=""></language>
+        </langUsage>
+        <calendarDesc><p>[(calendar description) contains a description of the calendar system used in any dating expression found in the text.]</p></calendarDesc>
+     </profileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <!-- This body section will consist of 100 xml inclusion links, one for each chapter.  It is also possible that the titles of the chapters will be listed here, though it may be desirable to put those in the xml files for the chapters (i.e. the ones to which the xml inclusion links point. -->
+         <div></div>
+      </body>
+  </text>
+</TEI>
