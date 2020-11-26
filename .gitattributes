@@ -1,2 +1,2 @@
-xml/ -linguist-detectable
-*.xml -linguist-detectable
+xml/ linguist-detectable
+*.xml linguist-detectable
